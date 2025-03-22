@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<string name="Parse_error_dlg_text">Došlo je do problema pri analiziranju paketa. (%1$s)</string>
+	<string name="Parse_error_dlg_text">Došlo je do problema pri analiziranju paketa.</string>
 	<string name="abc_action_bar_home_description">Idi na početnu</string>
 	<string name="abc_action_bar_up_description">Idi gore</string>
 	<string name="abc_action_menu_overflow_description">Dodatne opcije</string>
@@ -312,7 +312,7 @@
 	<string name="install_completed_pure_open_tip_title">Uključite Mi Protect kako biste blokirali rizične aplikacije i osigurali svoju sigurnost.</string>
 	<string name="install_confirm_question">Želite li instalirati ovu aplikaciju?</string>
    <string name="install_confirm_question_update">Želite li ažurirati ovu aplikaciju?</string>
-   <string name="install_confirm_question_update_owner_reminder">&lt;p>Želite li ažurirati ovu aplikaciju s &lt;b>%1$s&lt;/b>?&lt;/p>&lt;p>Ova aplikacija obično prima ažuriranja s &lt;b>%2 $s&lt;/b>. Ažuriranjem iz drugog izvora, u budućnosti možete primati ažuriranja iz bilo kojeg izvora na svom telefonu. Funkcionalnost aplikacije može se promijeniti.&lt;/p></string>
+   <string name="install_confirm_question_update_owner_reminder">&lt;p>Želite li ažurirati ovu aplikaciju s &lt;b>%1$s&lt;/b>?&lt;/p>&lt;p>Ova aplikacija obično prima ažuriranja s &lt;b>%2$s&lt;/b>. Ažuriranjem iz drugog izvora, u budućnosti možete primati ažuriranja iz bilo kojeg izvora na svom telefonu. Funkcionalnost aplikacije može se promijeniti.&lt;/p></string>
    <string name="install_done">Aplikacija je instalirana.</string>
    <string name="install_failed">Aplikacija nije instalirana.</string>
    <string name="install_failed_blocked">Instalacija paketa je blokirana.</string>

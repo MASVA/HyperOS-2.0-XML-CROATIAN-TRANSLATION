@@ -339,6 +339,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="force_rest">Koristite prekide sesije</string>
   <string name="force_rest_summary">Napravite obavezne pauze kada sesije dosegnu postavljeno ograničenje</string>
   <string name="force_rest_time">Trajanje stanke</string>
+  <string name="forced_rest_notify_content">%1$s %2$s</string>
   <string name="format_app_usage_statistics">Korištenje aplikacije na %s</string>
   <string name="format_category_usage_statistics">Korištenje aplikacije po kategoriji na %s</string>
   <string name="format_equal_last_interval">Isto kao %s</string>
@@ -466,6 +467,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="less_than_last_week">%s manje nego prošli tjedan</string>
   <string name="less_than_last_week_visual_health">Nezdravo gledanje zaslona bilo je %s manje nego prošli tjedan</string>
   <string name="less_than_one">&lt; %d</string>
+  <string name="limit_know">Razumijem</string>
   <string name="limit_usage">Ograniči korištenje</string>
   <string name="loading_text">Samo trenutak…</string>
   <string name="lock_app_input_invalid_car">Unesite samo važeće znakove</string>
@@ -516,9 +518,11 @@ nije generirana u Drugom prostoru"</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_appcompat_edit">Uredi</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -904,9 +908,11 @@ Povući suglasnost sada?"</string>
   <string name="sea_otter">Morska vidra</string>
   <string name="seal_info">Tuljani su morski sisavci koji se mogu brzo kretati dubokim vodama, hraneći se ribom i škampima.</string>
   <string name="search_anti_flicker_mode">DC prigušivanje</string>
+  <string name="search_app_empty">Nisu pronađene povezane aplikacije</string>
   <string name="search_app_name">Traži aplikacije</string>
   <string name="search_app_tips">Traži aplikacije</string>
   <string name="search_empty">Nema pronađenih aplikacija</string>
+  <string name="search_category_empty">Nisu pronađene povezane kategorije</string>
   <string name="search_low_flicker_mode">DC prigušivanje</string>
   <string name="search_menu_title">Traži</string>
   <string name="search_tip">Unesite ključne riječi</string>
@@ -924,6 +930,7 @@ Povući suglasnost sada?"</string>
   <string name="size_peta_byte">PB</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
+  <string name="skip_forced_rest">Preskoči</string>
   <string name="sms_delivered_sound_title">Isporučena poruka</string>
   <string name="sms_received_sound_title">Dolazna poruka</string>
   <string name="snowy_owl">Snježna sova</string>

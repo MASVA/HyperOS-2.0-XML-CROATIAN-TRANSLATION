@@ -99,7 +99,8 @@
   <string name="all_apps_suggestions">Prijedlozi aplikacija</string>
   <string name="animation_rate_title">Brzina animacije</string>
   <string name="announce_for_app_move_in_folder">Premješteno na mjesto %1$d u mapi</string>
-  <string name="announce_for_checked">%1$s, provjereno</string>
+  <string name="announce_for_checked">%1$s, označen</string>
+  <string name="announce_for_checked_after">označen, %1$s</string>
   <string name="announce_for_choose_default_screen">Postavi zaslon %1$d kao zadani početni zaslon</string>
   <string name="announce_for_close_default_preview">Zatvorene zadane postavke Početnog zaslona</string>
   <string name="announce_for_close_folder">Zatvorena mapa</string>
@@ -129,7 +130,8 @@
   <string name="announce_for_open_launcher_menu">Otvoreni izbornik</string>
   <string name="announce_for_search_bar">Traka za pretraživanje</string>
   <string name="announce_for_show_uninstall_dialog">Pojavio se dijalog za deinstalaciju. Otkažite ili potvrdite.</string>
-  <string name="announce_for_unchecked">%1$s, neprovjereno</string>
+  <string name="announce_for_unchecked">%1$s, neoznačen</string>
+  <string name="announce_for_unchecked_after">neoznačen, %1$s</string>
   <string name="announce_for_widget_span">Širina %1$d, visina %2$d</string>
   <string name="announce_for_xiaoai">Mi AI</string>
   <string name="app_already_exist">Aplikacija već postoji</string>

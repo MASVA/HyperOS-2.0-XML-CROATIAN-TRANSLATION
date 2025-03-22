@@ -1878,6 +1878,7 @@ dd.MM."</string>
   <string name="miui_rhombus_clock_week">EEE</string>
   <string name="miui_rhombus_clock_week_full">EEEE</string>
   <string name="miui_screen_rotation_freeze_message">Autom. rotacija onemogućena.</string>
+  <string name="miui_screen_rotation_freeze_portrait_message">Orijentacija zaključanog zaslona u portretnom načinu</string>
   <string name="miui_smart_frame_clock_date">d.M.</string>
   <string name="miui_smart_frame_clock_date_dot">d.M.</string>
   <string name="miui_smart_frame_clock_week">EEE</string>
@@ -2586,10 +2587,10 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_screen_record_label">Snimanje zaslona</string>
   <string name="quick_settings_screen_record_start">Početak</string>
   <string name="quick_settings_screen_record_stop">Zaustavi</string>
+  <string name="quick_settings_screen_rotation_inner_landscape_locked">Orijentacija unutarnjeg zaslona zaključana u pejzažnom načinu</string>
   <string name="quick_settings_screen_rotation_inner_locked">Rotacija unutarnjeg zaslona isključena</string>
+  <string name="quick_settings_screen_rotation_inner_portrait_locked">Orijentacija unutarnjeg zaslona zaključana u portretnom načinu</string>
   <string name="quick_settings_screen_rotation_inner_unlocked">Rotacija unutarnjeg zaslona uključena</string>
-  <string name="quick_settings_screen_rotation_outer_landscape_locked">Vanjski zaslon zaključan u pejzažnom načinu</string>
-  <string name="quick_settings_screen_rotation_outer_portrait_locked">Vanjski zaslon zaključan u portretnom načinu</string>
   <string name="quick_settings_screen_rotation_outer_unlocked">Rotacija vanjskog zaslona uključena</string>
   <string name="quick_settings_screenbutton_label">Tipke</string>
   <string name="quick_settings_screenlock_label">Zaklj. zaslon</string>

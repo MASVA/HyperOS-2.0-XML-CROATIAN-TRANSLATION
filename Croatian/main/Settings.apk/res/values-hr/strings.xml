@@ -5472,10 +5472,23 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="flashback_title">Flash kartice aplikacija</string>
   <string name="flashback_wangzhe_summary">Prikaži odbrojavanje u igri</string>
   <string name="flip_aod_settings_title">Zaključani zaslon (vanjski)</string>
+  <string name="flip_aod_settings_title_new">Zaključani zaslon (vanjski)</string>
   <string name="flip_application_settings_title">Aplikacije vanjskog zaslona</string>
+  <string name="flip_application_settings_title_new">Aplikacije vanjskog zaslona</string>
+  <string name="flip_close_lid_settings_title">Presavijeni zaslon</string>
+  <string name="flip_continuity_bottom_text">"Neke aplikacije još nisu optimizirane za prikaz na vanjskom zaslonu. Rezultati mogu varirati."</string>
+  <string name="flip_continuity_directly_off_the_screen">Isključi zaslon</string>
+  <string name="flip_continuity_display_lock_screent">Zaključani zaslon</string>
+  <string name="flip_continuity_settings_title">Presavijeni zaslon</string>
+  <string name="flip_continuity_status_list_title">Presavijeni zaslon</string>
+  <string name="flip_continuity_use_list_title">Nastavak korištenja nakon preklapanja</string>
+  <string name="flip_continuity_use_subtitle">Kada je ova značajka uključena, možete nastaviti koristiti odabrane aplikacije nakon sklapanja uređaja</string>
   <string name="flip_dial_settings_title">Widget</string>
+  <string name="flip_dial_settings_title_new">Widget</string>
+  <string name="flip_quick_switch_settings_title">Centar za kontrolu</string>
   <string name="flip_screen_settings_title">Vanjski zaslon</string>
   <string name="flip_wallpaper_settings_title">Pozadina</string>
+  <string name="flip_wallpaper_settings_title_new">Pozadina</string>
   <string name="floating_window_switch_label">Uključi plutajuće prozore</string>
   <string name="floating_window_switch_label_disable">Isključi plutajuće prozore</string>
   <string name="fluency_mode">Animacije sustava</string>
@@ -6526,7 +6539,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="keyboard_settings_title">Android tipkovnica</string>
   <string name="keyboard_settings_with_physical_keyboard_summary">Zaslonska tipkovnica, fizička tipkovnica, alati</string>
   <string name="keyboard_shortcuts_helper">Tipkovni prečaci</string>
-  <string name="keyboard_shortcuts_helper_summary">Prikaži popis prečaca</string>
+  <string name="keyboard_shortcuts_helper_summary">Pritisnite i držite*za prikaz popisa prečaca</string>
   <string name="keyboard_skin_follow_system_enable">Prebaci na Tamni način rada zajedno sa sustavom</string>
   <string name="keyguard_advance_setting_title">Napredne postavke</string>
   <string name="keyguard_double_tap_to_sleep_title">Dvaput dodirnite zaslon za mirovanje</string>
@@ -8231,7 +8244,7 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_sos_emergency_failed_sms">"Ne mogu poslati poruku na %1$s (%2$s)"</string>
   <string name="miui_sos_emergency_failed_sms_noname">"Ne mogu poslati poruku na %1s."</string>
   <string name="miui_sos_emergency_title">Hitni SOS</string>
-  <string name="miui_sos_enable_switch_summary">Brzo pritisnite tipku za uključivanje/isključivanje 5 puta kako biste poslali SOS tekstualnu poruku s vašom lokacijom svojim hitnim kontaktima</string>
+  <string name="miui_sos_enable_switch_summary_new"><Data>Kada naiđete na hitan slučaj, pritisnite tipku za uključivanje &lt;font color=#3482FF>&lt;xliff:g id=number refersto=5>%d&lt;/xliff:g> puta&lt;/font> za redom kako bi vaš uređaj poslao poruku s vašom lokacijom hitnim kontaktima</Data></string>
   <string name="miui_sos_enable_switch_title">Hitni SOS</string>
   <string name="miui_sos_exit_dialog_cancel">Odustani</string>
   <string name="miui_sos_exit_dialog_message">Aktivirali ste Hitni SOS. Vaši podaci o lokaciji šalju se vašim hitnim kontaktima. Isključiti svejedno?</string>
@@ -12294,6 +12307,10 @@ Dvaput dodirnite za otvaranje Nedavno."</string>
   <string name="sos_area_code_settings_hint">Unesite pozivni broj</string>
   <string name="sos_area_code_settings_summary">"Ručno postavite pozivni broj telefonskog broja vašeg kontakta za hitne slučajeve"</string>
   <string name="sos_area_code_settings_title">Postavi pozivni broj</string>
+  <string name="sos_delete_emergency_contacts_dialog_message">Želite li sada izbrisati ovaj kontakt za hitne slučajeve?</string>
+  <string name="sos_delete_emergency_contacts_dialog_title">Brisanje kontakta za hitne slučajeve</string>
+  <string name="sos_delete_last_emergency_contacts_dialog_message">Hitni SOS zahtijeva barem jedan kontakt za hitne slučajeve da bi funkcionirao. Ako izbrišete zadnji kontakt za hitne slučajeve, ova će značajka biti isključena.</string>
+  <string name="sos_emergency_contacts_empty_text">Ovdje nema ništa</string>
   <string name="sos_navigation_guide_message">Pritisnite tipku za smanjivanje glasnoće za navigaciju, zatim pritisnite i držite tipku za povećanje glasnoće da potvrdite svoj odabir</string>
   <string name="sos_navigation_guide_title">Tipke za glasnoću u hitnom SOS načinu</string>
   <string name="sos_satellite_dialog_message">"Čini se da mobilne mreže nisu dostupne u ovom području. Trenutačno ne možete upućivati ​​pozive niti se obratiti za pomoć. Želite li uključiti Tiantong Satellite komunikacije?"</string>
@@ -14214,7 +14231,7 @@ Prenesite samo važne stavke."</string>
   <string name="usb_control_device">Ovaj uređaj</string>
   <string name="usb_control_host">Povezani uređaj</string>
   <string name="usb_control_title">USB-om upravlja</string>
-  <string name="usb_default_info">Te će se postavke primjenjivati kada je povezan drugi uređaj, a vaš je telefon otključan. Povežite se samo s pouzdanim uređajima.</string>
+  <string name="usb_default_info">Ove će se postavke primijeniti kada se povežete s drugim uređajem i ovaj uređaj bude otključan. Povežite se samo s pouzdanim uređajima.</string>
   <string name="usb_default_label">Zadana konfiguracija USB-a</string>
   <string name="usb_eject">Isključi USB memoriju</string>
   <string name="usb_eject_summary">Isključite USB memoriju, tako da je možete ukloniti na siguran način</string>

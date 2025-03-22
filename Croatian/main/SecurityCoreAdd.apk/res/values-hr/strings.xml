@@ -416,6 +416,11 @@ zatim povucite za pomicanje"</string>
   <string name="gb_gpu_pannel_touch_ctl_dialog_message">"Dodirne kontrole su ažurirane. Sada možete pronaći povezane značajke u Gaming prečacima &gt; Poboljšane dodirne kontrole dok igrate igrice."</string>
   <string name="gb_gpu_pannel_touch_ctl_dialog_title">Nove dodirne kontrole</string>
   <string name="gd_setting_title">Bočna traka</string>
+  <string name="genimi_wake_up_guide_know">Razumijem</string>
+  <string name="genimi_wake_up_guide_press_power_and_volume_up_message">Pritisnite tipke za uključivanje/isključivanje i pojačavanje zvuka za isključivanje ili ponovno pokretanje</string>
+  <string name="genimi_wake_up_guide_press_power_key_message">Pritisnite i držite tipku za uključivanje/isključivanje za %ss, zatim otpustite za pristup Geminiju</string>
+  <string name="genimi_wake_up_guide_settings">Postavke</string>
+  <string name="genimi_wake_up_guide_title">Otvori tipkom za uključivanje</string>
   <string name="gesture_disabled">Isključeno</string>
   <string name="gesture_enable">Uključeno</string>
   <string name="gesture_fullscreen_to_splitscreen">Prebaci na podijeljeni zaslon</string>
@@ -699,6 +704,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="launch_wechat_health_code_auto_close">Prečac zdravstvenog koda WeChat više nije dostupan. Možete se prebaciti na drugi prečac.</string>
   <string name="launch_wechat_payment_code">WeChat kod plaćanja</string>
   <string name="launch_wechat_scanner">WeChat skener</string>
+  <string name="launch_xiaoai_screen_identification">Xiaomi Hyper XiaoAi prepoznavanje zaslona</string>
   <string name="list_empty_text">Prazno</string>
   <string name="list_empty_text_xspace">Izradite više dvojnih aplikacija i pokušajte ponovno.</string>
   <string name="loading">Samo trenutak…</string>
@@ -920,6 +926,9 @@ Inače možda nećete moći unijeti drugi razmak sa zaključanog zaslona."</stri
   <string name="power_key_how_start_detail">Pritisnite i držite tipku za uključivanje 0,5 s. Otpustite za razgovor.</string>
   <string name="power_key_start_enjoy">Počnite koristiti Google pomoćnika</string>
   <string name="power_key_start_guide">Buđenje Google asistenta pomoću tipke za uključivanje/isključivanje na uređajima s punim zaslonom</string>
+  <string name="power_off_press_power_and_volume_up_message">Pritisnite tipke za uključivanje/isključivanje i pojačavanje zvuka</string>
+  <string name="power_off_press_power_key_message">Pritisnite i držite gumb za uključivanje %ss</string>
+  <string name="power_off_title">Isključite ili ponovno pokrenite</string>
   <string name="pref_volume_launch_camera_summary">Pritisnite tipku za smanjivanje glasnoće dvaput za pokretanje kamere</string>
   <string name="pref_volume_launch_camera_title">Pokreni kameru</string>
   <string name="pref_volume_wake_summary">Pritisak na tipke za glasnoću budi uređaj</string>

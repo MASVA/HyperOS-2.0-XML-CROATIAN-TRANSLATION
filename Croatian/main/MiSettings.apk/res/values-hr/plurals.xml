@@ -269,6 +269,10 @@
         <item quantity="other">" min."</item>
         <item quantity="one">" min."</item>
     </plurals>
+	<plurals name="continue_use_notify">
+        <item quantity="other">"Koristili ste svoj uređaj %d minuta."</item>
+        <item quantity="one">"Koristili ste svoj uređaj %d minutu."</item>
+    </plurals>
 	 <plurals name="count_times">
         <item quantity="other">%d puta</item>
         <item quantity="one">%d put</item>
@@ -285,6 +289,10 @@
         <item quantity="other">Ovaj tjedan otključano %d puta</item>
         <item quantity="one">Ovaj tjedan otključano %d put</item>
      </plurals>
+	 <plurals name="forced_rest_notify">
+        <item quantity="other">Možete ga ponovno koristiti za %d minuta.</item>
+        <item quantity="one">Možete ga ponovno koristiti za %d minutu.</item>
+    </plurals>
      <plurals name="format_correct_eyes_statistics">
         <item quantity="other">Ispravljene nezdrave navike %2$s puta na %1$s</item>
         <item quantity="one">Ispravljene nezdrave navike %2$s put na %1$s</item>
@@ -369,6 +377,10 @@
         <item quantity="other">%d puta manje nego prošli tjedan</item>
         <item quantity="one">%d put manje nego prošli tjedan</item>
      </plurals>
+	 <plurals name="limit_app_prolong_minute">
+        <item quantity="other">Produži za %d min.</item>
+        <item quantity="one">Produži za %d min.</item>
+    </plurals>
      <plurals name="long_stare_screen_summary">
         <item quantity="other">"Gledali ste u zaslon %d minuta"</item>
         <item quantity="one">"Gledali ste u zaslon %d minutu"</item>

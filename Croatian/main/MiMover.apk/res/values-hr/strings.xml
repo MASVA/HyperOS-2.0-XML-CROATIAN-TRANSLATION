@@ -250,6 +250,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="err_no_gms">Nekompatibilna verzija aplikacije. Instalirajte ovu aplikaciju zasebno.</string>
   <string name="err_not_allow">Nije podržano</string>
   <string name="err_pkg_not_exist">Ne mogu pronaći aplikaciju.</string>
+  <string name="err_receiver_no_space">"Nije moguće prenijeti. Nema dovoljno prostora za pohranu na novom uređaju."</string>
   <string name="err_remote_no_space">Nema dovoljno prostora za pohranu na novom uređaju</string>
   <string name="err_remote_timeout">Isteklo je vrijeme prijenosa</string>
   <string name="err_send_error">"Ne mogu poslati"</string>
@@ -269,6 +270,12 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="feed_back">Povratna informacija</string>
   <string name="feedback_desc">Opišite problem na koji ste naišli</string>
   <string name="finished">Gotovo</string>
+  <string name="force_update_button_neutral_guest">Shvaćam</string>
+  <string name="force_update_button_scan_host">Instaliraj</string>
+  <string name="force_update_content_guest">Ažurirajte Mi Mover na novom uređaju da biste mogli prenositi stavke.</string>
+  <string name="force_update_content_host">Ažurirajte Mi Mover na starom uređaju da biste mogli prenositi stavke.</string>
+  <string name="force_update_title_guest">Ažurirajte Mi Mover na novom uređaju</string>
+  <string name="force_update_title_host">Ažurirajte Mi Mover na starom uređaju</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -551,6 +558,9 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="new_trans_intro_question_6">%d. Zašto se podaci aplikacija trećih strana ne mogu prenijeti?</string>
   <string name="new_trans_intro_question_7">%d. Ukoliko izađem iz Mi Movera usred prijenosa, hoći li morati sljedeći put sve ispočetka?</string>
   <string name="new_trans_intro_question_8">%d. Zašto na novom uređaju nemam WeChat povijest?</string>
+  <string name="new_version_transfer_downloading">Ažuriranje Mi Movera</string>
+  <string name="new_version_transfer_downloading_progress">%s</string>
+  <string name="new_version_transfer_upgrading">Ažuriranje…</string>
   <string name="new_wait_link_first">"1. Otvorite Mi Mover na starom uređaju.
 2. Dodirnite \"Ja sam pošiljatelj\" i pričekajte trenutak.
 3. Odaberite sljedeći hotspot na novom uređaju."</string>
@@ -561,6 +571,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="night">PM</string>
   <string name="no_more_memory_title">Mi Mover mora stvoriti lokalnu Sig. kopiju na ovom uređaju. Sad nema dovoljno prostora za pohranu da biste stvorili Sig. kopiju. Prvo oslobodite prostor.</string>
   <string name="no_sim">Nema SIM kartice</string>
+  <string name="not_selectable">"Ne mogu odabrati"</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_support">Nije podržano</string>
   <string name="not_support_data_content1">1. Stavke specifične za model uređaja</string>
@@ -610,6 +621,8 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="open_photo_and_contacts_cloud_sync_content2">%d. Dodirnite \"Sinkroniziraj sad\".</string>
   <string name="open_photo_and_contacts_cloud_sync_summary">Uključite sinkronizaciju kako bi se kontakti i stavke Galerije prikazivali na ovom uređaju.</string>
   <string name="open_photo_and_contacts_cloud_sync_title">Sinkronizirajte kontakte i stavke u Galeriji</string>
+  <string name="opposite_new_version_transfer_content">Pričekajte da se drugi uređaj ažurira i ponovno pokrene Mi Mover, zatim dodirnite za ponovno povezivanje.</string>
+  <string name="opposite_new_version_transfer_title">Drugi uređaj se ažurira</string>
   <string name="operation_send">Pošalji</string>
   <string name="option_about">O Mi Moveru</string>
   <string name="option_feedback_title">Povratne inf.</string>
@@ -785,6 +798,12 @@ Oslobodite barem %s."</string>
   <string name="secret_password_confirm_summary">Potvrdite svoj identitet unosom zaporke za zaštitu privatnosti kako biste mogli prenijeti privatne datoteke na svoj novi uređaj.</string>
   <string name="secret_password_confirm_title">Zaporka za zaštitu privatnosti</string>
   <string name="secret_title">Privatne stavke</string>
+  <string name="security_connect_button_negative">Odustani</string>
+  <string name="security_connect_button_positive">Poveži se</string>
+  <string name="security_connect_content">Provjerite podudaraju li se kodovi veze na oba uređaja. Zatim dodirnite \"Poveži\" za prijenos stavki.</string>
+  <string name="security_connect_hint">Kod veze</string>
+  <string name="security_connect_title_guest">Povezati se sada s novim uređajem?</string>
+  <string name="security_connect_title_host">Povezati se sada s starim uređajem?</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_all_description">Odaberi sve</string>
   <string name="select_android_summary">Huawei, OPPO, vivo, i više</string>
@@ -957,6 +976,10 @@ na vašem Apple uređaju"</string>
   <string name="transfer_lose_connect_title">Veza je prekinuta</string>
   <string name="transfer_multi_connect_summary">Vaš prijenos bio je prekinut iz sigurnosnih razloga. Možete dodirnuti \"Ponovno se poveži\" kako biste svejedno nastavili.</string>
   <string name="transfer_multi_connect_title">Izgleda da je više uređaja povezano na ovaj hotspot</string>
+  <string name="transfer_no_memory_dialog_btn">Razumijem</string>
+  <string name="transfer_no_memory_dialog_summary">"Novi uređaj nema dovoljno prostora za pohranu za dovršetak prijenosa. Oslobodite prostor na uređaju kako biste mogli dovršiti prijenos stavki."</string>
+  <string name="transfer_no_memory_dialog_title">Nedovoljno prostora za pohranu</string>
+  <string name="transfer_no_memory_dialog_title_pad">Nedovoljno prostora za pohranu</string>
   <string name="transfer_quit_alert_btn_negative">Prekid</string>
   <string name="transfer_quit_alert_btn_positive">Ne prekidaj</string>
   <string name="transfer_quit_alert_message">"Mi Mover radi. Prekinuti svejedno?

@@ -27,6 +27,10 @@
   <string name="abc_shareactionprovider_share_with">Dijeli s</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Neodabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Neodabrano</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="add_sound">Dodaj vlastiti preset</string>
   <string name="app_disable_description_title">Onemogućiti ovu aplikaciju?</string>
@@ -182,7 +186,11 @@
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
   <string name="misound_effect_setting">Mi Sound</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Završi način rada za uređivanje</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova poruka</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Pokreni način rada za uređivanje</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -200,6 +208,7 @@
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Učitavanje</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -208,6 +217,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -508,6 +518,7 @@
   <string name="switch_audio_device_phone">Ovaj uređaj</string>
   <string name="switch_audio_dialog_title">Prebaci zvuk na</string>
   <string name="switch_bluetooth_device">Promjeni uređaj</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="third_note">Pronađite mirno mjesto.</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>

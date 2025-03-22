@@ -329,6 +329,7 @@
   <string name="perm_manager_suggest_title">Prilagoditi dopuštenja?</string>
   <string name="perm_modem_location">Pristup vašoj lokaciji</string>
   <string name="perm_modem_location_desc">Vaš davatelj usluga pokušava pristupiti podacima o vašoj lokaciji. Podijeliti podatke o lokaciji s davateljom usluga?</string>
+  <string name="permdesc_accept_handover">Želite li dopustiti %1$s da nastavi s pozivima koje su pokrenule druge aplikacije?</string>
   <string name="permdesc_add_voicemail">Želite li dopustiti %1$s dodavanje glasovnih poruka sustava?</string>
   <string name="permdesc_call_phone">Želite li dopustiti %1$s upućivanje poziva?</string>
   <string name="permdesc_camera">Želite li dopustiti %1$s snimanje fotografija i videozapisa?</string>
@@ -339,7 +340,7 @@
   <string name="permdesc_location_background">Želite li dopustiti %1$s pristup informacijama o lokaciji u pozadini?</string>
   <string name="permdesc_microphone">Želite li dopustiti %1$s da koristi mikrofon za snimanje zvuka?</string>
   <string name="permdesc_nearby_devices">Želite li dopustiti %1$s da otkrije i poveže se s uređajima u blizini?</string>
-  <string name="permdesc_nearby_wifi_devices">Dopustite ovoj aplikaciji povezivanje s uređajima u blizini putem Wi-Fi mreže, emitiranje na njih i određivanje njihove relativne lokacije.</string>
+  <string name="permdesc_nearby_wifi_devices">Želite li dopustiti %1$s pristup uređajima u blizini?</string>
   <string name="permdesc_post_notification">Želite li dopustiti %1$s objavljivanje obavijesti?</string>
   <string name="permdesc_process_outgoing_call">Želite li dopustiti %1$s da odgovori i prekine pozive?</string>
   <string name="permdesc_read_calendar">Želite li dopustiti %1$s pristup i uređivanje kalendarskih događaja?</string>

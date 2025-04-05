@@ -1999,7 +1999,6 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   umetnite je odmah."</string>
   <string name="sdcard_not_mounted_dialog_title">SD kartica nije prisutna</string>
   <string name="search_bar_talkback">Traka za pretraživanje</string>
-  <string name="search_bar_talkback">Traka za pretraživanje</string>
   <string name="search_color">Boja</string>
   <string name="search_filter_name">Filter</string>
   <string name="search_hint_header_text">Popularno</string>
@@ -2145,7 +2144,6 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="system_phone">Pozivi</string>
   <string name="system_precust">Unaprijed instalirane</string>
   <string name="task_already_exist">Ovaj zadatak već postoji</string>
-  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="text_billing_info">Podaci o plaćanju</string>
   <string name="text_cancel_subscription_service">Otkazati ovu pretplatu sada?</string>
   <string name="text_content_update">Novi sadržaj svaki dan</string>

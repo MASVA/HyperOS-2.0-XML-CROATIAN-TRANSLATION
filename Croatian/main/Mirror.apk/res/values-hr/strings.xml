@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="accessibility_close_mirror">Home screen+ zatvoren</string>
   <string name="accessibility_fingerprint_dialog_help_area">Područje poruke za pomoć</string>
   <string name="accessibility_keyboard_delete_button">Izbriši</string>
   <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps Lock</string>
@@ -35,6 +36,8 @@
   <string name="accessibility_keyboard_ok_button">Enter</string>
   <string name="accessibility_keyboard_symbol_board_shift2letter_button">Slova</string>
   <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Zaključavanje simbola</string>
+  <string name="accessibility_open_mirror">Proširi Home screen+</string>
+  <string name="accessibility_side_close_mirror">Sažmi Home screen+ na bočnu traku</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="app_name">Screen Combo</string>
   <string name="app_has_uninstall">Ova je aplikacija deinstalirana</string>
@@ -78,6 +81,7 @@
   <string name="confirm_device_credential_password">Koristi zaporku</string>
   <string name="connect_fail_busy_mishare">Čini se da drugi uređaj sada prenosi datoteke. Pričekajte dok se prijenos ne završi i pokušajte ponovno.</string>
   <string name="connecting_pc">Povezivanje s računalom…</string>
+  <string name="content_des_mirror_has_connect">Prikazuje se Home screen+</string>
   <string name="copy">Kopiraj</string>
   <string name="copy_fail">"Ne mogu kopirati"</string>
   <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Za prijenos zvuka tijekom emitiranja</string>
@@ -262,6 +266,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -639,6 +644,8 @@ za nastavak"</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="tip_connect_fail_for_hotspot">"Ne mogu se povezati. Isključite prijenosni hotspot i pokušajte ponovo."</string>
+  <string name="tips_check_in_phone_please">Pogledajte i nastavite na svom telefonu</string>
+  <string name="tips_set_with_phone_please">Nastavi na telefonu</string>
   <string name="to_settings">Postavke</string>
   <string name="toast_calling_warning">Prekinite poziv u tijeku i pokušajte ponovno</string>
   <string name="today">Danas</string>

@@ -27,7 +27,11 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
-  <string name="about_title">O Mi Drive</string>
+  <string name="about_title">O aplikaciji</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Neodabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Neodabrano</string>
   <string name="about_version">"Verzija: "</string>
   <string name="account_bind_secure_email_title">Dodaj e-poštu</string>
   <string name="account_bind_secure_phone_title">Dodaj broj telefona</string>
@@ -92,7 +96,7 @@
   <string name="byteShort">B</string>
   <string name="camera">Kamera</string>
   <string name="cancel">Odustani</string>
-	  <string name="cancel_mi_drive">Otkaži usluge</string>
+  <string name="cancel_mi_drive">Otkaži usluge</string>
   <string name="cancel_mi_drive_alert_description">"Izbrišite sve stavke s Mi Drivea kako biste mogli otkazati usluge. Slijedite ove korake za brisanje stavki:&lt;br />&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Na početnoj stranici Mi Drivea pritisnite i držite stavku da se pojavi tipka \"Odaberi sve\". Koristite ovu tipku za odabir do &lt;xliff:g id=files refersto=200>%2$d&lt;/xliff:g> datoteka odjednom i njihovo brisanje.&lt;br />&lt;xliff:g id=number refersto=2>%3$d&lt;/xliff:g>. Nakon što izbrišete sve stavke, izbrišite sve datoteke iz Nedavno obrisanih stavki." </string>
   <string name="cancel_mi_drive_alert_reminder_card_summary">"&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Preporučujemo da napravite sigurnosnu kopiju svojih stavki prije nego ih izbrišete. Da biste to učinili, posjetite i.mi.com, kliknite Mi Drive i preuzmite svoje stavke na računalo.&lt;br />&lt;xliff:g id=number refersto=2>%2$d&lt;/xliff:g> . Imajte na umu da se stavke izbrisane iz vaših Nedavno izbrisanih stavki ne mogu naknadno vratiti."</string>
   <string name="cancel_mi_drive_confirm_button">Otkaži usluge</string>
@@ -365,9 +369,13 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
   <string name="micloud_space_duokan_title">Duokan prostor za pohranu</string>
   <string name="micloud_space_soundrecorder_detail">"Otvorite aplikaciju Snimač na telefonu i odaberite mapu s stavkama pohranjenim u cloudu.
 Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</string>
-  <string name="micloud_space_soundrecorder_title">Audio snimci</string>
+  <string name="micloud_space_soundrecorder_title">Audio snimke</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Završi način rada za uređivanje</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova poruka</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Pokreni način rada za uređivanje</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -377,7 +385,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
   <string name="miuix_appcompat_delete_description">Izbriši</string>
   <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
-	 <string name="miuix_appcompat_edit">Uredi</string>
+  <string name="miuix_appcompat_edit">Uredi</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -385,6 +393,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -393,6 +402,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -807,6 +817,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
   <string name="talkback_previous_song">Pretodna pjesma</string>
   <string name="talkback_random_play">Nasumično</string>
   <string name="talkback_single_play">Ponovi jednom</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="temporary_not_available">Ova značajka još nije dostupna</string>
   <string name="terabyteShort">TB</string>
   <string name="text_select_all">Odaberi sve</string>

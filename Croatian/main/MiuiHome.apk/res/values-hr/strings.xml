@@ -45,6 +45,10 @@
   <string name="accessibility_recent_task_unlocked_state">Otključano</string>
   <string name="accessibility_recents_item_dismissed">%1$s očišćeno</string>
   <string name="accessibility_recents_item_open_app_info">Otvorite podatke o aplikaciji %s.</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="accessibility_splite_screen_primary">Dodano kao primarna aplikacija na podijeljenom zaslonu</string>
   <string name="accessibility_splite_screen_secondary">Dodano kao sekundarna aplikacija na podijeljenom zaslonu</string>
   <string name="action_add_to_workspace">Dodaj u radni prostor</string>
@@ -115,6 +119,7 @@
   <string name="announce_for_drop_folder_grid_view">Broj %1$d u mapi</string>
   <string name="announce_for_drop_folder_icon">U mapi %1$s</string>
   <string name="announce_for_drop_hotseat">U donjem dijelu</string>
+  <string name="announce_for_drop_line">Ispušten broj retka %1$d</string>
   <string name="announce_for_drop_shortcut_icon">Izrađena mapa sa %1$s i %2$s</string>
   <string name="announce_for_drop_thumbnail_container">Trenutno u  pregledu zaslona broj %1$d</string>
   <string name="announce_for_drop_trash">U zoni za deinstalaciju</string>
@@ -474,6 +479,7 @@
   <string name="icon_form">Ikone</string>
   <string name="icon_reorganize_channel">Rasporedite ikone</string>
   <string name="icon_size">Veličina ikone</string>
+  <string name="icon_size_adjust">Klizite lijevo i desno za podešavanje veličine ikone</string>
   <string name="icon_style">Stil</string>
   <string name="image_too_small_message">"Originalna slika nije dovoljno velika"</string>
   <string name="in_app_result_by">Rezultati unutar aplikacije prema</string>
@@ -590,7 +596,11 @@ Poboljšana sigurnost."</string>
   <string name="miui_widget_menu_replace_text_new">Zamjeni</string>
   <string name="miui_widget_toast_for_not_support_by_pa">"Zaklj. aplikacija ne podržava widgete ove veličine"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_accessibility_title">Naslov</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Završi način rada za uređivanje</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova poruka</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Pokreni način rada za uređivanje</string>
   <string name="miuix_appcompat_edit">Uredi</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
@@ -606,8 +616,22 @@ Poboljšana sigurnost."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Pomaknite se prema dolje za zatvaranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Pomaknite se prema dolje do pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Pomaknite se prema dolje do minimiziranog</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Pomakni se do pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Pomičite se gore do maksimiziranja</string>
+  <string name="miuix_bottom_sheet_accessibility_state_half_screen">Pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Prebačen na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Prebačeno na maksimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Prebačeno na minimizirano</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povucite za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -616,6 +640,7 @@ Poboljšana sigurnost."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -760,6 +785,16 @@ Poboljšana sigurnost."</string>
   <string name="navigation_set_miui_home_as_default_dialog_message">"Ne možete koristiti geste na cijelom zaslonu s pokretačima trećih strana. Prebaciti se na pokretač sustava i uključiti geste na cijelom zaslonu?"</string>
   <string name="navigation_set_miui_home_as_default_dialog_ok">U redu</string>
   <string name="navigation_set_miui_home_as_default_dialog_title">Pažnja</string>
+  <string name="navigation_shortcut_back_key_long_press_title">Pritisnite i držite tipku Natrag</string>
+  <string name="navigation_shortcut_gesture_line_double_click_title">Dvaput dodirnite indikator cijelog zaslona</string>
+  <string name="navigation_shortcut_home_key_long_press_title">Pritisnite i držite tipku Početna</string>
+  <string name="navigation_shortcut_key_circle_to_search_title">Krug za pretraživanje</string>
+  <string name="navigation_shortcut_key_gesture_line_long_press_title">Pritisnite i držite indikator cijelog zaslona</string>
+  <string name="navigation_shortcut_key_none_title">Ništa</string>
+  <string name="navigation_shortcut_key_setting_tip_summary">Otvoriti \"%2$s\" putem \"%1$s\"?</string>
+  <string name="navigation_shortcut_key_setting_tip_title">Postavi prečac</string>
+  <string name="navigation_shortcut_key_settings">Prečaci</string>
+  <string name="navigation_shortcut_task_key_long_press_title">Pritisnite i držite tipku Izbornik</string>
   <string name="navigation_type_full_screen">Geste</string>
   <string name="navigation_type_title">Navigacija sustavom</string>
   <string name="navigation_type_virtual_key">Tipke</string>
@@ -1008,6 +1043,7 @@ Poboljšana sigurnost."</string>
   <string name="system_text">Sustav</string>
   <string name="talkback_systemaction_item_cts">Zaokružite za pretraživanje</string>
   <string name="task_access_locked_app_msg">Zaklj. aplikacija uključeno</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="term_of_service">Uvjeti i odredbe</string>
   <string name="terms_of_services_one">"Dobrodošli u ladicu aplikacija i Quick Finder. Quick Finder omogućuje brže pronalaženje aplikacija, sadržaja unutar aplikacije i stavki na mreži. Pročitajte i prihvatite Xiaomi "&lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije kori&amp;#353;tenja ovih zna&amp;#269;ajki.</string>
   <string name="terms_of_services_three">Ovu značajku možete isključiti u postavkama.</string>

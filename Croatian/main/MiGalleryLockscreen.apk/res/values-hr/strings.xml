@@ -98,6 +98,7 @@
    <string name="article_item_hot">Provjerite %s+ popularnih članaka</string>
    <string name="at_least_one">Odaberite barem jednu kategoriju</string>
    <string name="auto_interval">Svaki put kad se uređaj otključa</string>
+   <string name="avatar_talkback">Fotografija profila</string>
    <string name="back_icon_content_description">Natrag</string>
    <string name="bottomsheet_action_collapse">Sažmite donju tablicu</string>
    <string name="bottomsheet_action_expand">Proširite donju tablicu</string>
@@ -128,6 +129,7 @@
    <string name="change_time">Promjeni sliku pozadine</string>
    <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
    <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+   <string name="checked_talkback">Uključeno</string>
    <string name="chip_text">Chip tekst</string>
    <string name="clear_history">Izbriši povijest pretraživanja</string>
    <string name="clear_search_edittext">Izbriši</string>
@@ -196,6 +198,7 @@
    <string name="declaration_title">Uvjeti i odredbe</string>
    <string name="delete_pic">Izbriši sliku</string>
    <string name="deny_des">Wallpaper Carousel treba pristup Galeriji da radi normalno.</string>
+   <string name="desktop_preview_talkback">Pregled početnog zaslona</string>
    <string name="detail_ad_download_btn">Preuzmi</string>
    <string name="detail_ad_open_btn">Otvori</string>
    <string name="detail_ad_type_ad">OGLAS</string>
@@ -241,6 +244,7 @@
    <string name="dlg_cancel">Odustani</string>
    <string name="dlg_ok">Postavi</string>
    <string name="double_click_to_exit_activity">Dodirnite ponovno za izlaz</string>
+   <string name="double_tap_to_switch_talkback">Dodirnite dvaput za prebacivanje</string>
    <string name="edit_wallpaper">Upravljanje pozadinama</string>
    <string name="enable_toast_ar">Promjenjeno na preporuke</string>
    <string name="enable_toast_cw">Promjenjeno na slideshow</string>
@@ -275,6 +279,7 @@
    <string name="idbct_opt_low_dev_desc_text">Uvijek preuzmi slike u standardnoj kvaliteti</string>
    <string name="idbct_opt_low_dev_main_text">Standardno</string>
    <string name="idbct_title">Vrsta mreže</string>
+   <string name="image_talkback">Slika</string>
    <string name="later">"Ne isključuj"</string>
    <string name="launch_bg_permission_exception">Dopustite Wallpaper Carousel da prikazuje skočne prozore dok se izvodi u pozadini u aplikaciji Sigurnost</string>
    <string name="left_lks_detail_entrance">Pogledajte više</string>
@@ -364,12 +369,14 @@ To može generirati dodatne naknade."</string>
    <string name="loading"><CDATA>Samo trenutak…</CDATA></string>
    <string name="lock_screen_date">EEEE, dd.MM.</string>
    <string name="lock_screen_date_12">EEEE, dd.MM.</string>
+   <string name="lock_screen_preview_talkback">Pregled zaključanog zaslona</string>
    <string name="lock_show_permission_exception">Dopustite Wallpaper Carouselu prikaz stavki na Zaklj. zaslonu.</string>
    <string name="lockscreen_h5_back_tv">Natrag</string>
    <string name="lockscreen_h5_close_tv">Isključi</string>
    <string name="lockscreen_h5_refresh_btn_tv">Osvježi</string>
    <string name="lockscreen_h5_refresh_tip">Provjerite mrežne postavke i pokušajte ponovo</string>
-   <string name="lockscreen_magazine_title">Dnevne pozadine Zaklj. zaslona</string>
+   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
+   <string name="logged_in_talkback">Prijavljen</string>
    <string name="lockscreen_magazine_summary">Odaberite kategorije</string>
    <string name="lockscreen_magazine_system_title">Izvanmrežno</string>
    <string name="lockscreen_wallpaper_changed">Slika pozadine promjenjena</string>
@@ -444,8 +451,21 @@ mm"</string>
    <string name="miuix_appcompat_select_all">Odaberi sve</string>
    <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
    <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
+   <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Pomaknite se prema dolje za zatvaranje</string>
+   <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Pomaknite se prema dolje do pola zaslona</string>
+   <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Pomaknite se prema dolje do minimiziranog</string>
+   <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Pomakni se do pola zaslona</string>
+   <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Pomičite se gore do maksimiziranja</string>
+   <string name="miuix_bottom_sheet_accessibility_state_half_screen">Pola zaslona</string>
+   <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimizirano</string>
+   <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimizirano</string>
+   <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Prebačen na pola zaslona</string>
+   <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Prebačeno na maksimizirano</string>
+   <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Prebačeno na minimizirano</string>
    <string name="miuix_indexer_collect">Zbirke</string>
    <string name="miuix_indexer_selected">Odabrano %s</string>
+   <string name="miuix_popup_window_default_title">Skočni prozor</string>
    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
    <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
    <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -544,6 +564,7 @@ mm"</string>
    <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
    <string name="need_open_gallery">Uključi Wallpaper Carousel</string>
    <string name="new_feature_title">"Što je novoga"</string>
+   <string name="nickname_talkback">Nadimak</string>
    <string name="nick_name">Nadimak</string>
    <string name="no_long_show">"Ne prikazuj ponovo"</string>
    <string name="no_networdk">"Ne mogu se povezati na mrežu"</string>
@@ -552,8 +573,10 @@ mm"</string>
    <string name="not_agree_summary">Prvo prihvatite naše uvjete i odredbe</string>
    <string name="not_allowed">Nije odobreno</string>
    <string name="not_cancel_button">Ne</string>
+   <string name="not_logged_in_talkback">Niste prijavljeni</string>
    <string name="not_revoke_button">Odustani</string>
    <string name="not_set">Nije postavljeno</string>
+   <string name="not_subscribed_talkback">Niste pretplaćeni</string>
    <string name="ok_enable_network_prov">Prihvaćam</string>
    <string name="ok_enable_network_prov2">Prihvaćam</string>
    <string name="ok_international">Prihvaćam</string>
@@ -956,6 +979,8 @@ mm"</string>
    <string name="subscribe_success_content_per_quarter">Promjeni sliku pozadine svakih 15 minuta</string>
    <string name="subscribe_success_content_per_three_hour">Promjeni sliku pozadine svaka 3 sata</string>
    <string name="subscribe_success_content_per_unlock">Promijeni sliku pozadinu svaki put kada se uređaj zaključa</string>
+   <string name="subscribe_talkback">Pretplatite se</string>
+   <string name="subscribed_talkback">Pretplaćen</string>
    <string name="subscribe_update_time_setting">Postavite drugačiji interval</string>
    <string name="summary">"Prihvatite naše &lt;a href='%s'&gt;Pravila o privatnosti&lt;/a&gt; za pregled online sadržaja. Ako ne prihvatite, lokalne pozadinske slike i dalje će biti dostupne."</string>
    <string name="summary2">"Korištenjem ove značajke, prihvaćate naše &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;Korisnički ugovor&lt;/font&gt;&lt;/a&gt; i &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Pravila o Privatnosti&lt;/font&gt;&lt;/a&gt;. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
@@ -967,6 +992,11 @@ mm"</string>
    <string name="sunday">Nedjelja</string>
    <string name="sunday_short">Ned</string>
    <string name="sunday_shortest">N</string>
+   <string name="switch_action_talkback">Prečac</string>
+   <string name="switch_button_talkback">Prebacivanje</string>
+   <string name="switch_disabled_talkback">Onemogućeno</string>
+   <string name="switched_off_talkback">Isključeno</string>
+   <string name="switched_on_talkback">Uključeno</string>
    <string name="sure_close_gallery">Isključiti Wallpaper Carousel?</string>
    <string name="sure_close_gallery_des">"Nećete moći primati nove slike pozadina za Početni i Zaklj. zaslon ako isključite Wallpaper Carousel. Isključiti svejedno?"</string>
    <string name="surprise_wallpaper_auth_failed_tip">Provjera valjanosti korisničkih podataka nije uspjela, provjerite svoj status prijave i vrijeme sustava.</string>
@@ -983,6 +1013,7 @@ mm"</string>
    <string name="system_default">Zadano</string>
    <string name="tab_user_title_bar_text">Postavke</string>
    <string name="tb_collapse_desc">Sakrij izbornik \"Podijeli\"</string>
+   <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
    <string name="theme_apply_failured">"Ne mogu postaviti, pokušajte ponovo kasnije"</string>
    <string name="theme_apply_lockscreen_apply">Isključivanje Wallpaper Carousela…</string>
    <string name="theme_apply_lockscreen_failed">"Ne mogu postaviti"</string>
@@ -1022,6 +1053,7 @@ mm"</string>
    <string name="tuesday">Utorak</string>
    <string name="tuesday_short">Uto</string>
    <string name="tuesday_shortest">U</string>
+   <string name="unchecked_talkback">Isključeno</string>
    <string name="understand_band_story">Saznajte više</string>
    <string name="uninstall_introducation_text_desc">Wallpaper Carousel isporučuje slike nove kvalitete izravno na vaš zaključani zaslon. Prije deinstaliranja aplikacije provjerite možete li bez njezinih značajki.</string>
    <string name="uninstall_introduction_text_title">O Wallpaper Carousel</string>
@@ -1046,6 +1078,7 @@ mm"</string>
    <string name="wm_storage_used">"Zauzeto: "</string>
    <string name="wp_desktop_enable_title">Dijaprojekcija Poč. zaslona</string>
    <string name="wp_lockscreen_enable_title">Dijaprojekcija Zaklj. zaslona</string>
+   <string name="xiaomi_account_talkback">Xiaomi račun</string>
    <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
    <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
    <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>

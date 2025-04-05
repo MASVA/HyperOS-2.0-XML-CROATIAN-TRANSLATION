@@ -150,7 +150,11 @@
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">odabrano %d stavki</item>
-        <item quantity="one">odabrana %d stavka</item>
+        <item quantity="one">odabrano %d stavka</item>
+    </plurals>
+	<plurals name="miuix_indexer_selected">
+        <item quantity="other">Odabrano %1$d stavki</item>
+        <item quantity="one">Odabrana %1$d stavka</item>
     </plurals>
     <plurals name="more_gems">
         <item quantity="other">Prikupite još %d dragulja da sudjelujete u izvlačenju</item>

@@ -428,10 +428,11 @@ Dopustite Temama da pristupaju vašem ID-u Xiaomi računa i Mi Community statusi
   <string name="config_success">Uspješno primijenjeno</string>
   <string name="configure_success_not_enable_aod">Uspješno postavljeno. Uključite Always-on zaslon da bi tema stupila na snagu.</string>
   <string name="connect_to_view_more">Povežite se na internet da vidite više</string>
+  <string name="continue_download_talkback">Nastavi preuzimanje</string>
   <string name="copy">Kopiraj</string>
   <string name="copy_toast_msg">Veza je kopirana u međuspremnik</string>
   <string name="count_down_tip">%ds preostalo</string>
-  <string name="create_home_icon">Prečac Početni zaslona</string>
+  <string name="create_home_icon">Prečac Početnog zaslona</string>
   <string name="current_device_not_support_superwallpaper_dialog_content">"Super pozadine nisu podržane na ovom uređaju"</string>
   <string name="current_using">Trenutno</string>
   <string name="current_using_desktop_wallpaper_text">Početni zaslon</string>
@@ -546,6 +547,7 @@ Dopustite Temama da pristupaju vašem ID-u Xiaomi računa i Mi Community statusi
   <string name="download_preview_failed">"Ne mogu učitati pregled"</string>
   <string name="download_success">Preuzimanje dovršeno!</string>
   <string name="download_super_wallpaper">Instalirati ovu Super pozadinu?</string>
+  <string name="download_talkback">Preuzmi</string>
   <string name="dynamic">Dinamično</string>
   <string name="dynamic_large_icon_not_support_current_type">"%s nije podržan za ovu dinamičku ikonu"</string>
   <string name="dynamic_ringtone">Dinamične melodije zvona</string>
@@ -647,6 +649,7 @@ Dopustite Temama da pristupaju vašem ID-u Xiaomi računa i Mi Community statusi
   <string name="find_more_wallpapers">Pronađi više</string>
   <string name="fingerprint_style">Efekti otiska prsta</string>
   <string name="first_page_recommend">Preporučeno</string>
+  <string name="first_total_talkback">Pozadina %1$d, ukupno pozadina: %2$d</string>
   <string name="fold_close_failed">"Ne mogu isključiti"</string>
   <string name="fold_close_incall_dialog_content">"Profilni videozapisi više nisu podržani. Nakon ovoga više nećete moći uključiti ovu značajku. Isključiti svejedno?"</string>
   <string name="fold_close_incall_dialog_title">Isključi videozapise profila</string>
@@ -1183,7 +1186,9 @@ mm"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
-  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Završi način rada za uređivanje</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
   <string name="miuix_appcompat_accessibility_new_message">Nova poruka</string>
   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Pokreni način rada za uređivanje</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -1223,9 +1228,8 @@ mm"</string>
   <string name="miuix_compat_dialog_update_title">Potrebno je ažuriranje</string>
   <string name="miuix_compat_mms">Poruke</string>
   <string name="miuix_indexer_collect">Zbirke</string>
-  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_popup_window_default_title">Skočni prozor</string>
-  <string name="miuix_progressbar_loading">Učitavanje</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -1235,6 +1239,8 @@ mm"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="mix_global">Sustav</string>
   <string name="mix_global_option">Općenito</string>
   <string name="mix_global_option_des">Panel obavijesti, telefon, poruke i drugi elementi sustava. Poništite ovaj okvir za korištenje zadanih opcija.</string>
@@ -1445,6 +1451,7 @@ Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="pause_all">Pauziraj sve</string>
   <string name="pay_online">Online plaćanje</string>
+  <string name="pause_download_talkback">Pauziraj preuzimanje</string>
   <string name="paying">Kupnja…</string>
   <string name="payment_cancel_tip">Ako sada izađete, vaše plaćanje neće biti dovršeno. Ipak izaći?</string>
   <string name="payment_coins">Novčići</string>
@@ -1516,6 +1523,7 @@ Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
   <string name="present_local_themes_subtitle">Prilagodite svoj uređaj</string>
   <string name="present_official_themes">Naš odabir</string>
   <string name="present_online_themes">Preuzmite besplatno više tema</string>
+  <string name="preview_image_talkback">Pregled</string>
   <string name="price_for_automatic_renewal">Automatski obnovi za %1$s</string>
   <string name="privacy_action_failed_net_content">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="privacy_action_failed_server_content">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
@@ -1991,6 +1999,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   umetnite je odmah."</string>
   <string name="sdcard_not_mounted_dialog_title">SD kartica nije prisutna</string>
   <string name="search_bar_talkback">Traka za pretraživanje</string>
+  <string name="search_bar_talkback">Traka za pretraživanje</string>
   <string name="search_color">Boja</string>
   <string name="search_filter_name">Filter</string>
   <string name="search_hint_header_text">Popularno</string>
@@ -2141,6 +2150,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="text_cancel_subscription_service">Otkazati ovu pretplatu sada?</string>
   <string name="text_content_update">Novi sadržaj svaki dan</string>
   <string name="text_free_trial">Isprobajte besplatno</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="text_local_push_check">Pregled</string>
   <string name="text_pay_monthly" formatted="false">Počevši od %s, automatski se obnavlja %s/mjesečno do otkazivanja</string>
   <string name="text_pay_weekly" formatted="false">Počevši od %s, automatski se obnavlja %s/tjedno do otkazivanja</string>
@@ -2418,7 +2428,7 @@ Bilo kada mo&amp;#382;ete povući svoju suglasnost na Pravila o privatnosti u Po
   <string name="video_data_tips_message">Korištenje mobilnih podataka može stvoriti dodatne troškove. Nastaviti svejedno?</string>
   <string name="video_data_tips_title">Upozorenje uporabe podataka</string>
   <string name="video_edit_export_fail_toast">"Nije moguće izvesti"</string>
-  <string name="video_not_support_message">Ovaj se videozapis može prikazati pogrešno ili usporiti vaš uređaj.Postaviti svejedno?</string>
+  <string name="video_not_support_message">Ovaj se videozapis može prikazati pogrešno ili usporiti vaš uređaj. Postaviti svejedno?</string>
   <string name="video_not_support_title">Ovaj videozapis je prevelik</string>
   <string name="video_silence_apply_success">Video bez zvuka uspješno postavljen</string>
   <string name="video_wallpaper_apply_warning">Ova pozadina bit će postavljena i na vaš Početni zaslon i na Zaklj. zaslon. Postaviti sada?</string>
@@ -2570,6 +2580,18 @@ Bilo kada mo&amp;#382;ete povući svoju suglasnost na Pravila o privatnosti u Po
   <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezivanje upravitelja preuzimanja nije uspjelo, provjerite stanje upravitelja preuzimanja u Upravljanju aplikacijama.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verziju %1$s
+Veličina: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
+Veličina delta ažuriranja: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">Dostupno je ažuriranje</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_sdk_update_dialog_cancel">Ne sada</string>
+  <string name="xiaomi_update_sdk_update_dialog_ok">Ažuriraj</string>
   <string name="yesterday">Jučer</string>
   <string name="you_might_also_like">Moglo bi vam se svidjeti</string>
 </resources>

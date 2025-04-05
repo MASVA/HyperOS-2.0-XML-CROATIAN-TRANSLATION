@@ -28,6 +28,10 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="about_to_recover">Samo trenutak…</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="app_is_running">Aplikacija se izvodi…</string>
@@ -296,7 +300,11 @@ Molimo pošaljite ovaj kod tehničaru."</string>
   <string name="menu_item_sort_size">Veličina</string>
   <string name="miui_device_name">Android</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Završi način rada za uređivanje</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova poruka</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Pokreni način rada za uređivanje</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -315,6 +323,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -323,6 +332,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -462,7 +472,8 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="restore_finished_notification_content">Vraćene su aplikacije Poč. zaslona, postavke sustava itd.</string>
   <string name="restore_from_cloud">Vrati Sig. kopiju iz Xiaomi Clouda</string>
   <string name="restore_from_mimover">Pošaljite sa starog uređaja pomoću Xiaomi Mover-a</string>
-  <string name="restore_from_this_device">Odaberite sigurnosnu kopiju</string>
+  <string name="restore_from_this_device">Vrati podatke</string>
+  <string name="restore_from_this_device_unabled_talkback">Vraćanje podataka, nedostupno</string>
   <string name="restore_header_backup_size">Veličina</string>
   <string name="restore_header_msg">"Prije nego što vratite WeChat podatke, provjerite da WeChat nije instaliran na ovom uređaju. Dok se podaci vraćaju, nemojte otvarati niti koristiti WeChat."</string>
   <string name="restore_header_title">Ukupna veličina</string>
@@ -542,6 +553,7 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="session_interrupted_title_backup">Sigurnosno kopiranje pauzirano</string>
   <string name="session_ongoing_title_backup">Sigurnosno kopiranje</string>
   <string name="session_ongoing_title_restore">Vraćanje</string>
+  <string name="session_progress">%1$d posto</string>
   <string name="session_restore_apk_data_text">Vraćanje WeChat podataka…</string>
   <string name="session_restore_apk_text">Vraćanje izgleda početnog zaslona i postavki sustava…</string>
   <string name="session_restore_success_date_format">dd.MM.yyyy</string>
@@ -567,6 +579,7 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>

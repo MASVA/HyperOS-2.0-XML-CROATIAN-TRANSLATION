@@ -37,6 +37,10 @@
   <string name="about_title">O aplikaciji</string>
   <string name="access_sd_fail">"Ne mogu pristupiti SD kartici"</string>
   <string name="accessibility_shutter_button">Okidač</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="action_search">Traži</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="add">Dodaj</string>
@@ -401,7 +405,13 @@
   <string name="miracast_switch_tip">Uključite bežični zaslon da biste koristili tu značajku</string>
   <string name="mishop">Mi Store</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđite u način uređivanja</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -420,6 +430,7 @@
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povucite za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -428,6 +439,9 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="module_title_business_card">Posjetnica</string>
   <string name="module_title_code">QR kod</string>
   <string name="module_title_document">Dokumenat</string>
@@ -845,6 +859,7 @@ Umjesto toga skenirajte nešto drugo."</string>
   <string name="text_general_guide_btn_tips">Razumijem</string>
   <string name="text_general_guide_tips_first">Skenirajte i prepoznajte objekte</string>
   <string name="text_general_guide_tips_second">Skenirajte kodove, prepoznajte biljke i pronađite slične proizvode</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="text_search">Pretražite</string>
   <string name="text_to_be_translated_cannot_be_empty">Skener treba tekst za prijevod</string>
   <string name="textrecognition_results">Prepoznati tekst</string>

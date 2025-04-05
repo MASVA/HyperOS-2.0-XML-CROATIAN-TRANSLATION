@@ -379,6 +379,14 @@ Ako ponovo uključite mobilne podatke, vaš mobilni operater može vam naplatiti
         <item quantity="one">Vaše Game Turbo članstvo istječe za %d dan. Obnovite sada i uživajte u besprijekornom igranju.</item>
         <item quantity="few">Vaše Game Turbo članstvo istječe za %d dana. Obnovite ga sada i uživajte u neometanom igranju.</item>
     </plurals>
+	 <plurals name="gamebox_time_elapsed_time_minute_talkback">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d minutu</item>
+    </plurals>
+    <plurals name="gamebox_time_elapsed_time_second_talkback">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sekundu</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d osoba igra</item>
         <item quantity="one">%1$d osoba igra</item>
@@ -784,9 +792,17 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">%d aplikacija crpe bateriju</item>
         <item quantity="one">%d aplikacija crpi bateriju</item>
     </plurals>
+	<plurals name="pc_battery_history_accessibility_hour">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+    </plurals>
+    <plurals name="pc_battery_history_accessibility_minute">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minutu</item>
+    </plurals>
     <plurals name="pc_battery_history_hour">
-        <item quantity="other">" hrs"</item>
-        <item quantity="one">" hr"</item>
+        <item quantity="other">" sati"</item>
+        <item quantity="one">" sat"</item>
     </plurals>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" min"</item>

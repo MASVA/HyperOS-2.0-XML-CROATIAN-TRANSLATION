@@ -482,7 +482,9 @@ Vaši uređaji?"</string>
  <string name="connect_settings_summary_share_launcher_pad">Prikaz i interakcija s početnim zaslonima telefona u blizini prijavljeni na vaš Xiaomi račun</string>
  <string name="connect_settings_summary_share_launcher_phone">"Dopusti obližnjim tabletima i računalima pregled i interakciju s početnim zaslonom ovog uređaja"</string>
  <string name="connect_settings_summary_share_notification_pad">Primajte obavijesti s telefona u blizini prijavljenih na svoj Xiaomi račun</string>
+ <string name="connect_settings_summary_share_notification_pad_v2">Prikaži obavijesti s telefona u blizini prijavljenih na svoj Xiaomi račun na ovom uređaju</string>
  <string name="connect_settings_summary_share_notification_phone">Prikaži obavijesti na obližnjim tabletima ili računalima u upotrebi kada je ovaj uređaj zaključan</string>
+ <string name="connect_settings_summary_share_notification_phone_v2">Prikaži važne obavijesti s telefona na TV-u, tabletu i računalu</string>
  <string name="connect_settings_user_agreement">Korisnički ugovor</string>
  <string name="connect_settings_withdraw_consent">Povlačenje suglasnosti</string>
  <string name="connect_success">%1$s je povezan</string>
@@ -833,6 +835,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="mihome_camera_device_sleep">Izađite iz stanja mirovanja i pokušajte ponovno</string>
  <string name="miplay_accessibility_cast">Odaberite uređaj</string>
  <string name="miplay_accessibility_cover">Naslovna stranica</string>
+ <string name="miplay_accessibility_more_settings">Dodatne postavke</string>
  <string name="miplay_accessibility_next">Sljedeća pjesma</string>
  <string name="miplay_accessibility_pause">Pauziraj</string>
  <string name="miplay_accessibility_play">Igrajte</string>
@@ -877,6 +880,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="miuix_appcompat_select_all">Odaberi sve</string>
  <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+ <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
  <string name="miuix_indexer_collect">Zbirke</string>
  <string name="miuix_indexer_selected">Odabrano %s</string>
  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -1411,6 +1415,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="temperature_warning_dialog_positive_button">Shvaćam</string>
  <string name="temperature_warning_dialog_title">"Ne mogu koristiti kameru na različitim uređajima"</string>
  <string name="test_package_upgrade">"Nije moguće ažurirati na Beta verziju"</string>
+ <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
  <string name="thursday">Četvrtak</string>
  <string name="thursday_short">Čet</string>
  <string name="thursday_shortest">Č</string>
@@ -1465,6 +1470,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="upgrade_login_dialog_message">Prijavite se na svoj Xiaomi račun da biste mogli vidjeti svoje povezane uređaje.</string>
  <string name="upgrade_login_dialog_sure">Prijavite se</string>
  <string name="upgrade_login_dialog_title">Prijavite se na Xiaomi račun</string>
+ <string name="upgrade_new_version">Dostupno je ažuriranje</string>
  <string name="upgrade_no_devices">Nema dostupnih ažuriranja</string>
  <string name="upgrade_now">Ažuriraj</string>
  <string name="upgrade_phone_device_tip">*Ažuriranja osigurava Xiaomi telefon</string>

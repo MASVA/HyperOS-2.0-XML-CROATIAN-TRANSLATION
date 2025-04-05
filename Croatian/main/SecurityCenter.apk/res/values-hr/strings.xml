@@ -117,6 +117,10 @@
   <string name="accessibility_keyboard_ok_button">Enter</string>
   <string name="accessibility_keyboard_symbol_board_shift2letter_button">Slova</string>
   <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Zaključavanje simbola</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="action_button_text_100">Optimiziraj</string>
   <string name="action_button_text_60">Popravi</string>
   <string name="action_button_text_60_80">Popravi</string>
@@ -1040,6 +1044,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="auto_task_setting_show_task_shortcut_in_desktop">Prečac Početnog zaslona</string>
   <string name="auto_task_show_notification_before_exclude">Obavijesti prije izvršenja</string>
   <string name="auto_task_show_notification_before_exit">Obavijesti prije dovršetka</string>
+  <string name="auto_task_switch">Promjeni</string>
   <string name="auto_task_temp_allow">U redu</string>
   <string name="auto_task_temp_no_exit">Odustani</string>
   <string name="auto_task_temp_no_need">Odustani</string>
@@ -1053,6 +1058,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="back_modifypassword">Vrati se na vrstu promjene zaporke</string>
   <string name="back_sound_data">Uključite mobilne podatke i pokušajte ponovo.</string>
   <string name="back_sound_fail">"Nije moguće postaviti. Promijenjene su postavke operatera. Postavite trenutnu SIM karticu kao podatkovnu karticu, povežite se s mrežom i pokušajte ponovo."</string>
+  <string name="back_sound_no_support_oversea">"SIM %1$d ne podržava ovaj plan"</string>
   <string name="back_sound_success">Uspješno postavljeno</string>
   <string name="back_sound_support">Prvo isključite Wi-Fi</string>
   <string name="back_sound_support_china">Prvo isključite Wi-Fi</string>
@@ -1133,6 +1139,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="beauty_fun_filter">Uljepšanje</string>
   <string name="beauty_fun_front_light">Prednja ispuna svjetlom</string>
   <string name="beauty_fun_light">Ispuna svjetlom</string>
+  <string name="beauty_fun_portrait_center_check">"Ultra HD način rada ne podržava FocusFrame"</string>
   <string name="beauty_fun_privacy">Kamera za privatnost</string>
   <string name="beauty_fun_privacy_dialog_message">Kada koristite kameru za značajke prepoznavanja lica, vaše će lice biti automatski otkriveno, a druga snimljena područja bit će maskirana.</string>
   <string name="beauty_fun_privacy_dialog_tips">Ova značajka može smanjiti stopu uspješnosti prepoznavanja lica</string>
@@ -1143,6 +1150,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="beauty_fun_privacy_tips">Kamera za privatnost sada će se prema zadanim postavkama koristiti s kompatibilnim značajkama prepoznavanja lica</string>
   <string name="beauty_fun_screen_light">Ispuna svjetlom zaslona</string>
   <string name="beauty_fun_settings_light">Svjetlina ispune svjetla</string>
+  <string name="beauty_fun_ultra_clear_check">"FocusFrame ne podržava Ultra HD način rada"</string>
   <string name="beauty_fun_video_effect">Uljepšaj za videozapis</string>
   <string name="beauty_portrait_center">Držite lica centriranim</string>
   <string name="beauty_portrait_center_desc">Automatsko prepoznavanje i centriranje lica u videopozivima i sastancima. Ovu značajku ne podržavaju neke aplikacije.</string>
@@ -1240,6 +1248,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bl_no_block_call">Nema blokiranih poziva.</string>
   <string name="bl_no_block_sms">Nema blokiranih poruka.</string>
   <string name="blacklist_prefix_add_hint">Blokiraj sve brojeve koji počinju s ovim predbrojem</string>
+  <string name="blacklist_prefix_add_hint_international">Blokiraj pozive koji počinju s određenim brojem</string>
   <string name="block_message_number">SMS-a: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Pozivi: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="blur_clipboard1">Zaštita međuspremnika</string>
@@ -1395,6 +1404,11 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cancal_to_setting_fingerprint">Odustani</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_button">Odustani</string>
+  <string name="car_sickness_relief_comment_text">Kada se detektira kretanje vozila, točkice se prikazuju na obje strane zaslona kako bi pokazale da li se vozilo kreće, što može pomoći u odgađanju pojave mučnine.</string>
+  <string name="car_sickness_relief_example_text_1">Kada vozilo ubrzava ili usporava</string>
+  <string name="car_sickness_relief_example_text_2">Kada vozilo skreće ili mijenja trak</string>
+  <string name="car_sickness_remind_time_title">Indikatori kretanja</string>
+  <string name="car_sickness_title">Olakšanje od mučnine</string>
   <string name="cancle">Odustani</string>
   <string name="card_main_apkclean_title">Brisanje aplikacija</string>
   <string name="card_main_appdataclean_title">Brisanje podataka aplikacije</string>
@@ -1987,6 +2001,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dont_bore_text">Utišaj obavijesti i isključi tipke za uklanjanje smetnji</string>
   <string name="dont_bore_title">DND način</string>
   <string name="download">Preuzmi</string>
+  <string name="download_tvm_limit_toast">Preuzimanje prekinuto. Ograničenje: %1$d MB. Pogledajte pojedinosti u Panelu obavijesti.</string>
   <string name="download_tvm_title">Dodatak za ključnu komponentu telefona</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="doze_optimization_summary">Povećajte osjetljivost na dodir i osjetljivost</string>
@@ -2551,6 +2566,8 @@ volonter"</string>
   <string name="game_anti_disturb_msg">Igra DND</string>
   <string name="game_balance_more_setting_title">Dodatne postavke</string>
   <string name="game_balance_vision_enhance_subtitle">Povećajte kontrast i poboljšajte detalje za igre</string>
+  <string name="game_balance_vision_enhance_subtitle_xring_sr">"Dostupno samo kada je razlučivost igre postavljena na najveću vrijednost"</string>
+  <string name="game_balance_vision_enhance_subtitle_xring_ys">"Dostupno samo kada je preciznost prikazivanja igre postavljena na najveću vrijednost"</string>
   <string name="game_balance_vision_enhance_title">Poboljšani vizualni elementi</string>
   <string name="game_booster">Game Turbo</string>
   <string name="game_booster_close">Game Turbo je isključen</string>
@@ -2694,6 +2711,8 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="gamebox_screenshot">Snimka zaslona</string>
   <string name="gamebox_simcard">Promjeni SIM kartice</string>
   <string name="gamebox_time">Timer</string>
+  <string name="gamebox_time_elapsed_time_talkback">%1$s %2$s</string>
+  <string name="gamebox_time_ready_to_start_talkback">Nije pokrenuto</string>
   <string name="gamebox_type_close">"Ne prikazuj"</string>
   <string name="gamebox_type_float">Prečac popravljen</string>
   <string name="gamebox_type_gesture">Povuci za prikaz</string>
@@ -2773,6 +2792,7 @@ i istražite naš izmjenjivač glasa!"</string>
   <string name="gb_voice_changer_user_status_renew">Obnovi</string>
   <string name="gb_voice_changer_user_tips_info_vip_expire">Vaša pretplata je istekla. Obnovite pretplatu sada i ostvarite pogodnosti!</string>
   <string name="gb_voice_changer_user_vip_expired">Isteklo</string>
+  <string name="gb_voice_changer_user_vip_loading">Samo trenutak…</string>
   <string name="gb_voice_changer_user_vip_remain_time">Datum isteka: %s</string>
   <string name="gb_xunyou_gift_type_one">Xunyou 1-dnevno pojačanje</string>
   <string name="gb_xunyou_gift_type_one_new">Xunyou %d-dnevno pojačanje</string>
@@ -2828,9 +2848,19 @@ i istražite naš izmjenjivač glasa!"</string>
   <string name="gb_barrage_chat_desc">Uvijek vjerujte da će se dogoditi nešto prekrasno</string>
   <string name="gb_barrage_chat_pre_desc">Pregled</string>
   <string name="gb_barrage_chat_text_color">Boja</string>
+  <string name="gb_barrage_chat_text_color_black_talkback">Crna</string>
+  <string name="gb_barrage_chat_text_color_blue_talkback">Plava</string>
+  <string name="gb_barrage_chat_text_color_red_talkback">Crvena</string>
+  <string name="gb_barrage_chat_text_color_white_talkback">Bijela</string>
+  <string name="gb_barrage_chat_text_color_yellow_talkback">Žuta</string>
   <string name="gb_barrage_chat_text_size">Veličina teksta</string>
   <string name="gb_barrage_chat_text_size_big">Veliki</string>
+  <string name="gb_barrage_chat_text_size_largest_talkback">Najveći</string>
+  <string name="gb_barrage_chat_text_size_medium_talkback">Srednji</string>
+  <string name="gb_barrage_chat_text_size_slightly_large_talkback">Veći</string>
+  <string name="gb_barrage_chat_text_size_slightly_small_talkback">Manji</string>
   <string name="gb_barrage_chat_text_size_small">Mali</string>
+  <string name="gb_barrage_chat_text_size_smallest_talkback">Najmanji</string>
   <string name="gb_barrage_chat_text_speed">Brzina</string>
   <string name="gb_barrage_chat_text_speed_faster">Brzo</string>
   <string name="gb_barrage_chat_text_speed_moderate">Srednje</string>
@@ -3066,12 +3096,15 @@ vašeg igranja"</string>
   <string name="gb_wonderful_video_save_suc">Spremljeno</string>
   <string name="gd_app_edit_done">Gotovo</string>
   <string name="gd_app_edit_title_new">Uredite najčešće korištene aplikacije s malim prozorima</string>
+  <string name="gd_beauty_manage_summary">Otvorite s bočne alatne kutije tijekom videopoziva za korištenje ove značajke</string>
+  <string name="gd_beauty_manage_title">Uljepšavanje za video pozive</string>
   <string name="gd_dock_shortcut_fullscreen">Cijeli zaslon</string>
   <string name="gd_dock_shortcut_splitescreen">Podijeljeni zaslon</string>
   <string name="gd_setting_conversation">Konferencijski alati</string>
   <string name="gd_setting_conversation_desc">Pruža niz značajki za korištenje u audio i video pozivima preko cijelog zaslona</string>
   <string name="gd_setting_dock_activity_title">Bočna kutija s alatima</string>
   <string name="gd_setting_dock_call_summary_new">Koristite Uljepšanje i druge značajke tijekom audio i video poziva preko cijelog zaslona</string>
+  <string name="gd_setting_group_custom_beauty_new">Upravljanje Uljepšanjem za video pozive</string>
   <string name="gd_setting_dock_call_title">Kutija s alatima za pozive</string>
   <string name="gd_setting_dock_game_summary">Poboljšajte prikaz i performanse tijekom igranja igrica</string>
   <string name="gd_setting_dock_game_summary_new">Poboljšajte prikaz i performanse tijekom igranja igrica</string>
@@ -3791,7 +3824,13 @@ Vaš je uređaj sad %s brži."</string>
   <string name="miui_optimization_close_final_tip">Isključiti HyperOS optimizaciju?</string>
   <string name="miui_optimization_close_title">Ova je značajka namijenjena programerima i možda nije prikladna za opće korisnike. Isključivanje HyperOS optimizacije moglo bi donijeti sljedeće promjene:</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđite u način uređivanja</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -3810,8 +3849,22 @@ Vaš je uređaj sad %s brži."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Pomaknite se prema dolje za zatvaranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Pomaknite se prema dolje do pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Pomaknite se prema dolje do minimiziranog</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Pomakni se do pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Pomičite se gore do maksimiziranja</string>
+  <string name="miuix_bottom_sheet_accessibility_state_half_screen">Pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Prebačen na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Prebačeno na maksimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Prebačeno na minimizirano</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -3820,6 +3873,9 @@ Vaš je uređaj sad %s brži."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="mixed_need_to_confirm">Unesite ponovno za potvrdu</string>
   <string name="mixed_password_confirmed_header_confirm">Uspješno postavljeno. Dodirnite za potvrdu.</string>
   <string name="mixed_password_confirmed_header_continue">Uspješno postavljeno. Dodirnite \"Dalje\".</string>
@@ -4312,6 +4368,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="optimize_result_toast_system_no_item_selected">Nema odabranih stavki</string>
   <string name="optional_permissions">Izborna dopuštenja</string>
   <string name="optional_permissions_desc">"Ova su dopuštenja potrebna kada koristite dodatne značajke."</string>
+  <string name="optmizingbar_item_img_description">Gotovo</string>
   <string name="optmizingbar_optimize_done">Optimizirano</string>
   <string name="optmizingbar_ready">Optimiziranje…</string>
   <string name="optmizingbar_stop_optmize">Stop</string>
@@ -4394,6 +4451,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_detail_curve_reference_now">Sad</string>
   <string name="pc_battery_detail_device_item_title">Statistika korištenja baterije</string>
   <string name="pc_battery_health_revise_title">Kalibracija informacija o stanju baterije</string>
+  <string name="pc_battery_history_accessibility_item_chart_binary">Vrijeme iskorišteno od posljednjeg punjenja: %1$s %2$s</string>
+  <string name="pc_battery_history_accessibility_item_chart_single">Vrijeme iskorišteno od zadnjeg punjenja: %1$s</string>
+  <string name="pc_battery_history_accessibility_item_consueme_list">%1$s, potrošnja baterije: %2$s</string>
   <string name="pc_battery_history_battery_detail_menu_item">Detalji</string>
   <string name="pc_battery_history_battery_software_menu_item">Software</string>
   <string name="pc_battery_history_consume_all_menu_item">Sve</string>
@@ -4494,6 +4554,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_going_to_extreme_mode">Ulazak u stanje hibernacije</string>
   <string name="pc_handle_battery_level">Zahvat</string>
   <string name="pc_have_no_battery_issue">Nema problema</string>
+  <string name="pc_health_charge_default">Napunite u potpunosti</string>
   <string name="pc_health_charge_protect_noti_summary_title">Uređaj će se prestati puniti kada razina baterije dosegne %1$s</string>
   <string name="pc_hide_more_power_rank_apps">Sakrij</string>
   <string name="pc_hidemode_normal">Uravnoteženo</string>
@@ -4511,10 +4572,13 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_hight_refresh_rate_reminder_title">Gledanje videozapisa s velikom brzinom sličica u sekundi</string>
   <string name="pc_health_charge_protect_notification_summary">Uključite zaštitu baterije kako biste smanjili starenje baterije</string>
   <string name="pc_health_charge_protect_summary">Za produljenje trajanja baterije, uređaj će se prestati puniti kada razina baterije dosegne %1$s</string>
+  <string name="pc_health_charge_protect_summary_new">Kako bi se produžio vijek trajanja baterije, uređaj će se prestati puniti kada razina baterije dosegne %1$s i potpuno će se napuniti samo prema rasporedu</string>
   <string name="pc_health_charge_protect_title">Zaštita baterije</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_intellect_charge_protect_summary">Prilagodite punjenje na temelju scenarija korištenja</string>
   <string name="pc_intellect_charge_protect_title">Optimizirano punjenje</string>
+  <string name="pc_is_exiting_low_temperature">"Isključuje se
+Način otpornosti na hladnoću"</string>
   <string name="pc_is_exiting_super_power">"Isključivanje Ultra štednje baterije"</string>
   <string name="pc_keywords_fast_charge">Brzo punjenje</string>
   <string name="pc_keywords_low_power_consumption_save">Štednja baterije</string>
@@ -4535,7 +4599,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_low_battery_fast_charge_summary">Priključite isporučeni punjač kako biste ubrzali punjenje kada je zaslon isključen i baterija je prazna. Ova značajka može uzrokovati zagrijavanje vašeg uređaja.</string>
   <string name="pc_low_temp_charge_summary">Punjač neka bude priključen i pričekajte da se baterija zagrije nakon što se zaslon ugasi kako biste normalno punili</string>
   <string name="pc_low_temp_charge_title">Punjenje na niskoj temperaturi</string>
-  <string name="pc_low_temperature_extreme_endurance_summary">Ograničite performanse uređaja kako biste produljili trajanje baterije kada je temperatura okoline izuzetno niska</string>
+  <string name="pc_low_temperature_extreme_endurance_summary">Ograničite performanse uređaja kako biste produljili trajanje baterije u hladnim okruženjima</string>
   <string name="pc_low_temperature_extreme_endurance_title">Način otpornosti na hladnoću</string>
   <string name="pc_main_activity_back">Natrag</string>
   <string name="pc_main_battery_text_day">Dodano %1$sm, preostalo oko %2$sd</string>
@@ -6585,11 +6649,11 @@ Povući suglasnost sada?"</string>
   <string name="st_sub_title_whiteblack_list_group">Popis blokiranih</string>
   <string name="st_sum_call_wait">Vaša poruka \"Odsutan sam\" će se reproducirati kao zauzet signal za dolazne pozive.</string>
   <string name="st_summary_blacklist_numbers">Blokiraj pozive i poruke iz određenih brojeva i područja</string>
-  <string name="st_summary_blacklist_numbers_international">Blokiraj pozive i poruke iz određenih brojeva</string>
+  <string name="st_summary_blacklist_numbers_international">Blokirajte pozive na temelju broja ili prefiksa</string>
   <string name="st_summary_keywords_blacklist">Dodajte ključne riječi da biste blokirali poruke</string>
   <string name="st_summary_special_numbers">Blokiraj označene brojeve telefona</string>
   <string name="st_summary_whitelist_numbers">Dopusti pozive i poruke iz određenih brojeva i područja</string>
-  <string name="st_summary_whitelist_numbers_international">Dopusti pozive i poruke iz određenih brojeva</string>
+  <string name="st_summary_whitelist_numbers_international">Dopusti pozive na temelju broja ili prefiksa</string>
   <string name="st_tab_title">%1$s (SIM %2$d)</string>
   <string name="st_tab_title_esim">%1$s (eSIM)</string>
   <string name="st_title_addblacklist">Dodaj na popis blokiranih</string>
@@ -6962,6 +7026,9 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="tab_sms">SMS</string>
   <string name="tab_sort_all">Sve</string>
   <string name="tab_title">Popis blokiranih</string>
+  <string name="talkback_virus_scan_omitted">Nije skenirano</string>
+  <string name="talkback_virus_scan_risky">Rizično</string>
+  <string name="talkback_virus_scan_safe">Sigurno</string>
   <string name="task_summary_close_airplane">Isključi Zrakoplovni način</string>
   <string name="task_summary_close_auto_brightness">Isključi autom. svjetlinu</string>
   <string name="task_summary_close_bluetooth">Isključi Bluetooth</string>
@@ -7130,6 +7197,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="text_cycle_day">%s</string>
   <string name="text_day"/>
   <string name="text_done">U redu</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="text_lock_info">Iscrtajte uzorak za otključavanje</string>
   <string name="text_security">Privatnost</string>
   <string name="there_is_no">Sve izgleda dobro, vratite se kasnije</string>
@@ -7853,6 +7921,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="white_list_risk_app_header">Opasne aplik.: %d</string>
   <string name="white_list_trojan_header">Trojanci: %d</string>
   <string name="whitelist_prefix_add_hint">Dodaj sve brojeve s predbrojem u iznimke</string>
+  <string name="whitelist_prefix_add_hint_international">Dopusti pozive koji počinju s određenim brojem</string>
   <string name="wifi_danger_dialog_messgae">Trenutna Wi-Fi mreža može predstavljati sigurnosni rizik. Koristite je s oprezom.</string>
   <string name="wifi_danger_dialog_tips">Sigurnošću Wi-Fi-ja možete upravljati u Sigurnost &gt; Sigurnosno skeniranje &gt; Postavke &gt; Wi-Fi.</string>
   <string name="wifi_danger_dialog_title">"Wi-Fi mreža nije sigurna"</string>

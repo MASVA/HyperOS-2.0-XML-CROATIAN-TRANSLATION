@@ -136,6 +136,10 @@
         <item>"Mobilni podaci "</item>
         <item>"Wi-Fi "</item>
     </string-array>
+	<string-array name="mition_sickness_remind_time_items_text">
+        <item>Kada ste u pokretu</item>
+        <item>Sve vrijeme</item>
+    </string-array>
     <string-array name="miui_optimization_close_intercept">
         <item>Važno: Više aplikacija sustava može prestati raditi ispravno.</item>
         <item>Izgled teksta, računi i sadržaj možda se neće prikazati ispravno.</item>

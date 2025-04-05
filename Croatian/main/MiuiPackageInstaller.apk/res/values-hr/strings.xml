@@ -30,6 +30,10 @@
 	<string name="abc_toolbar_collapse_description">Sažmi</string>
 	<string name="about_pure_mode">O Mi Protect</string>
 	<string name="about_safe_mode">Saznajte više o Mi Protect</string>
+	<string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+   <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+   <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+   <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
 	<string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
 	<string name="actionbar_button_up_description">Natrag</string>
 	<string name="ad_permissions">&lt;u>Dopuštenja&lt;u/></string>
@@ -65,7 +69,8 @@
 	<string name="app_info_permissions_format">%1$s %2$s</string>
 	<string name="app_info_size">Veličina: %1$s</string>
 	<string name="app_info_version">Verzija: %1$s</string>
-	<string name="app_info_version_replace">Version: %1$s -> %2$s</string>
+	<string name="app_info_version_replace">Verzija: %1$s -> %2$s</string>
+	<string name="app_info_version_replace_talkback">Ažuriranje s verzije %1$s na verziju %2$s</string>
 	<string name="app_installed_notification_channel_description">Obavijest o instaliranoj aplikaciji</string>
 	<string name="app_install_safe_check">Provjerite aplikacije prije instalacije</string>
 	<string name="app_installing_not_allow">"Blokirali ste instalaciju %1$s %1$s. "</string>
@@ -303,6 +308,8 @@
 	<string name="icon_content_description">Ikona dijaloga</string>
 	<string name="ignore_virus_install_text">Razumijem sve moguće rizike. %1$s</string>
 	<string name="ignore_virus_install_text_clickable">Svejedno instaliraj</string>
+	<string name="input_pattern_hint_text">Nacrtajte svoj uzorak za otključavanje</string>
+   <string name="input_text_count_limit_talkback">%1$s %2$s</string>
 	<string name="install">Instaliraj</string>
 	<string name="install_abi_error">"Ova aplikacija nije kompatibilna s 32-bitnom arhitekturom"</string>
 	<string name="install_abi_error_des">Umjesto toga instalirajte 32-bitnu verziju ove aplikacije</string>
@@ -369,10 +376,12 @@
 	<string name="lock_screen_authrioze_subtitle_password">Autorizirajte sa Zaklj. zaslona</string>
 	<string name="lock_screen_password_authrioze">Potvrdite Zaklj. zaslona za instalaciju</string>
 	<string  name="lock_screen_risk">Zaklj. zaslona</string>
-	<string name="lockscreen_access_pattern_cell_added">Dodana ćelija</string>
-	<string name="lockscreen_access_pattern_cleared">Uzorak izbrisan</string>
-	<string name="lockscreen_access_pattern_start">Uzorak pokrenut</string>
-	<string name="login_to_install">Prijavite se da biste instalirali</string>
+   <string name="lockscreen_access_pattern_area">Otključaj područje uzorka</string>
+   <string name="lockscreen_access_pattern_cell_added_verbose">Dodana točka %1$s</string>
+   <string name="lockscreen_access_pattern_cleared">Uzorak izbrisan</string>
+   <string name="lockscreen_access_pattern_detected">Dovršeni uzorak za crtanje</string>
+   <string name="lockscreen_access_pattern_start">Počnite crtati uzorak</string>
+   <string name="login_to_install">Prijavite se da biste instalirali</string>
 	<string name="login_to_install_des">Prijavite se na svoj Xiaomi račun da nastavite s instalacijom. Također možete promijeniti postavke instalacije u Postavke &gt; Instaliraj rizične aplikacije.</string>
 	<string name="login_xiaomi_account">Prijavite se</string>
 	<string name="manage_applications">Upravljanje aplikacijama</string>
@@ -449,7 +458,13 @@
 	<string name="miui_uninstall_success">Uspješno deinstalirano</string>
 	<string name="miui_uninstalling">Deinstaliranje…</string>
 	<string name="miuix_access_state_desc">Odabrano</string>
-	<string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+	<string name="miuix_accessibility_title">Naslov</string>
+   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+   <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+   <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
+   <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđite u način uređivanja</string>
 	<string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
 	<string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -465,8 +480,9 @@
 	<string name="miuix_appcompat_select_all">Odaberi sve</string>
 	<string name="miuix_appcompat_select_all_description">Odaberi sve</string>
 	<string name="miuix_appcompat_select_item">Odaberi stavke</string>
+	<string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
 	<string name="miuix_indexer_collect">Zbirke</string>
-	<string name="miuix_indexer_selected">Odabrano %s</string>
+	<string name="miuix_progressbar_loading">Samo trenutak…</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -475,6 +491,9 @@
 	<string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+	<string name="miuix_show_password">Prikaži zaporku</string>
+   <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+   <string name="miuix_stretchablewidget_expanded">Prošireno</string>
 	<string name="monday">Ponedjeljak</string>
 	<string name="monday_short">Pon</string>
 	<string name="monday_shortest">P</string>
@@ -559,6 +578,7 @@
 	<string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na prikaz kalendara</string>
 	<string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
 	<string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na prikaz godine</string>
+	<string name="negative_number_talkback">Negativno %1$d</string>
 	<string name="mtrl_timepicker_cancel">Odustani</string>
 	<string name="mtrl_timepicker_confirm">U redu</string>
 	<string name="net_work_error_msg">"Ne mogu se povezati s mrežom radi izvođenja sigurnosne provjere"</string>
@@ -931,6 +951,7 @@
 	<string name="safe_mode_in_service">Mi Protect u usluzi</string>
 	<string name="safe_mode_introduce_close_tip">Pažnja</string>
 	<string name="safe_mode_introduce_close_tip_des">Za vašu privatnost i sigurnost preporučujemo da Mi Protect ostane uključen.</string>
+	<string name="safe_mode_tip_arrow_talkback">Dodirnite za otvaranje Mi Protect postavki</string>
 	<string name="safe_mode_tip_title_off_msg">Mi Protect je isključen</string>
 	<string name="safe_mode_tip_title_on_msg">Mi Protect</string>
 	<string name="safe_mode_title_text">Mi Protect</string>
@@ -1088,6 +1109,7 @@ dolaze"</string>
 	<string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
 	<string name="tango_dialog_content">Uključite način rada kompatibilnosti aplikacija da biste mogli instalirati %1$d-bitne aplikacije.</string>
    <string name="tango_dialog_title">Način kompatibilnosti aplikacije</string>
+   <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
 	<string name="thirty_days_no_asking">"Nemoj više pitati 30 dana"</string>
 	<string name="this_installation">Instaliraj</string>
 	<string name="thursday">Četvrtak</string>

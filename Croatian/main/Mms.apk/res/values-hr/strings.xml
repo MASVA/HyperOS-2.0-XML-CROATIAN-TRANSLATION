@@ -27,6 +27,10 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="action_firewall_setting">Popis blokiranih</string>
   <string name="action_get_otp">Dobij kod</string>
   <string name="action_settings">Postavke</string>
@@ -79,12 +83,15 @@ Pokušajte ponovno."</string>
   <string name="ai_sum_internal_test_content">Sažetak AI poruka koristi velike mogućnosti modela za sažimanje poruka i prikazivanje ključnih informacija. Uključivanje ove značajke malo će povećati potrošnju energije.</string>
   <string name="ai_sum_internal_test_disagree">"Ne prihvaćam"</string>
   <string name="ai_sum_internal_test_title">Sažetak beta testne AI poruke</string>
-  <string name="ai_summary_description">Neka umjetna inteligencija sažima duge poruke kako bi vam prikazala ključne informacije. Ova značajka malo će povećati potrošnju energije.</string>
+  <string name="ai_summary_description">Neka AI sažima duge poruke kako bi vam prikazala ključne informacije. Ova značajka malo će povećati potrošnju energije.</string>
   <string name="ai_summary_dialog_content"><Data>"Sažetak AI poruka pruža pametne sažetke ključnih informacija iz dugih poruka. Xiaomi mora pristupiti sadržaju poruke kako bi omogućio ovu značajku, ali Xiaomi neće pohraniti te informacije.&lt;br />&lt;br />Pročitajte i prihvatite naš &lt;a href=\"%1$s\">AI Message Summary User Agreement&lt;/a> i &lt;a href=\"%2$s\">AI Message Summary Privacy Policy&lt;/a> prije korištenja ove usluge."</Data></string>
   <string name="ai_summary_dialog_title">Potrebna su dopuštenja</string>
+  <string name="ai_summary_model_info">Naziv modela: Xiaomi tekst na uređaju</string>
   <string name="ai_summary_privacy_content">"Kada koristite sažetak AI poruka, sadržaj sažetka (uključujući sve privatne podatke u njemu) obradit će Xiaomi, ali Xiaomi neće pohraniti te podatke."</string>
   <string name="ai_summary_privacy_tip"><Data>Pročitajte &lt;a href=\"%1$s\">AI Message Summary Privacy Policy&lt;/a> da biste razumjeli kako upravljamo vašim podacima. Za više informacija o ovoj usluzi pročitajte &lt;a href=\"%2$s\">AI Message Summary User Agreement&lt;/a>.</Data></string>
   <string name="ai_summary_privacy_title">Izjava o privatnosti</string>
+  <string name="ai_summary_public_info">Podaci o registraciji</string>
+  <string name="ai_summary_record"><Data>Matični broj: &lt;a href=\"%1$s\">Beijing-XiaoMiDuanCeWenBen-202412100047&lt;/a></Data></string>
   <string name="aim_show_card">Prikaži karticu</string>
   <string name="aim_show_original">Prikaži poruku</string>
   <string name="alert_ai_sum_close_content">"Ako isključite Smart Messaging, nećete moći koristiti sažetak AI poruka."</string>
@@ -236,6 +243,7 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="confirm_dlg_title">Upravljanje uređaja</string>
   <string name="confirm_export_dialog_description">Ukloniti odabrani privatni kontakt, razgovor će biti pretvoren u normalan SMS. Želite li nastaviti?</string>
   <string name="confirm_export_dialog_title">Ukloni privatni kontakt</string>
+  <string name="confirm_invalid_recipient">Razumijem</string>
   <string name="confirm_no_block_positive">"Ne blokiraj i vrati"</string>
   <string name="confirm_no_block_title">"Deblokirati taj broj i vratiti sve poruke poslane s tog broja?\n(Broj će biti dodan u iznimke.)"</string>
   <string name="confirm_rate_limit">Šalje se veliki broj multimedijskih poruka. Je li to u redu?</string>
@@ -248,6 +256,7 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="confirm_upload_sms">Učitajte poruke da biste poboljšali funkcionalnost popisa blokiranja</string>
   <string name="contact_card_unknown_contact">Nepoznati kontakt</string>
   <string name="contact_not_exists">"Ta osoba nije u vašim kontaktima."</string>
+  <string name="contain_invalid_recipient">"Izgleda da ste unijeli nevažeće ime primatelja."</string>
   <string name="context_menu_access_link">Otvori poveznicu</string>
   <string name="context_menu_add_calendar">Dodaj u Kalendar</string>
   <string name="context_menu_add_contact">Dodaj u Kontakte</string>
@@ -314,6 +323,8 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="deliver_status">Izvješća o isporuci</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
+  <string name="description_chatbot_favorite">Dodano u favorite</string>
+  <string name="description_chatbot_no_favorite">Nije dodano u favorite</string>
   <string name="dialog_agree">Prihvaćam</string>
   <string name="dialog_cancel">Odustani</string>
   <string name="dialog_choice_all_correct_as_normal">Sve poruke od %s</string>
@@ -676,7 +687,13 @@ Provjerite svoju SIM karticu."</string>
   <string name="mi_message_title">Mi Poruka</string>
   <string name="millionbyte">MB</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđite u način uređivanja</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberite sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberite stavke</string>
@@ -695,8 +712,10 @@ Provjerite svoju SIM karticu."</string>
   <string name="miuix_appcompat_select_all">Odaberite sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberite sve</string>
   <string name="miuix_appcompat_select_item">Odaberite stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_item_view_role_description">Kartica</string>
   <string name="miuix_navigator_category_group_collapse">Sažmi</string>
   <string name="miuix_navigator_category_group_expand">Proširi</string>
@@ -711,6 +730,9 @@ Provjerite svoju SIM karticu."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="mms">MMS</string>
   <string name="mms_5g_mms_privacy_policy">Politika o privatnosti 5G poruka</string>
   <string name="mms_5g_mms_privacy_policy_revoke">Povlačenje suglasnosti Pravila o privatnosti 5G poruka</string>
@@ -1254,6 +1276,7 @@ Pogledajte one preporučene!"</string>
   <string name="rcs_chatdetail_menu_delete_content">Želite li ukloniti ovu mini aplikaciju sa svog uređaja?</string>
   <string name="rcs_chatdetail_menu_delete_error">"Uklanjanje nije uspjelo. Pokušajte ponovo."</string>
   <string name="rcs_chatdetail_menu_delete_success">Uspješno uklonjeno</string>
+  <string name="rcs_chatdetail_menu_more">Više</string>
   <string name="rcs_chatdetail_menu_more_chabot">Više informacija</string>
   <string name="rcs_chatdetail_menu_post">Prijavi</string>
   <string name="rcs_chatdetail_menu_remove_black">Deblokiraj</string>
@@ -1283,6 +1306,7 @@ Pogledajte one preporučene!"</string>
   <string name="rcs_config_tls_port">Tls Port</string>
   <string name="rcs_conversation_rcs_tip">Mini aplikacija: %s</string>
   <string name="rcs_create_new_group">Izradi grupni razgovor</string>
+  <string name="rcs_download">Preuzmi</string>
   <string name="rcs_delete_group_notification_hint">Brisanje…</string>
   <string name="rcs_dspt">Nakon što su korisnici China Mobile uključeni, poruke se po zadanom šalju putem Wi-Fi-ja ili mobilne mreže.</string>
   <string name="rcs_dspt_unavailable">"Ne možete koristiti ovu značajku. Kineska SIM Mobile kartica nije vaša zadana podatkovna kartica."</string>
@@ -1654,6 +1678,7 @@ Pogledajte one preporučene!"</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Obavijesti</string>
   <string name="sp_mark_as_read_menu_title">Označi kao pročitano</string>
+  <string name="sp_mark_as_unread_menu_title">Označi kao nepročitano</string>
   <string name="sp_msg_entry">Usluge</string>
   <string name="sqlite_disk_full">Prostor za pohranu na vašem uređaju je pun.</string>
   <string name="sqlite_low_memory">Nema dovoljno prostora za pohranu</string>
@@ -1756,6 +1781,7 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="tab_message">Poruke</string>
   <string name="tab_promotions">Promocije</string>
   <string name="text_in_popup_saved_to_clipboard">Uređivan tekst u skočnom prozoru je spremljen u međuspremnik</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="text_message">Tekstualna poruka</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
@@ -1868,6 +1894,7 @@ Broj pokušaja: %s."</string>
   <string name="view_bookmark">Prikaži originalnu poruku</string>
   <string name="view_group_detail_title">Prikaži detalje razgovora</string>
   <string name="view_message_details">Prikaži detalje razgovora</string>
+  <string name="view_more_button">Prikaži pojedinosti</string>
   <string name="view_my_prof">Prikaži moju RCS kontakt karticu</string>
   <string name="vital_signs_cta_body">"Podaci o vitalnim znakovima (uključujući broj otkucaja srca, SpO₂ i informacije o zdravstvenoj kartici) preuzeti su iz Mi Fitnessa. Označavanjem ispod označavate da pristajete na pristup i korištenje ovih podataka.
 Zadržat će se samo prvih 50 znakova svake stavke medicinske kartice radi kontrole duljine poruke."</string>

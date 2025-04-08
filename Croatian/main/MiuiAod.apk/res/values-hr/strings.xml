@@ -27,6 +27,10 @@
   <string name="above_image">Gore</string>
   <string name="accessibility_battery_level">Baterija %d posto.</string>
   <string name="accessibility_battery_level_charging">Punjenje, baterija %d posto.</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="add_custom_image">Vlastita slika</string>
   <string name="add_from_album">Dodaj iz Galerije</string>
@@ -74,8 +78,12 @@ dd.MM."</string>
   <string name="aod_resting_screen_define">Prilagođeno</string>
   <string name="aod_resting_screen_same_to_lock">Isto kao zaključani zaslon</string>
   <string name="aod_resting_screen_style_title">Tema</string>
+  <string name="aod_setting_pad_des2">Boja sata odgovarat će boji vaše pozadine</string>
   <string name="aod_show_date_and_time">Prikaži datum i vrijeme</string>
+  <string name="aod_show_mode_title_des_pad">Uvijek prikaži tijekom punjenja</string>
   <string name="aod_show_style_title">Prikaži stavke</string>
+  <string name="aod_show_title_des_pad">Isključi zaslon kada uređaj otkrije da ga netko gleda. To može povećati potrošnju energije.</string>
+  <string name="aod_show_widget_date">Prikaži datum</string>
   <string name="aod_signature_12">hh:mm aa</string>
   <string name="aod_style">Teme</string>
   <string name="aod_theme_store">Always-on teme</string>
@@ -173,6 +181,12 @@ dd.MM."</string>
   <string name="humidity_format_with_unit">%s</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="item_view_role_description">Kartica</string>
+  <string name="keyguard_shortcut_empty">Ništa</string>
+  <string name="keyguard_shortcut_open_failed">"Nije moguće pokrenuti aplikaciju. Pokušajte ponovno."</string>
+  <string name="keyguard_shortcut_slide_enter">Povucite za otvaranje</string>
+  <string name="keyguard_shortcut_tab_left">Lijevo</string>
+  <string name="keyguard_shortcut_tab_right">Desno</string>
+  <string name="keyguard_shortcut_title">Prečaci</string>
   <string name="kg_activity_label">Uređivanje zaključanog zaslona</string>
   <string name="kg_aod_settings_depth_video_toast">Samo prilagođeni Always-on zaslon podržan je kada se koristi efekt dubine</string>
   <string name="kg_apply">Primjeni</string>
@@ -248,14 +262,15 @@ dd.MM."</string>
   <string name="kg_depth_produce_video_failed">"Nije moguće primijeniti efekt dubine"</string>
   <string name="kg_depth_produce_video_progress_dialog_label">AI obrađuje efekt dubine videa…</string>
   <string name="kg_depth_video_apply_aod_close_toast">Efekt video dubine je uključen. Always-on prikaz preko cijelog zaslona je isključen.</string>
+  <string name="kg_dialog_apply_linkage_video_wallpaper_confirm">"Trenutno koristite skup pozadina. Ako primijenite novu temu, pozadine zaključanog i početnog zaslona bit će zamijenjene. Svejedno nastaviti?"</string>
   <string name="kg_dialog_apply_linkage_video_wallpaper_confirm_title">Primijeni temu</string>
   <string name="kg_dialog_apply_linkage_video_wallpaper_negative_button">Odustani</string>
   <string name="kg_dialog_apply_linkage_video_wallpaper_positive_button">Primijeni</string>
-  <string name="kg_dialog_apply_linkage_video_wallpaper_wallpaper_confirm">"Sada koristite postavljenu pozadinu. Ako primijenite novu temu, pozadine zaključanog i početnog zaslona bit će zamijenjene, a uvijek uključeni zaslon vratit će se na prethodni stil . Svejedno prijaviti?"</string>
+  <string name="kg_dialog_apply_linkage_video_wallpaper_wallpaper_confirm">"Sada koristite postavljenu pozadinu. Ako primijenite novu temu, pozadine zaključanog i početnog zaslona bit će zamijenjene, a Always-on zaslon vratit će se na prethodni stil. Svejedno primijeniti?"</string>
   <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Ovaj zaključani zaslon ne podržava Super pozadine. Pozadina na početnom i zaključanom zaslonu bit će zamijenjena ako nastavite. Svejedno nastaviti?"</string>
   <string name="kg_dialog_apply_successful">Uspješno primijenjeno</string>
-  <string name="kg_dialog_apply_super_wallpaper_confirm">"Trenutačno koristite Super pozadinu. Ako nastavite, bit će zamijenjena novom pozadinom na početnom i zaključanom zaslonu. Želite li svejedno nastaviti?"</string>
-  <string name="kg_dialog_apply_super_wallpaper_nagetive_button">Odustani</string>
+  <string name="kg_dialog_apply_super_wallpaper_confirm">"Sada koristite Super pozadinu. Ako primijenite novu temu, pozadine zaključanog i početnog zaslona bit će zamijenjene, a Always-on zaslon vratit će se na zadane postavke. Primijeniti sada?"</string>
+  <string name="kg_dialog_apply_super_wallpaper_confirm_title">Pažnja</string>
   <string name="kg_dialog_apply_super_wallpaper_negative_button">Odustani</string>
   <string name="kg_dialog_apply_super_wallpaper_positive_button">U redu</string>
   <string name="kg_dialog_enable_depth_function">Prvo uključite efekt dubine</string>
@@ -327,6 +342,8 @@ dd.MM."</string>
   <string name="kg_font_filter_object_label_hour_date">Sat i datum</string>
   <string name="kg_font_filter_object_label_main_content">Glavni</string>
   <string name="kg_font_filter_object_label_minute">Minute</string>
+  <string name="kg_font_filter_object_label_primary">Primarni</string>
+  <string name="kg_font_filter_object_label_secondary">Sekundarni</string>
   <string name="kg_font_filter_object_label_signature">Potpis</string>
   <string name="kg_font_filter_object_label_time">Vrijeme</string>
   <string name="kg_font_filter_object_label_time_weather">Vremenski sat</string>
@@ -337,7 +354,7 @@ dd.MM."</string>
   <string name="kg_function_button_text_hierarchy">Dubina</string>
   <string name="kg_function_button_text_lang">Jezik</string>
   <string name="kg_function_button_text_wallpaper">Pozadina</string>
-  <string name="kg_gallery_reset_magic_type_tips">"Nije moguće postaviti efekte pri korištenju dijaprojekcije pozadine. Vraćena izvorna slika."</string>
+  <string name="kg_gallery_reset_magic_type_tips">"Nije moguće postaviti efekte pri korištenju dijaprojekcije pozadine. Vraćena originalna slika."</string>
   <string name="kg_glass_filter_on_time">Primijeni na sat</string>
   <string name="kg_guidance_dialog_positive_button_text_next_step">Dalje</string>
   <string name="kg_guidance_dialog_positive_button_text_start">Početak</string>
@@ -405,6 +422,7 @@ dd.MM."</string>
   <string name="kg_template_title_eastern_art">Istočnjačka estetika</string>
   <string name="kg_template_title_magazine">Časopis</string>
   <string name="kg_template_title_mine">Zaključani zaslon</string>
+  <string name="kg_template_title_pets">Životinje</string>
   <string name="kg_template_title_rhombus">Romb</string>
   <string name="kg_time_language_string">Brojke</string>
   <string name="kg_tip_cant_get_third_party_wallpaper">"Ne mogu pristupiti pozadini treće strane"</string>
@@ -485,7 +503,11 @@ mm"</string>
   <string name="miui_vertical_time_format_24">"HH
 mm"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Traka inedksa</string>
+  <string name="miuix_accessibility_title">Naslov</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova poruka</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Pokreni način rada za uređivanje</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -502,9 +524,21 @@ mm"</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Prevucite prema dolje za zatvaranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Prevucite prstom prema dolje za prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Prevucite prema dolje za minimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Prevucite prstom prema gore za prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Prevucite prstom prema gore za maksimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_state_half_screen">Pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Prebaci na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Maksimiziraj</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimiziraj</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_popup_window_default_title">Skočni prozor</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -513,6 +547,9 @@ mm"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="modify_scheduled_time">Promjeni vrijeme</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
@@ -657,9 +694,9 @@ mm"</string>
   <string name="signature_default_content">"Samo za vas;
   by MASVA"</string>
   <string name="smart_style">Pametno</string>
-  <string name="smart_style_summary">"Ne prikazuj kada je uređaj u džepu, kad je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledate u zaslon"</string>
-  <string name="smart_style_summary_inner">"Ne prikazuj kada je uređaj u džepu, ako je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledate u unutarnji zaslon"</string>
-  <string name="smart_style_summary_outer">"Ne prikazuj kada je uređaj u džepu, ako je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledate u vanjski zaslon"</string>
+  <string name="smart_style_summary">Kada netko gleda u zaslon</string>
+  <string name="smart_style_summary_inner">Kada netko gleda u unutarnji zaslon</string>
+  <string name="smart_style_summary_outer">Kada netko gleda u vanjski zaslon</string>
   <string name="somatosensory_temperature_format">Osjećaj je kao %s°</string>
   <string name="standard_clock_panel">Standardno</string>
   <string name="standard_style">Standardno</string>
@@ -688,6 +725,7 @@ dd.MM."</string>
   <string name="temporary_style_5">5 sekundi nakon dodira</string>
   <string name="temporary_style_summary">Preporučeno</string>
   <string name="text_color">Boja teksta</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="text_length_exceed_limit_alert">*Tekst koji ste unijeli je predugačak</string>
   <string name="text_size">Veličina teksta</string>
   <string name="theme_cate_title">Tema</string>

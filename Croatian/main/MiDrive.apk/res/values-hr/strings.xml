@@ -30,8 +30,8 @@
   <string name="about_title">O aplikaciji</string>
   <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
   <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
-  <string name="accessibility_tab_state_description_unselect">Neodabrano</string>
-  <string name="accessibility_tab_statedesc_unselect">Neodabrano</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="about_version">"Verzija: "</string>
   <string name="account_bind_secure_email_title">Dodaj e-poštu</string>
   <string name="account_bind_secure_phone_title">Dodaj broj telefona</string>
@@ -373,9 +373,10 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
-  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Završi način rada za uređivanje</string>
-  <string name="miuix_appcompat_accessibility_new_message">Nova poruka</string>
-  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Pokreni način rada za uređivanje</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

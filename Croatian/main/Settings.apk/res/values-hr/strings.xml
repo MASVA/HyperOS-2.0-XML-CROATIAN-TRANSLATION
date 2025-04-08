@@ -9727,6 +9727,7 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="photography_handle_launch_and_take_photo">Snimi fotografiju</string>
   <string name="photography_handle_launch_camera">Otvori kameru</string>
   <string name="photography_handle_long_press_camera_key_enter_camera">Pritisnite i držite okidač za izvođenje radnje</string>
+  <string name="photography_handle_low_battery_notify_title">Ažuriranje firmvera ručke kamere</string>
   <string name="photography_handle_sn">Serijski broj</string>
   <string name="photography_handle_quick_launch_camera_title">Brzo pokretanje</string>
   <string name="photography_handle_title">Držač kamere</string>

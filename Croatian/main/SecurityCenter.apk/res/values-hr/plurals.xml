@@ -1336,6 +1336,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">%s puta</item>
         <item quantity="one">%s put</item>
     </plurals>
+	<plurals name="privacy_revoke_dialog_positive_text_numbers_description">
+        <item quantity="other">Možete povući suglasnost za %d sek.</item>
+        <item quantity="one">Možete povući suglasnost za %d sekundu</item>
+    </plurals>
     <plurals name="privacy_risk_app_count">
         <item quantity="other">%d aplikacija</item>
         <item quantity="one">%d aplikacija</item>

@@ -491,11 +491,11 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
-  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Prevucite prema dolje za zatvaranje</string>
-  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Prevucite prstom prema dolje za prebacivanje na pola zaslona</string>
-  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Prevucite prema dolje za minimiziranje</string>
-  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Prevucite prstom prema gore za prebacivanje na pola zaslona</string>
-  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Prevucite prstom prema gore za maksimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Povucite prema dolje za zatvaranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Povucite prstom prema dolje za prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Povucite prema dolje za minimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Povucite prstom prema gore za prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Povucite prstom prema gore za maksimiziranje</string>
   <string name="miuix_bottom_sheet_accessibility_state_half_screen">Pola zaslona</string>
   <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimizirano</string>
   <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimizirano</string>

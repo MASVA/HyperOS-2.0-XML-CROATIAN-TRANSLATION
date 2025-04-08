@@ -174,7 +174,7 @@
   <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
   <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
-  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđite u način uređivanja</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

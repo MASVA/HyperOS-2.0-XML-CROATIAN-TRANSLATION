@@ -650,10 +650,8 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="menu_unlock">Ukloni iz favorita</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="menu_view_group_info">Informacije o grupi</string>
-  <string name="message_cannot_send_air_mode">"Ne mogu poslati poruke.
-Prvo isključite Zrakoplovni način."</string>
-  <string name="message_cannot_send_sim_unavailable">"Ne mogu poslati poruke.
-Provjerite svoju SIM karticu."</string>
+  <string name="message_cannot_send_air_mode">Isključite Zrakoplovni način za slanje poruka</string>
+  <string name="message_cannot_send_sim_unavailable">Umetnite SIM karticu za slanje poruka</string>
   <string name="message_class_label">"Klasa poruke: "</string>
   <string name="message_contact">Kontakt:</string>
   <string name="message_details_title">Pojedinosti poruke</string>

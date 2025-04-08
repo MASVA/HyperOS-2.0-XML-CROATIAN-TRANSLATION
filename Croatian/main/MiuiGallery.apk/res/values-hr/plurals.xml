@@ -297,9 +297,9 @@
         <item quantity="other">"Ne mogu preuzeti %1$d datoteka, provjerite mrežnu vezu i pokušajte ponovno"</item>
         <item quantity="one">"Ne mogu preuzeti %1$d datoteku, provjerite mrežnu vezu i pokušajte ponovno"</item>
     </plurals>
-    <plurals name="downloading_title_link">
-        <item quantity="other">Preuzimanje stavki iz clouda (%2$d/%1$d)</item>
-        <item quantity="one">Preuzimanje stavki iz clouda (%2$d/%1$d)</item>
+	 <plurals name="downloading_title_link">
+	  <item quantity="other">Učitavanje stavki iz clouda (%2$d/%1$d)</item>
+     <item quantity="one">Učitavanje stavki iz clouda (%2$d/%1$d)</item>
     </plurals>
 	 <plurals name="drop_contain_several_same_name_file">
         <item quantity="other">"Ne mogu spremiti. %d datoteke s ovim nazivom već postoje."</item>
@@ -553,7 +553,7 @@
         <item quantity="one">Pronađena %d stavka</item>
     </plurals>
 	 <plurals name="search_title_new_ai">
-        <item quantity="other">Pronađeno %ditavka</item>
+        <item quantity="other">Pronađeno %d stavki</item>
         <item quantity="one">Pronađena %d stavka</item>
      </plurals>
     <plurals name="send_apk_dialog_desc">

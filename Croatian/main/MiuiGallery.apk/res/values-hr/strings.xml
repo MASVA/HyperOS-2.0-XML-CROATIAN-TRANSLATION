@@ -659,7 +659,6 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="channel_low_name">Nove poruke</string>
   <string name="channel_min_name">Obavijesti aplikacije</string>
   <string name="check_ignored_content">Pogledajte zanemarene stavke</string>
-  <string name="check_ignored_content">Prikaz zanemarenih stavki</string>
   <string name="checked">Odabrano</string>
   <string name="checked_something">Odabrano %s</string>
   <string name="choose_baby_sexy">Spol</string>
@@ -3311,9 +3310,6 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="search_clear_histories">Očisti</string>
   <string name="search_change_guide_word">Osvježi</string>
   <string name="search_clear_history">Izbriši</string>
-  <string name="search_guideword_hint">Pokušajte pretražiti \"%s\"</string>
-  <string name="search_maybe">Predloženo</string>
-  <string name="search_sub_pet">Kućni ljubimci</string>
   <string name="search_connection_error">"Ne mogu se povezati na mrežu"</string>
   <string name="search_connection_error_and_set">Dodirnite za provjeru mrežnih postavki</string>
   <string name="search_domestic_edit_hint">Pretraživanje fotografija i videozapisa</string>
@@ -3962,7 +3958,6 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
   <string name="today_of_year_next_day">Sljedeći dan</string>
   <string name="today_of_year_no_more_data">Nema više stavki za prikaz</string>
   <string name="today_of_year_pre_day">Prethodni dan</string>
-  <string name="today_of_year_whole_empty_title">Još nema uspomena za danas</string>
   <string name="today_of_year_photo_num">Fotografije</string>
   <string name="tomorrow">Sutra</string>
   <string name="too_many_recipients">"Ne možete dodati više od %2$s primatelja (Trenutno ste dodali %1$s)."</string>

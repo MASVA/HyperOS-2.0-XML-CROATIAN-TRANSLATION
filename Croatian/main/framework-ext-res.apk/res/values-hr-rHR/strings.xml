@@ -16,6 +16,14 @@
   <string name="android_ringtone_default_with_actual">Zadana melodija zvuka (%1$s)</string>
   <string name="android_ringtone_silent">Ništa</string>
   <string name="android_ringtone_unknown">Nepoznata melodija zvona</string>
+  <string name="aon_music_double_press_support_scene_des">Reproduciraj ili pauziraj glazbu</string>
+  <string name="aon_music_left_right_support_scene_des">Prebacivanje na prethodnu ili sljedeću pjesmu</string>
+  <string name="aon_music_up_down_support_scene_des">Podešavanje glasnoće glazbe</string>
+  <string name="aon_office_up_down_support_scene_des">Idi na prethodnu ili sljedeću stranicu prezentacije ili dokumenta</string>
+  <string name="aon_short_video_up_down_support_scene_des">Prebacivanje na prethodni ili sljedeći video</string>
+  <string name="aon_video_double_press_support_scene_des">Reprodukcija ili pauziranje videa</string>
+  <string name="aon_video_left_right_support_scene_des">Prilagodba napredovanja videozapisa pri gledanju u pejzažnom načinu</string>
+  <string name="aon_video_up_down_support_scene_des">Podešavanje glasnoće videa</string>
   <string name="aon_reader_support_scene_des">Okreći stranice tijekom čitanja</string>
   <string name="aon_video_support_scene_des">Kontrola video reprodukcije</string>
   <string name="app_continuity_channel_name">Prilagodbe izgleda aplikacije</string>

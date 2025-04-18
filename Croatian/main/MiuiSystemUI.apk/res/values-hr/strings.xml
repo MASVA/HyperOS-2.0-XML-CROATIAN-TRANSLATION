@@ -1818,6 +1818,7 @@ Ako ovoj aplikaciji ne dopustite pristup svim zapisima uređaja, ona i dalje mo�
   <string name="mic_stopped_recording_announcement">Mikrofon je prestao snimati</string>
   <string name="microphone_blocked_dream_overlay_content_description">Mikrofon blokiran</string>
   <string name="minimize_button_text">Minimiziraj</string>
+  <string name="miplay_accessibility_cast">Odaberite uređaj</string>
   <string name="mirror_display">Zrcaljenje zaslona</string>
   <string name="missed_call">Propušteni poziv</string>
   <string name="miui_clock_city_name_local">Lokalno</string>
@@ -3287,7 +3288,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
-  <string name="wifi_ap_unable_to_handle_new_sta">Pristupna je točka privremeno puna</string>
+  <string name="wifi_ap_unable_to_handle_new_sta">Hotspot je privremeno pun</string>
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
   <string name="wifi_cant_connect">Povezivanje nije uspjelo</string>
   <string name="wifi_cant_connect_to_ap">Povezivanje s aplikacijom \"%1$s\" nije uspjelo</string>

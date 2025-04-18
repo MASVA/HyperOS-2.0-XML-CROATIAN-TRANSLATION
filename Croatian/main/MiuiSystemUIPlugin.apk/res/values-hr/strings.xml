@@ -42,6 +42,7 @@
   <string name="accessibility_detail_switch_off">Isključeno</string>
   <string name="accessibility_detail_switch_on">Uključeno</string>
   <string name="accessibility_expand_button">Proširi</string>
+  <string name="accessibility_long_action_text">Pritisnite dva puta i držite za podešavanje</string>
   <string name="accessibility_menu">Izbornik</string>
   <string name="accessibility_qs_edit_position_label">Pozicija %1$d. Dodirnite dvaput da biste odabrali.</string>
   <string name="accessibility_qs_edit_tile_add">Dodajte pločicu %1$s na poziciju %2$d</string>
@@ -437,6 +438,8 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="qs_flip_tile_vibrate">Vibracija</string>
   <string name="qs_flip_tiles_stock">bt,zrakoplov,mute,flashlight,batterysaver,rotation,screenlock,screenshot,custom(com.miui.screenrecorder/.service.QuickService),gps,autobrightness,papermode,quietmode,vibrate,nfc,hotspot,night</string>
   <string name="qs_flip_tiles_stock_global">bt,zrakoplov,mute,flashlight,batterysaver,rotation,screenlock,screenshot,custom(com.miui.screenrecorder/.service.QuickService),gps,autobrightness,papermode,quietmode,vibrate,nfc,hotspot,night</string>
+  <string name="qs_item_drag">Povlačenje</string>
+  <string name="qs_position_hint">Postavljeno u red %1$d, stupac %2$d</string>
   <string name="qs_open_night_mode_alert_summary">"Određene postavke zaslona nisu kompatibilne s Tamnim načinom. Međutim, one će se vratiti kada isključite Tamni način."</string>
   <string name="quick_controls_subtitle">Dodavanje kontrola za povezane uređaje</string>
   <string name="quick_controls_title">Kontrole uređaja</string>

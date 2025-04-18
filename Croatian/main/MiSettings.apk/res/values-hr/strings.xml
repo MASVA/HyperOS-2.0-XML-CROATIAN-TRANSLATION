@@ -89,6 +89,7 @@
   <string name="black_rhinoceros">Crni nosorog</string>
   <string name="black_swan">Crni labud</string>
   <string name="blue_poison_dart_frog">Plava žaba</string>
+  <string name="boot_dialog_message">S načinom rada za dijete možete pomoći svom djetetu da nauči zdrave navike korištenja uređaja. Uključiti sada?</string>
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
   <string name="bottomsheet_action_expand">Proširi donji list</string>
   <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
@@ -170,6 +171,8 @@
   <string name="contact_description">Dodirnite prečac Poč. zaslona za upućivanje poziva</string>
   <string name="contact_title">Prečac kontakta</string>
   <string name="continue_time">Trajanje sesije</string>
+  <string name="continue_use_category_title">Ograničenje kontinuirane upotrebe</string>
+  <string name="continue_use_switch_title">Ograničite kontinuiranu upotrebu uređaja</string>
   <string name="contrast_ratio">Kontrast</string>
   <string name="control_center_title">Vrijeme zaslona danas</string>
   <string name="control_center_title_new">Korišteno danas</string>
@@ -499,6 +502,10 @@ nije generirana u Drugom prostoru"</string>
   <string name="max_fps_string">Do %s Hz</string>
   <string name="lynx">Lynx</string>
   <string name="mild_remind">Obavijest</string>
+  <string name="minors_boot_dialog_positive">Uključi</string>
+  <string name="minors_mode_name">Diječji način</string>
+  <string name="minors_negativeButton">Odustani</string>
+  <string name="minors_not_allow_apps_hint">"Ne možete koristiti ovu aplikaciju u dječjem načinu rada"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -715,6 +722,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="no_data_last_week">Nema podataka za prošli tjedan</string>
   <string name="no_data_last_week_visual_health">Nema podataka za prošli tjedan</string>
   <string name="no_unhealthy_eyes_habits">Nema podataka o nezdravim navikama</string>
+  <string name="no_limit_category_title">Iznimke aplikacije</string>
   <string name="no_matching">"Ne mogu pronaći aplikaciju za otvaranje ove veze"</string>
   <string name="no_sound_summary">Ništa</string>
   <string name="normal_mode">Regularno</string>
@@ -798,6 +806,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="pcl_need_to_unlock_wrong">"Lozinke se ne podudaraju. Pokušajte ponovno."</string>
   <string name="pcl_net_code_failure">Kod za provjeru je istekao</string>
   <string name="pcl_net_code_frequently">Previše zahtjeva za kontrolni kod</string>
+  <string name="pcl_net_code_request_reached">"Ne mogu poslati više kodova"</string>
   <string name="pcl_net_code_verify_fail">"Nije moguće potvrditi adresu e-pošte"</string>
   <string name="pcl_net_email_invalid">Nevažeća adresa e-pošte</string>
   <string name="pcl_net_request_common_error">Pogreška mrežnog zahtjeva</string>
@@ -866,10 +875,14 @@ Povući suglasnost sada?"</string>
   <string name="primary_color_region_chinese_only">Priroda</string>
   <string name="primary_color_region_summary">Prepoznaj raspon boja automatski putem kalibracije boja</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="progress_image_illustrate_description">Detalji</string>
   <string name="provision_back">Natrag</string>
   <string name="provision_next">Dalje</string>
   <string name="provision_skip_underline">Preskoči</string>
   <string name="puffin">Atlantski puffin</string>
+  <string name="range_button_backward_description">Dalje</string>
+  <string name="range_button_forward_description">Prethodno</string>
+  <string name="range_clear_icon_description">Izbriši</string>
   <string name="random_play_sound_alert">"Čut ćete zvukove životinja iz ove regije kad primite obavijesti"</string>
   <string name="red_billed_hornbill">Crvenokljuni rogač</string>
   <string name="remind_unhealthy_eyes_sub_title">Podsjetnici na %s</string>
@@ -979,6 +992,7 @@ za danas"</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="tip_modal_close">Zatvori</string>
   <string name="title_activity_easy_mode">Lite način</string>
   <string name="title_mix_match_sound">Mješavina prirode</string>
   <string name="title_mix_match_tips">Dodirnite životinje da biste preslušali demonstracije. U miks možete dodati do 5 životinja.</string>
@@ -1297,6 +1311,7 @@ Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja d
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="vervet_monkey">Zeleni majmun</string>
+  <string name="visit_limit_version_dialog_checkbox">"Ne prikazuj ponovno"</string>
   <string name="wait_tip">Samo trenutak…</string>
   <string name="walrus">Morž</string>
   <string name="walrus_info">Morževi su izvrsni ronioci. Preferiraju plitka regalna područja i hranu uglavnom na morskom dnu.</string>
@@ -1304,6 +1319,10 @@ Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja d
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
+  <string name="weekday_limit_category_title">Ograničenja radnim danima</string>
+  <string name="weekday_limit_switch_title">Ograniči upotrebu radnim danima</string>
+  <string name="weekend_limit_category_title">Ograničenja za vikend</string>
+  <string name="weekend_limit_switch_title">Ograničite korištenje vikendom</string>
   <string name="whipbird_eastern_whipbird">Istočni whipbird</string>
   <string name="whipbird_info">Istočni bičevi porijeklom su s istočne obale Australije.</string>
   <string name="white_bellied_sea_eagle">Orao bjelorep</string>

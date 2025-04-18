@@ -326,6 +326,7 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -419,6 +420,8 @@
 Autom. ažuriranja možete isključiti u GetApps &gt; Postavke &gt; Autom. ažuriranja."</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dopustite aplikacijama i web-lokacijama pristup informacijama o vašoj lokaciji radi pružanja usluga temeljenih na lokaciji</string>
+  <string name="other_settings_minor_mode">Diječji način rada</string>
+  <string name="other_settings_minor_mode_summary"><Data>"Pomozite maloljetnicima da razviju zdrave navike korištenja uređaja. Kada je način rada za djecu uključen, prečac značajke bit će dodan u Postavkama i na početnom zaslonu. Uključivanjem ove značajke prihvaćate &lt;a href=%1$s>Pravila o privatnosti načina rada za djecu&lt;/a >."</Data></string>
   <string name="other_settings_quality_service">Dopuštenja za HyperOS Daemon</string>
   <string name="other_settings_quality_service_summary">HyperOS Daemon koristi se za poboljšanje stabilnosti i performansi sustava. Da bi mogla normalno raditi, ovoj usluzi su potrebna dopuštenja za pristup i spremanje stavki u pohranu uređaja.</string>
   <string name="other_settings_upload_debug_log_detail">"Pomozite poboljšati doživljaj HyperOS uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, HyperOS sustav i stabilnost aplikacije i još mnogo toga.

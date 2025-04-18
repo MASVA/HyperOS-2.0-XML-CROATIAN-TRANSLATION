@@ -774,6 +774,8 @@ Razlog: \"%s\""</string>
   <string name="menu_dial_ip_number">Biraj IP poziv</string>
   <string name="menu_doNotSave">Odustani</string>
   <string name="menu_done">Gotovo</string>
+  <string name="menu_getStar">Odabrano，Zvjezdica，Tipka</string>
+  <string name="menu_loseStar">Nije odabrano，Zvjezdica，Tipka</string>
   <string name="menu_newContact">"Izradi novi kontakt"</string>
   <string name="menu_newContactButton">Dodaj</string>
   <string name="menu_new_favorite_action_bar">"Dodaj u favorite"</string>
@@ -787,6 +789,7 @@ Razlog: \"%s\""</string>
   <string name="menu_share_text">Tekst</string>
   <string name="menu_share_vcard_file">Datoteka</string>
   <string name="menu_sync_remove">Ukloni grupu za sinkronizaciju</string>
+  <string name="minutes">minuta</string>
   <string name="miprofile_account_type">Kartice za kontakt</string>
   <string name="miprofile_edit_title">Uredi profil</string>
   <string name="miprofile_name">Moj profil</string>
@@ -796,6 +799,7 @@ Razlog: \"%s\""</string>
   <string name="missing_name">"(Bez imena)"</string>
   <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
   <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
@@ -1262,6 +1266,10 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="special_code_security_exception">"Ne mogu dovršiti radnju. To nije vaš zadani biratelj."</string>
   <string name="splitConfirmation">Ovaj će se kontakt razdvojiti na više kontakata.</string>
   <string name="splitConfirmation_title">Želite li razdvojiti kontakt?</string>
+  <string name="state_Star">Sa zvjezdicom</string>
+  <string name="state_StarCanceled">Bez zvjezdice</string>
+  <string name="state_not_selected">Nije odabrano</string>
+  <string name="state_selected">Odabrano</string>
   <string name="star">*</string>
   <string name="star_letter">,</string>
   <string name="starredList">"Sa zvjezdicom"</string>
@@ -1286,6 +1294,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="take_new_photo">Snimi novu fotografiju</string>
   <string name="take_photo">Snimi fotografiju</string>
   <string name="text_msim_balance">Iskorišteno danas</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="text_vsim_remain_time">Preostalo minuta</string>
   <string name="this_folder">Koristi ovu mapu</string>
   <string name="thursday">Četvrtak</string>

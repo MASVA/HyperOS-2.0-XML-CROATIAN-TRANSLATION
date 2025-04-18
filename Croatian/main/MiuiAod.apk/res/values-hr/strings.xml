@@ -187,12 +187,6 @@ dd.MM."</string>
   <string name="keyguard_shortcut_tab_left">Lijevo</string>
   <string name="keyguard_shortcut_tab_right">Desno</string>
   <string name="keyguard_shortcut_title">Prečaci</string>
-  <string name="keyguard_shortcut_empty">Ništa</string>
-  <string name="keyguard_shortcut_open_failed">"Nije moguće pokrenuti aplikaciju. Pokušajte ponovno."</string>
-  <string name="keyguard_shortcut_slide_enter">Povucite za otvaranje</string>
-  <string name="keyguard_shortcut_tab_left">Lijevo</string>
-  <string name="keyguard_shortcut_tab_right">Desno</string>
-  <string name="keyguard_shortcut_title">Prečaci</string>
   <string name="kg_activity_label">Uređivanje zaključanog zaslona</string>
   <string name="kg_aod_settings_depth_video_toast">Samo prilagođeni Always-on zaslon podržan je kada se koristi efekt dubine</string>
   <string name="kg_apply">Primjeni</string>

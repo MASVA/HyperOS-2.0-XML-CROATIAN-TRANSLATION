@@ -73,6 +73,10 @@
 		   <item quantity="one">Prije pola sata</item>
         <item quantity="few">Prije pola sata</item>
     </plurals>
+	     <plurals name="high_temperature_message">
+        <item quantity="other">Uređaj je pregrijan. Isključivanje načina s više prozora za %d sekundi.</item>
+        <item quantity="one">Uređaj je pregrijan. Isključivanje načina s više prozora za %d sekundu.</item>
+     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Za 1 sat</item>
 		  <item quantity="one">Za 1 sat</item>

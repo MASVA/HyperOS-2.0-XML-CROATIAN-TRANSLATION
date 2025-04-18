@@ -1521,6 +1521,9 @@ Posljednji put pokrenuto %2$s"</string>
   <string name="back_navigation_animation_summary">Omogućuje animaciju kad korisnik napravi povratnu kretnju.</string>
   <string name="back_sensitivity_dialog_message">Veća osjetljivost može utjecati na pokrete u aplikacijama uz rub zaslona.</string>
   <string name="back_sensitivity_dialog_title">Osjetljivost stražnje strane</string>
+  <string name="back_strap_app_notification_title">Obavijesti aplikacije</string>
+  <string name="back_strap_call_reminder_title">Dolazni pozivi</string>
+  <string name="back_strap_other_seetings">Dodatne postavke</string>
   <string name="back_strap_image_new_text">Uključite ovu značajku da biste dobili vizualne obavijesti i personalizirane svjetlosne efekte</string>
   <string name="back_strap_image_simplified_text">Kada je uređaj licem prema dolje s isključenim zaslonom, pozadinsko svjetlo prikazat će podsjetnike za obavijesti</string>
   <string name="back_strap_off">Isključeno</string>
@@ -2042,6 +2045,7 @@ Možete otključati pomoću sata kada se vaše lice ili otisak prsta ne prepozna
   <string name="block_list_remove_dialog_title">Pažnja</string>
   <string name="block_list_summary">Prikaži uređaje koji ne smiju povezati na ovaj hotspot</string>
   <string name="block_list_title">Popis blokiranih</string>
+  <string name="block_no_connected_devices">Nema povezanih uređaja</string>
   <string name="block_title">Prikaži obavijesti</string>
   <string name="blocked_by_restricted_settings_content">Radi vaše sigurnosti ova je postavka trenutačno nedostupna.</string>
   <string name="blocked_by_restricted_settings_title">Ograničena postavka</string>
@@ -2620,6 +2624,7 @@ Dok ste povezani, %2$s će primati sve pozive upućene broju %3$s."</string>
   <string name="bluetooth_version">Bluetooth verzija</string>
   <string name="bluetooth_version_message">Ažuriraj</string>
   <string name="bluetooth_visibility_timeout">Vidljivost je istekla</string>
+  <string name="bluetooth_xpan_devoption_description">Proširena osobna mreža</string>
   <string name="bluetooth_wake">Probudi sa Bluetooth zvukom</string>
   <string name="boot_sounds_title">Uključi zvukove</string>
   <string name="bootloader">Fastboot način</string>
@@ -6810,6 +6815,8 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="language_settings_category">Postavke jezika</string>
   <string name="languages_setting_summary">Jezici sustava, jezici aplikacije, govor</string>
   <string name="languages_settings">Jezici</string>
+  <string name="lamp_effect_brightness">Svjetlina</string>
+  <string name="lamp_effect_color">Boja</string>
   <string name="lamp_effect_settings">Efekti</string>
   <string name="large_font">Veliko</string>
   <string name="last_synced">Posljednja sinkronizacija: %1$s</string>
@@ -8325,8 +8332,10 @@ Svaki korisnik može dati dopuštenja u ime svih korisničkih profila koji posto
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -8761,6 +8770,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="natural_haptic">Prirodni dodir</string>
   <string name="natural_haptic_summary">Novi uzorci haptičnih povratnih informacija daju dodatnu dimenziju svemu što vidite i dodirnete na zaslonu.</string>
   <string name="natural_scroll">Prirodno pomicanje</string>
+  <string name="natural_scroll_summary">Sadržaj se pomiče vašim prstom</string>
   <string name="nature_color">Zadano</string>
   <string name="nav_tutorial_button_description">Tipka za pokretanje vodiča za navigaciju pokretima. Dvaput dodirnite za aktiviranje.</string>
   <string name="navigation_guide_app_quick_switch_hide_line_summary">Povucite prema gore s donje strane zaslona, a zatim povucite prstom ulijevo ili udesno</string>
@@ -14287,6 +14297,7 @@ Vraćanje samo važnih stavki bit će brže."</string>
   <string name="usb_summary_power_only">Punjenje povezanog uređaja</string>
   <string name="usb_summary_tether">Modemsko povezivanje USB-om</string>
   <string name="usb_summary_tether_power">Modemsko povezivanje USB-om i napajanje</string>
+  <string name="usb_switch_reverse_charge_failed">Nije dostupno</string>
   <string name="usb_switching">Prebacivanje…</string>
   <string name="usb_switching_failed">Prebacivanje nije uspjelo</string>
   <string name="usb_tethering_active_subtext">Povezano za dijeljenje veze</string>
@@ -14903,7 +14914,7 @@ Pojedinosti potražite u pravilima o privatnosti svojeg mobilnog operatera."</st
   <string name="wifi_ap_prefer_6G">6.0 GHz Band preferred</string>
   <string name="wifi_ap_ssid_off">Isključeno</string>
   <string name="wifi_ap_ssid_on">Uključeno</string>
-  <string name="wifi_ap_unable_to_handle_new_sta">Pristupna je točka privremeno puna</string>
+  <string name="wifi_ap_unable_to_handle_new_sta">Hotspot je privremeno pun</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_ask_disable">%s želi isključiti Wi-Fi</string>
   <string name="wifi_ask_enable">%s želi uključiti Wi-Fi</string>
@@ -15452,7 +15463,7 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_settings_scanning_required_summary">Za automatsko uključivanje Wi-Fi-ja najprije morate uključiti traženje Wi-Fi-ja.</string>
   <string name="wifi_settings_scanning_required_title">Uključiti traženje Wi-Fi-ja?</string>
   <string name="wifi_settings_scanning_required_turn_on">Uključi</string>
-  <string name="wifi_settings_summary">Postavljanje i upravljanje bežičnim pristupnim točkama</string>
+  <string name="wifi_settings_summary">Postavljanje i upravljanje hotspotom</string>
   <string name="wifi_settings_title">Wi-Fi</string>
   <string name="wifi_setup_add_network">Dodaj mrežu</string>
   <string name="wifi_setup_back">Natrag</string>
@@ -15527,7 +15538,7 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom."</string>
   <string name="wifi_show_password">Prikaži zaporku</string>
   <string name="wifi_sign_in_button_text">Prijava</string>
   <string name="wifi_signal">Jačina signala</string>
-  <string name="wifi_signal_found_msg">Wi-Fi pristupna točka je dostupna, poveži sada?</string>
+  <string name="wifi_signal_found_msg">Wi-Fi hotspot je dostupan, povezati sada?</string>
   <string name="wifi_skip_anyway">Svejedno preskoči</string>
   <string name="wifi_skipped_message">UPOZORENJE: ako preskočite Wi-Fi, uređaj će upotrebljavati samo mobilne podatke za početna preuzimanja i ažuriranja. Da biste izbjegli moguće troškove za prijenos podataka, povežite se s Wi-Fi-jem.</string>
   <string name="wifi_speed">Brzina veze</string>

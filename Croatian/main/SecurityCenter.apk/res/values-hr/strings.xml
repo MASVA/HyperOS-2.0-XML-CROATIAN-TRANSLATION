@@ -3863,7 +3863,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Maksimiziraj</string>
   <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimiziraj</string>
   <string name="miuix_indexer_collect">Zbirke</string>
-  <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -4560,6 +4560,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_hidemode_normal">Uravnoteženo</string>
   <string name="pc_hidemode_normal_title">Uravnoteženo</string>
   <string name="pc_hidemode_performance">Performanse</string>
+  <string name="pc_hidemode_performance_chip_title">Performanse (overclocking)</string>
   <string name="pc_hidemode_performance_title">Način rada Performanse</string>
   <string name="pc_hidemode_power_save">Štednja baterije</string>
   <string name="pc_high_temp_discharge_reminder">Napunite svoj uređaj. Baterija se može oštetiti ako se uređaj pregrije dok je baterija slaba.</string>
@@ -4632,6 +4633,7 @@ Način otpornosti na hladnoću"</string>
   <string name="pc_power_consume_check_ing">Provjera…</string>
   <string name="pc_power_mode_has_berserk">Ultimativni način rada je uključen</string>
   <string name="pc_power_mode_has_performance">Način rada preformansi je uključen</string>
+  <string name="pc_power_mode_has_performance_chip">Poboljšane preformanse (overclocking)</string>
   <string name="pc_power_save_settings_new">Postavke štednje baterije</string>
   <string name="pc_production_date_protect_title">Datum proizvodnje</string>
   <string name="pc_remind_close_cover_to_charge_summary">Preklopite uređaj prije punjenja za brže i stabilnije iskustvo punjenja.</string>
@@ -7938,11 +7940,13 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="wifi_optizition_loading">Uključivanje Xunyou povećanje brzine…</string>
   <string name="wifi_optizition_tip">Uključite povećanje brzine mreže kako bi napravili Wi-Fi vezu stabilnijom. Biti će upotrijebljena mala količina mobilnih podataka.</string>
   <string name="wifi_optizition_title">Povećaj Wi-Fi brzinu</string>
-  <string name="wireless_charging_connected_message">"Ne može se koristiti obrnuto bežično punjenje kada se vaš uređaj bežično puni."</string>
+  <string name="wireless_charging_connected_message">"Nije moguće koristiti obrnuto bežično punjenje kada se vaš uređaj bežično puni."</string>
   <string name="wireless_charging_fg_control_cancel">Odustani</string>
   <string name="wireless_charging_fg_control_messgae">"Obrnuto bežično punjenje isključeno je jer je preostalo manje od %s baterije. Možete prilagoditi postavke kako biste omogućili dulji rad obrnutog bežičnog punjenja."</string>
   <string name="wireless_charging_fg_control_ok">Prilagodi</string>
-  <string name="wireless_charging_low_battery_level_message">"Ne može se koristiti obrnuto bežično punjenje ako je baterija napunjena manje od %s."</string>
+  <string name="wireless_charging_low_battery_level_message">"Nije moguće se koristiti obrnuto bežično punjenje ako je baterija napunjena manje od %s."</string>
+  <string name="wireless_charging_no_reverser_charge_message">"Nije moguće koristiti obrnuto punjenje kada je punjač priključen."</string>
+  <string name="wireless_charging_no_reverser_charge_title">Odspojite punjač</string>
   <string name="wireless_charging_ok">Razumijem</string>
   <string name="wireless_charging_saver_cancel">Isključi</string>
   <string name="wireless_charging_saver_message">Štednja baterije je sada uključena. Zadržati dostupnim obrnuto bežično punjenje?</string>

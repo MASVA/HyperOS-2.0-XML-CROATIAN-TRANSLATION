@@ -314,6 +314,7 @@ Prije nastavka pročitajte i prihvatite novu verziju %2$s."</string>
 Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
   <string name="location_provider_btn_text">Omogućite usluge otkrivanja lokacije</string>
   <string name="location_tag">Lociraj</string>
+  <string name="logo_accu_content">Otvori AccuWeather web stranicu</string>
   <string name="main_activity_hourly_forecast_card_more_title">Više</string>
   <string name="manager_city_option_add_city_back_search">Natrag na pretraživanje</string>
   <string name="manager_city_option_add_city_content">Grad je uspješno dodan na početnu stranicu</string>

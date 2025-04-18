@@ -506,12 +506,13 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="miuix_item_view_accessibility_unselected">Nije odabrano</string>
   <string name="miuix_item_view_role_description">Kartica</string>
   <string name="miuix_navigator_category_group_collapse">Sažmi</string>
-  <string name="miuix_navigator_category_group_collapsed">Zatvoreno</string>
+  <string name="miuix_navigator_category_group_collapsed">Sažeto</string>
   <string name="miuix_navigator_category_group_expand">Proširi</string>
   <string name="miuix_navigator_category_group_expanded">Prošireno</string>
   <string name="miuix_navigator_content_switch_description">Prikaži bočnu traku</string>
   <string name="miuix_navigator_multiple_choice">Odaberi</string>
   <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>
+  <string name="miuix_navigator_toolbar_screen_bottom">Alatna traka na dnu zaslona</string>
   <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -523,7 +524,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
-  <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
   <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
@@ -609,7 +610,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="name_empty">Unesite naziv</string>
   <string name="navigator_label_all_files">Sve datoteke</string>
   <string name="navigator_label_external_devices">Vanjski uređaji</string>
-  <string name="need_open_content">Dopustite aplikaciji Datoteke da pristupi vašim fotografijama i datotekama za korištenje ove značajke.</string>
+  <string name="need_open_content">Apliakcija Datoteke treba dopuštenje za pristup vašim fotografijama i datotekama kako bi mogao prikazati i uređivati ​​stavke. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="need_open_permission">Potrebna su dopuštenja</string>
   <string name="need_read_storage_permission">"Aplikacija Datoteke treba dopuštenje za pristup pohrani uređaja da radi normalno."</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>

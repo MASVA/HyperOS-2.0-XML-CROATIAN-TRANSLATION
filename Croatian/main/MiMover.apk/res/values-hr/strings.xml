@@ -99,6 +99,9 @@
   <string name="ble_guest_connecting_title">Povezivanje na novi uređaj…</string>
   <string name="ble_host_verification_summary">Unesite %d-znamenkasti kod na starom uređaju.</string>
   <string name="ble_host_verification_title">Povezivanje na stari uređaj…</string>
+  <string name="ble_manual_authorization_content">Dajte potrebna dopuštenja da biste mogli prenositi stavke pomoću Mi Movera. Ova dopuštenja možete dati u Postavkama.</string>
+  <string name="ble_manual_authorization_positive_btn">Postavke</string>
+  <string name="ble_manual_authorization_title">Potrebna dopuštenja</string>
   <string name="ble_manual_connect">Poveži ručno</string>
   <string name="ble_refuse_button">Odbij</string>
   <string name="ble_start_ap_successed">Hotspot je uspješno izrađen. Čeka se povezivanje…</string>
@@ -491,7 +494,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
-  <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
   <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="mms">MMS</string>
   <string name="mms_contacts_calllog">Poruke, kontakti i povijest poziva</string>

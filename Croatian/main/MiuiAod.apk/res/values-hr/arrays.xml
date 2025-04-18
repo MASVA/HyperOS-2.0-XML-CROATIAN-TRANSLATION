@@ -2,9 +2,9 @@
 <resources>
 <string-array name="big_time_clock_title_array">
     <item>Font sustava</item>
-    <item>Široki kvadratni font</item>
-    <item>Jednostavan crni font</item>
-    <item>Slojeviti font</item>
+    <item>Široki kvadrat</item>
+    <item>Jednostavan crni</item>
+   <item>Dvoslojni</item>
  </string-array>
 <string-array name="kg_glass_filters">
      <item>Original</item>

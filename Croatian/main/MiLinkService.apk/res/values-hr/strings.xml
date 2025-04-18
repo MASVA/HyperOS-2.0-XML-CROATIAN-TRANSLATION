@@ -27,6 +27,20 @@
  <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
  <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
  <string name="abc_toolbar_collapse_description">Sažmi</string>
+ <string name="accessibility_button">Tipka</string>
+ <string name="accessibility_close">Isključi</string>
+ <string name="accessibility_on">Uključi</string>
+ <string name="accessibility_push">Dodirnite dvaput za aktivaciju</string>
+ <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+ <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+ <string name="accessibility_small_window">Plutajući prozor</string>
+ <string name="accessibility_small_window_close">Sažeto</string>
+ <string name="accessibility_status">Uključeno</string>
+ <string name="accessibility_status_off">Isključeno</string>
+ <string name="accessibility_switch">Prebacivanje</string>
+ <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+ <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
+ <string name="accessibility_tv">TV</string>
  <string name="account_other">Ostalo</string>
  <string name="actionbar_button_up_description">Natrag</string>
  <string name="answering_tel1">Odgovaranje na tabletu…</string>
@@ -100,20 +114,25 @@ Prijavite se na svoj Xiaomi račun u Postavke &gt; Xiaomi račun za sinkronizaci
  <string name="call_notification_screening_text">Provjera dolaznog poziva</string>
  <string name="camera_associate_connecting">Povezivanje s kamerom</string>
  <string name="camera_associate_disconnecting">Prekid veze s kamerom telefona</string>
- <string name="camera_associate_failed">"Nije moguće povezati se s kamerom"</string>
+ <string name="camera_associate_failed">"Ne mogu se povezati s kamerom"</string>
  <string name="camera_associate_success">Kamera povezana</string>
  <string name="camera_choose_device">Promijenite kamere</string>
  <string name="camera_composed_button">Kombiniraj</string>
+ <string name="camera_composed_button_description">Kombinirajte. Dodirnite za istovremeno snimanje kamerama s dva uređaja.</string>
  <string name="camera_composed_no_device">"Čini se da uređaj nije u blizini"</string>
  <string name="camera_composed_title">"Kombinirajte s kamerom ovog uređaja"</string>
- <string name="camera_composed_using_title">Kombinirane kamere</string>
+ <string name="camera_composed_using_title">Kombiniranje kamera</string>
  <string name="camera_connecting">"%s želi koristiti kameru ovog uređaja"</string>
+ <string name="camera_connecting_description">Povezivanje…</string>
  <string name="camera_disassociate">Veza s kamerom prekinuta</string>
+ <string name="camera_discompose_button_description">"Dodirnite za prekid kombiniranog snimanja i povratak na kameru ovog uređaja."</string>
+ <string name="camera_glasses_content_description">Naočale povezane s ovim uređajem. Dvaput pritisnite za aktiviranje. Pritisnite s dva prsta i povucite za prijenos.</string>
+ <string name="camera_glasses_content_description_update">Naočale povezane s ovim uređajem. Dvaput pritisnite za aktiviranje.</string>
  <string name="camera_title">Traženje dostupnih uređaja…</string>
- <string name="camera_connect_fail">"Nije moguće povezati se. Pokušajte ponovo."</string>
+ <string name="camera_connect_fail">"Ne mogu se povezati. Pokušajte ponovo."</string>
  <string name="camera_list_subtitle">Promijeni kamere</string>
- <string name="camera_notify_string">CameraNotification</string>
- <string name="camera_permission_dialog_message">"Dopusti ovoj aplikaciji korištenje kamere ovog uređaja. Ovu dozvolu možete dati u Postavkama."</string>
+ <string name="camera_new_title">Kamera za više uređaja</string>
+ <string name="camera_permission_dialog_message">"Dopustite ovoj aplikaciji korištenje kamere ovog uređaja. Ovo dopuštenje možete dati u Postavkama."</string>
  <string name="camera_permission_dialog_negative">Odustani</string>
  <string name="camera_permission_dialog_positive">Postavke</string>
  <string name="camera_permission_dialog_title">Potrebna su dopuštenja</string>
@@ -166,12 +185,26 @@ Prijavite se na svoj Xiaomi račun u Postavke &gt; Xiaomi račun za sinkronizaci
  <string name="chip_text">Chip tekst</string>
  <string name="circulate_audio_group_title">Reprodukcija…</string>
  <string name="circulate_back_button_content_description">Natrag</string>
+ <string name="circulate_camera_glasses_back_to_box_desc_err_310">"%1$d. Pritisnite tipku za uključivanje/isključivanje na daljinskom upravljaču televizora da odspojite zvučnike.
+%2$d. Pokušajte ponovno spojiti naočale kada zaslon zasvijetli."</string>
+ <string name="circulate_camera_glasses_back_to_box_title_err_310">Prvo odspojite TV zvučnike</string>
+ <string name="circulate_camera_glasses_card_use_camera">"Koristi kameru na naočalama"</string>
+ <string name="circulate_camera_glasses_card_using_camera">"Korištenje kamere na naočalama"</string>
+ <string name="circulate_camera_glasses_duplicate_dialog_title">Zamijeni povezani uređaj</string>
+ <string name="circulate_camera_glasses_duplicate_dialog_title_pad">Zamijeni povezani uređaj</string>
+ <string name="circulate_camera_glasses_duplicate_dialog_title_pc">Zamijeni povezani uređaj</string>
+ <string name="circulate_camera_glasses_duplicate_dialog_title_phone">Zamijeni povezani uređaj</string>
+ <string name="circulate_camera_glasses_duplicate_dialog_title_tv">Zamijeni povezani uređaj</string>
+ <string name="circulate_camera_glasses_duplicate_dialog_title_wifi_speaker">Zamijeni povezani uređaj</string>
+ <string name="circulate_camera_glasses_duplicate_dialog_title_wifi_speaker_with_screen">Zamijeni povezani uređaj</string>
+ <string name="circulate_camera_glasses_error_device_not_support">"Sadržaj naočala ne može se prenijeti na ovaj uređaj"</string>
  <string name="circulate_car_card_use_camera">Koristi EV kameru</string>
  <string name="circulate_car_card_using_camera">Korištenje EV kamere</string>
  <string name="circulate_card_disconnect">Prekini vezu</string>
  <string name="circulate_card_loading_title_audio_stereo">Stereo sustav</string>
  <string name="circulate_card_loading_title_band">Grupa</string>
  <string name="circulate_card_loading_title_bluetooth">Bluetooth uređaj</string>
+ <string name="circulate_card_loading_title_camera_glasses">Xiaomi Pametne naočale</string>
  <string name="circulate_card_loading_title_headset">Slušalice</string>
  <string name="circulate_card_loading_title_screen_sound">Xiaomi pametni zvučnik</string>
  <string name="circulate_card_loading_title_sound">Xiaomi zvučnik</string>
@@ -201,7 +234,7 @@ za zrcaljenje zaslona ovog tableta"</string>
  <string name="circulate_card_sticker_add">Dodajte naljepnice</string>
  <string name="circulate_card_sticker_blank_contentDescription">Dvaput dodirnite prazno područje za izlaz</string>
  <string name="circulate_card_sticker_complete">Gotovo</string>
- <string name="circulate_card_sticker_control_contentDescription">Upravljačka ploča</string>
+ <string name="circulate_card_sticker_control_contentDescription">Upravljačka ploča. Ovdje možete izaći.</string>
  <string name="circulate_card_sticker_dressing_equipment">Prilagodite uređaj</string>
  <string name="circulate_card_sticker_expend_contentDescription">Prikaži prilagođene uređaje</string>
  <string name="circulate_card_sticker_no">Nema naljepnica</string>
@@ -282,6 +315,8 @@ za zrcaljenje zaslona ovog tableta"</string>
  <string name="circulate_cta_premission_wlan_title">Uključite i isključite Wi-Fi</string>
  <string name="circulate_cta_title_global">Izjava o privatnosti</string>
  <string name="circulate_cta_user_agreement">Pročitajte i prihvatite naše &lt;txt href=\"%1$s\"&gt;Korisnički ugovor&lt;/txt&gt; i &lt;txt href=\"%2$s\"&gt;Pravila o privatnosti&lt;/txt&gt; prije nego nastavite.</string>
+ <string name="circulate_device_type_name_camera_glasses">Naočale</string>
+ <string name="circulate_device_type_name_headset">Slušalice</string>
  <string name="circulate_device_type_name_mijia">Pametni kućni uređaji</string>
  <string name="circulate_device_type_name_pad">Tablet</string>
  <string name="circulate_device_type_name_pc">Računalo</string>
@@ -289,6 +324,14 @@ za zrcaljenje zaslona ovog tableta"</string>
  <string name="circulate_device_type_name_tv">TV</string>
  <string name="circulate_device_type_name_wifi_speaker">Zvučnik</string>
  <string name="circulate_device_type_name_wifi_speaker_with_screen">Zvučnik s dodirnim zaslonom</string>
+ <string name="circulate_glasses_duplicate_dialog_message">Naočale su već povezane. Ako se povežete s novim parom naočala, prvi par će biti isključen. Povezati se sada?</string>
+ <string name="circulate_glasses_duplicate_dialog_message_pad">Vaš tablet je već povezan s naočalama. Ako se povežete s novim parom naočala, prvi par će biti isključen. Povezati se sada?</string>
+ <string name="circulate_glasses_duplicate_dialog_message_phone">Vaš telefon je već povezan s naočalama. Ako se povežete s novim parom naočala, prvi par će biti isključen. Povezati se sada?</string>
+ <string name="circulate_glasses_duplicate_dialog_message_tv">Vaš TV je već povezan s naočalama. Ako se povežete s novim parom naočala, prvi par će biti isključen. Povezati se sada?</string>
+ <string name="circulate_glasses_duplicate_headset_dialog_message">Slušalice su već povezane. Ako povežete ove naočale, slušalice će biti isključene. Povezati se sada?</string>
+ <string name="circulate_glasses_duplicate_headset_dialog_message_pad">Vaš tablet je već povezan sa slušalicama. Ako povežete ove naočale, slušalice će biti isključene. Povezati se sada?</string>
+ <string name="circulate_glasses_duplicate_headset_dialog_message_phone">Vaš telefon je već povezan sa slušalicama. Ako povežete ove naočale, slušalice će biti isključene. Povezati se sada?</string>
+ <string name="circulate_glasses_duplicate_headset_dialog_message_tv">Vaš TV je već povezan sa slušalicama. Ako povežete ove naočale, slušalice će biti isključene. Povezati se sada?</string>
  <string name="circulate_headset_back_to_box_desc">"1. Stavite obje slušalice u kućište.
 2. Pritisnite i držite tipku na kućištu.
 3. Završite uparivanje na ciljnom uređaju."</string>
@@ -317,14 +360,20 @@ za zrcaljenje zaslona ovog tableta"</string>
  <string name="circulate_headset_control_anc_off">Isključeno</string>
  <string name="circulate_headset_control_battery_case">Kućište</string>
  <string name="circulate_headset_control_battery_left">L</string>
- <string name="circulate_headset_control_battery_right">R</string>
+ <string name="circulate_headset_control_battery_right">D</string>
+ <string name="circulate_headset_control_charging">Punjenje</string>
  <string name="circulate_headset_control_more_settings">Dodatne postavke</string>
  <string name="circulate_headset_duplicate_cancel">Odustani</string>
  <string name="circulate_headset_duplicate_dialog_message">Izgleda da je drugi set slušalica spojen na vaš %1$s. Želite li ih zamijeniti trenutnim skupom?</string>
  <string name="circulate_headset_duplicate_dialog_title">Zamijenite slušalice spojene na %1$s</string>
  <string name="circulate_headset_duplicate_ok">Zamijeni</string>
+ <string name="circulate_headset_duplicate_glasses_dialog_message">Naočale su već povezane. Ako povežete ove slušalice, naočale će biti isključene. Povezati se sada?</string>
+ <string name="circulate_headset_duplicate_glasses_dialog_message_pad">Vaš tablet je već povezan s naočalama. Ako povežete ove slušalice, naočale će biti isključene. Povezati se sada?</string>
+ <string name="circulate_headset_duplicate_glasses_dialog_message_phone">Vaš telefon je već povezan s naočalama. Ako povežete ove slušalice, naočale će biti isključene. Povezati se sada?</string>
+ <string name="circulate_headset_duplicate_glasses_dialog_message_tv">Vaš TV je već povezan s naočalama. Ako povežete ove slušalice, naočale će biti isključene. Povezati se sada?</string>
  <string name="circulate_headset_error_account_not_match">"Provjerite koristite li isti Xiaomi račun na oba uređaja"</string>
  <string name="circulate_headset_error_acquired_by_other_host">Sada koristim drugi uređaj. Pokušajte ponovno kasnije.</string>
+ <string name="circulate_headset_error_camera_glasses_not_support">"Naočale ne podržavaju prijenos između uređaja"</string>
  <string name="circulate_headset_error_default">Veza je istekla</string>
  <string name="circulate_headset_error_device_not_support">"Ne mogu povezati slušalice na ovaj uređaj"</string>
  <string name="circulate_headset_error_ear_phone_not_support">"Ove slušalice ne podržavaju prijenos audio reprodukcije"</string>
@@ -341,7 +390,7 @@ i prijavite se na svoj Xiaomi račun"</string>
  <string name="circulate_help_card_subtitle">Pogledajte pomoć</string>
  <string name="circulate_help_card_title">"Ne mogu pronaći
 Vaši uređaji?"</string>
- <string name="circulate_help_error">"Nije moguće povezati se na mrežu"</string>
+ <string name="circulate_help_error">"Ne mogu se povezati na mrežu"</string>
  <string name="circulate_help_exit_button_content_description">Izlaz</string>
  <string name="circulate_help_feedback_button">Povratne informacije</string>
  <string name="circulate_jump_to_mijia">Otvori Mi Home/Xiaomi Home</string>
@@ -402,6 +451,7 @@ Vaši uređaji?"</string>
  <string name="circulate_video_retry_later">Pokušavam kontrolirati TV…</string>
  <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
  <string name="clearable_edittext_clear_description">Izbriši</string>
+ <string name="click_to_use_device_camera_description">"Dodirnite za korištenje kamere %1$s."</string>
  <string name="clipboard_cancel_sync">Odustani</string>
  <string name="clipboard_loading">Lijepljenje iz %1$s</string>
  <string name="close">Zatvori</string>
@@ -414,6 +464,9 @@ Vaši uređaji?"</string>
  <string name="close_invisible_mode_dialog_message">"Sada ne mogu koristiti Mi Smart Play. Isključite anonimni način rada u postavkama da biste mogli koristiti ovu značajku."</string>
  <string name="close_invisible_mode_dialog_ok">Postavke</string>
  <string name="close_invisible_mode_dialog_title">"Vi ste anonimni"</string>
+ <string name="compose_camera_with_device_cancel_description">Kombiniranje kamera s %1$s. Dodirnite tipku s desne strane za odustajanje.</string>
+ <string name="compose_camera_with_device_description">Kombiniranje kamera s %1$s</string>
+ <string name="compose_view_back_button_description">Vratite se na karticu kamere s više uređaja.</string>
  <string name="close_slave_wifi_hint">Odspojite se sa pomoćne Wi-Fi mreže prije emitiranja</string>
  <string name="close_slave_wifi_hint_china">Odspojite se sa pomoćne Wi-Fi mreže prije emitiranja</string>
  <string name="common_google_play_services_enable_button">Omogući usluge za Trgovinu Play</string>
@@ -452,6 +505,7 @@ Vaši uređaji?"</string>
  <string name="connect_settings_application_ecological">Kombinirajte aplikacije</string>
  <string name="connect_settings_base">Međupovezanost</string>
  <string name="connect_settings_category_connection_car">Značajke automobila</string>
+ <string name="connect_settings_category_other_settings">Trebate li druge postavke?</string>
  <string name="connect_settings_category_hyper_mind_new">Pametne kontrole</string>
  <string name="connect_settings_category_personal_device">Osobni uređaji</string>
  <string name="connect_settings_communication_sharing">Bežično povezivanje</string>
@@ -464,6 +518,7 @@ Vaši uređaji?"</string>
  <string name="connect_settings_nfc_share">Prijenos stavki putem NFC-a</string>
  <string name="connect_settings_not_opened">Isključeno</string>
  <string name="connect_settings_opened">Uključeno</string>
+ <string name="connect_settings_other_settings_mi_share">Xiaomi Share</string>
  <string name="connect_settings_privacy_policy">Pravila o privatnosti</string>
  <string name="connect_settings_relay_app">Aplikacije</string>
  <string name="connect_settings_share_clipboard">Međuspremnik</string>
@@ -574,6 +629,7 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
  <string name="err_toast_msg_not_support_audio_protocol">"Nije moguće prenijeti reprodukciju zvuka na ovaj uređaj"</string>
  <string name="err_toast_msg_not_support_video_protocol">"Ovaj uređaj ne podržava MIUI+"</string>
  <string name="err_toast_msg_retry_later">"Nije moguće izvesti ovu radnju. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+ <string name="err_toast_msg_state_not_support">"Povlačenje nije podržano"</string>
  <string name="err_toast_msg_try_switch_network">Povežite svoj mobilni uređaj i računalo na istu Wi-Fi mrežu</string>
  <string name="err_toast_msg_upgrade_pc_version">Ažurirajte MIUI+ na svom računalu da biste mogli koristiti ovu značajku</string>
  <string name="error_a11y_label">Pogreška: nevažeće</string>
@@ -641,6 +697,7 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
  <string name="head_toast_fail">"Ne mogu se povezati"</string>
  <string name="head_toast_success">Uspješno povezan</string>
  <string name="headset_content_description">Slušalice su povezane s ovim uređajem. Dvaput pritisnite za aktiviranje. Pritisnite s dva prsta i povucite za prijenos reprodukcije.</string>
+ <string name="headset_content_description_global">Slušalice povezane s ovim uređajem. Dvaput pritisnite za aktiviranje.</string>
  <string name="help_page_question_1st_01_international">"%1$d. Ako je uređaj na koji emitirate Xiaomi TV, uključite Miracast na njemu.
 %2$d. Ako je uređaj na koji emitirate nije Xiaomi TV, provjerite podržava li TV Miracast i je li ova značajka uključena. Ova značajka može imati drugačiji naziv na nekim modelima televizora, kao što je bežični prikaz, zrcaljenje zaslona ili višestruki zasloni."</string>
  <string name="help_page_setp_1st_02_international">%1$d. Neke TV marke mogu imati Miracast automatski uključen.</string>
@@ -809,6 +866,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
  <string name="km_synergy_error">"Veza je istekla. Provjerite jesu li Bluetooth i Wi-Fi uključeni na oba uređaja i jesu li unutar dometa veze."</string>
  <string name="km_synergy_error_china">"Veza je istekla. Provjerite jesu li Bluetooth i Wi-Fi uključeni na oba uređaja i jesu li unutar dometa veze."</string>
+ <string name="library_name">Daljinski upravljač kamere</string>
  <string name="local_camera_device">Ovaj uređaj</string>
  <string name="local_device_camera">Ovaj uređaj</string>
  <string name="local_hotspot_opening">"Isključite hotspot ovog uređaja i pokušajte ponovno"</string>
@@ -831,7 +889,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="message_install">Instalirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
  <string name="message_update">Ažurirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
  <string name="mihome_camera_device_not_available">"Nije moguće povezati više uređaja"</string>
- <string name="mihome_camera_device_offline">"Nije moguće povezati se. Kamera je izvan mreže."</string>
+ <string name="mihome_camera_device_offline">"Ne mogu se povezati. Kamera je izvan mreže."</string>
  <string name="mihome_camera_device_sleep">Izađite iz stanja mirovanja i pokušajte ponovno</string>
  <string name="miplay_accessibility_cast">Odaberite uređaj</string>
  <string name="miplay_accessibility_cover">Naslovna stranica</string>
@@ -864,7 +922,11 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="mirror_remote_phone_content">Home screen+ možete uključiti u Postavkama &gt; Međusobno povezivanje na svom tabletu ili računalu.</string>
  <string name="mirror_remote_phone_title">Uključi Home screen+</string>
  <string name="miuix_access_state_desc">Odabrano</string>
+ <string name="miuix_accessibility_title">Naslov</string>
  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+ <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
+ <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+ <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -882,7 +944,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
  <string name="miuix_indexer_collect">Zbirke</string>
- <string name="miuix_indexer_selected">Odabrano %s</string>
+ <string name="miuix_progressbar_loading">Samo trenutak…</string>
  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
  <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -891,6 +953,9 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+ <string name="miuix_show_password">Prikaži zaporku</string>
+ <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+ <string name="miuix_stretchablewidget_expanded">Prošireno</string>
  <string name="monday">Ponedjeljak</string>
  <string name="monday_short">Pon</string>
  <string name="monday_shortest">P</string>
@@ -1023,7 +1088,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="notify_wifiap_dialog_title">Konfiguracija mreže</string>
  <string name="ok_button">Razumijem</string>
  <string name="onehop_different_region_toast">"Ne mogu se spojiti. Telefon i tablet imaju različite verzije sustava."</string>
- <string name="onehop_mirror_guide_message_button">Shvaćam</string>
+ <string name="onehop_mirror_guide_message_button">Razumijem</string>
  <string name="onehop_mirror_guide_message_text_1">Emitirajte zaslon telefona na računalo jednim dodirom.</string>
  <string name="onehop_mirror_guide_message_text_2">Odaberite fotografije, videozapise i druge datoteke iz Galerije ili Datoteka za prijenos na svoje računalo.</string>
  <string name="onehop_mirror_guide_message_title">Xiaomi usluga međusobnog povezivanja</string>
@@ -1112,7 +1177,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="passport_error_timeout_network_error">Zahtjev je istekao</string>
  <string name="passport_error_token_expired">Kôd je istekao. Pokušajte ponovno.</string>
  <string name="passport_error_unknow_error">Došlo je do pogreške</string>
- <string name="passport_error_unknow_host_network_error">"Nije moguće povezati se na mrežu"</string>
+ <string name="passport_error_unknow_host_network_error">"Ne mogu se povezati na mrežu"</string>
  <string name="passport_error_unknow_network_error">Došlo je do mrežne pogreške</string>
  <string name="passport_error_unknown">Nepoznata pogreška</string>
  <string name="passport_error_user_name">Korisničko ime koje ste unijeli nije valjano</string>
@@ -1143,7 +1208,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="passport_mi_account_title">Prijavite se Xiaomi računom</string>
  <string name="passport_network_error">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
  <string name="passport_network_error_hint">Provjerite poveznicu i pokušajte ponovo ili kopirajte poveznicu i otvorite je u svom pregledniku.</string>
- <string name="passport_network_timeout">"Nije moguće povezati se na mrežu. Pokušajte ponovo."</string>
+ <string name="passport_network_timeout">"Ne mogu se povezati na mrežu. Pokušajte ponovo."</string>
  <string name="passport_next">Dalje</string>
  <string name="passport_no_account">Niste prijavljeni</string>
  <string name="passport_open_settings">Postavke</string>
@@ -1224,6 +1289,8 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="path_setting_cast_help">Veza &amp; dijeljenje/Emitiranje/Pomoć</string>
  <string name="permission_allowed">Odobreno</string>
  <string name="permission_uballowed">Nije odobreno</string>
+ <string name="picker_view_description">Kamera za više uređaja. Možete dodirnuti unutar kartice za odabir kamera na uređajima u blizini.</string>
+ <string name="picker_view_outside_description">Dodirnite za zatvaranje ove kartice.</string>
  <string name="pre_privacy_setting_title">Privatnost</string>
  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
  <string name="privacy_action_failed">"Nije moguće povući suglasnost"</string>
@@ -1398,21 +1465,39 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="side_sheet_accessibility_pane_title">Bočna stranica</string>
  <string name="small_window">Smanji prozor</string>
  <string name="small_window_not_supported">"Ne možete smanjiti ovu aplikaciju dok se emitira"</string>
- <string name="status_bar_fail">"Nije moguće povezati se"</string>
+ <string name="start_forbidden_by_not_worn">"Ne mogu se povezati. Stavite naočale i pokušajte ponovno."</string>
+ <string name="status_bar_car_camera_icon_name">Vozilo</string>
+ <string name="status_bar_default_icon_name">Uređaj</string>
+ <string name="status_bar_device_iot_camera_icon_name">Xiaomi kućna kamera</string>
+ <string name="status_bar_fail">"Ne mogu se povezati"</string>
+ <string name="status_bar_glasses_camera_icon_name">Naočale</string>
  <string name="status_bar_in_casting">Emitiranje</string>
  <string name="status_bar_in_casting_long">Dodirnite za proširenje dodatnih značajki</string>
  <string name="status_bar_loading">Povezivanje…</string>
- <string name="status_bar_notification_info_overflow">999+</string>
+ <string name="status_bar_pad_camera_icon_name">Tablet</string>
+ <string name="status_bar_pc_camera_icon_name">Računalo</string>
+ <string name="status_bar_phone_camera_icon_name">Telefon</string>
  <string name="status_bar_success">Uspješno povezan</string>
  <string name="sunday">Nedjelja</string>
  <string name="sunday_short">Ned</string>
  <string name="sunday_shortest">N</string>
- <string name="synergy_being_used_text">U upotrebi</string>
+ <string name="switching_to_local_camera_description">"Prebacivanje natrag na kameru ovog uređaja…"</string>
+ <string name="synergy_being_used_text">Koristi se</string>
  <string name="synergy_casting">"Ne možete emitirati dok Screen Combo radi"</string>
  <string name="synergy_text">Međupovezanost</string>
  <string name="talk_back_device_battery_quantity">Baterija %s</string>
+ <string name="talk_back_device_battery_quantity_charging">Punjenje，baterija，%s</string>
+ <string name="talkback_beauty_off">Uljepšavanje je isključeno. Dodirnite za postavljanje parametara.</string>
+ <string name="talkback_beauty_on">Uljepšavanje je uključeno</string>
+ <string name="talkback_beauty_value">Uljepšavanje prilagođeno na %1$d. Dodirnite drugo područje za povratak.</string>
+ <string name="talkback_stream_has_resume">Nastavak snimanja</string>
+ <string name="talkback_stream_has_stop">Pauzirano snimanje</string>
+ <string name="talkback_stream_pause">Pauza</string>
+ <string name="talkback_stream_resume">Nastavi</string>
+ <string name="talkback_stream_stop">Stop. Dodirnite za prekid snimanja.</string>
+ <string name="talkback_stream_switch">Prebacivanje između prednje i stražnje kamere</string>
  <string name="temperature_warning_dialog_message">Ovaj uređaj je pregrijan. Pričekajte da se ohladi prije dijeljenja feeda kamere.</string>
- <string name="temperature_warning_dialog_positive_button">Shvaćam</string>
+ <string name="temperature_warning_dialog_positive_button">Razumijem</string>
  <string name="temperature_warning_dialog_title">"Ne mogu koristiti kameru na različitim uređajima"</string>
  <string name="test_package_upgrade">"Nije moguće ažurirati na Beta verziju"</string>
  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
@@ -1452,6 +1537,12 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="tv_remote_auth_title">"Unesite kod za provjeru televizora"</string>
  <string name="unlock_screen_to_authorize_camera">"%s želi koristiti kameru ovog uređaja"</string>
  <string name="unlock_screen_to_authorize_camera_car">"%s pristupa kameri ovog uređaja"</string>
+ <string name="upgrade_accessibility_cancel_download">Preuzimanje je otkazano</string>
+ <string name="upgrade_accessibility_finish_all_upgrade">Uspješno ažurirano. Trenutna verzija je ažurirana.</string>
+ <string name="upgrade_accessibility_finish_upgrade">Uspješno ažurirano</string>
+ <string name="upgrade_accessibility_fold_devicelist">"Sažet popis ažuriranja korisnika %1$s."</string>
+ <string name="upgrade_accessibility_unfold_devicelist">"Prošireni popis ažuriranja %1$s."</string>
+ <string name="upgrade_accessibility_upgrading">Ažuriranje…</string>
  <string name="update">Ažuriraj</string>
  <string name="upgrade_app_name_version">%1$s | %2$s</string>
  <string name="upgrade_cancel">Odustani</string>
@@ -1470,6 +1561,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="upgrade_login_dialog_message">Prijavite se na svoj Xiaomi račun da biste mogli vidjeti svoje povezane uređaje.</string>
  <string name="upgrade_login_dialog_sure">Prijavite se</string>
  <string name="upgrade_login_dialog_title">Prijavite se na Xiaomi račun</string>
+ <string name="upgrade_new_devices_version">Dostupno je ažuriranje za ovaj uređaj.</string>
  <string name="upgrade_new_version">Dostupno je ažuriranje</string>
  <string name="upgrade_no_devices">Nema dostupnih ažuriranja</string>
  <string name="upgrade_now">Ažuriraj</string>
@@ -1481,7 +1573,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="upgrade_test_package">"Da biste dovršili ažuriranje,
 provjerite sadrži li paket najnovije verzije svih aplikacija."</string>
  <string name="upgrade_title">Ažuriranje povezanih uređaja</string>
- <string name="upgrade_toast_no_wifi">"Nije moguće povezati se"</string>
+ <string name="upgrade_toast_no_wifi">"Ne mogu se povezati"</string>
  <string name="upgrade_tv_device_tip">*Ažuriranja osigurava Xiaomi TV</string>
  <string name="upgrade_ver_can_upgrade">Dostupno ažuriranje</string>
  <string name="upgrade_ver_can_upgrade_1to2">Ažuriranje s verzije %1$d na %2$d</string>
@@ -1490,6 +1582,7 @@ provjerite sadrži li paket najnovije verzije svih aplikacija."</string>
  <string name="upgrade_ver_latest">Trenutačna verzija je ažurna</string>
  <string name="upgrade_ver_latest1">Trenutna verzija (%1$d) je ažurna</string>
  <string name="upgrade_ver_latest1s">Trenutna verzija (%1$s) je ažurna</string>
+ <string name="using_camera_of_device_description">"Korištenje kamere %1$s."</string>
  <string name="v7_preference_off">ISKLJUČENO</string>
  <string name="v7_preference_on">UKLJUČENO</string>
  <string name="watch_more_setting">Više opcija</string>

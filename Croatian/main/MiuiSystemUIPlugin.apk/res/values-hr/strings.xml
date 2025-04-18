@@ -50,6 +50,10 @@
   <string name="accessibility_qs_edit_tile_removed">Kartica %1$s uklonjena</string>
   <string name="accessibility_quick_settings_page">Stranica %1$d od %2$d</string>
   <string name="accessibility_settings">Postavke</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="accessibility_volume_collapse">Sažimanje</string>
   <string name="accessibility_volume_expand">Proširivanje</string>
   <string name="actionbar_button_up_description">Natrag</string>
@@ -241,7 +245,13 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="miui_toast_zen_to_standard">Bešumno je uključeno</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">DND je uključeno. Melodije zvona, kao i zvukovi obavijesti i medija su utišani.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -259,7 +269,7 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
-  <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -268,6 +278,9 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -513,6 +526,7 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
   <string name="switch_bar_off">Isključeno</string>
   <string name="switch_bar_on">Uključeno</string>
   <string name="system_update">Ažuriranje sustava</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>

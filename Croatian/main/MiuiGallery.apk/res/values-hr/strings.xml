@@ -3756,6 +3756,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
   <string name="switch_account_switch">Počni iznova</string>
   <string name="switch_account_title">Nastaviti prijenos?</string>
   <string name="switch_gallery_recommend_widget_show_title">Naslov emisije</string>
+  <string name="switch_gallery_widget_editor_dof_enable">Primijeni efekt dubine</string>
   <string name="sync_album_in_proecess">Sinkronizacija albuma…</string>
   <string name="sync_backup_disable_confirm_message_downloading">Ako sada isključite sinkronizaciju, prekid preuzimanja u tijeku izvornih datoteka pohranjenih u Xiaomi Cloudu bit će prekinut. Slike visoke kvalitete pohranjene na ovom uređaju više neće biti dostupne. Isključiti svejedno?</string>
   <string name="sync_backup_disable_confirm_message_wait">Slike visoke kvalitete pohranjene na ovom uređaju više neće biti dostupne nakon isključivanja sinkronizacije. Izvorne datoteke možete preuzeti iz Xiaomi Clouda i nakon toga isključiti sinkronizaciju.</string>

@@ -903,6 +903,7 @@ Brži protokol veze."</string>
   <string name="remaining_length_format">Još %1$s</string>
   <string name="remove_black_list_title">Ukloni popis blokiranih</string>
   <string name="request_uninstall">Zahtjev deinstalacije modula</string>
+  <string name="request_open_bluetooth_title">Dopustiti komunikaciji među uređajima da uključi Bluetooth?</string>
   <string name="reset_function_msg">Poništavanje ove značajke može spriječiti %1$s da radi normalno.</string>
   <string name="retail_demo_reset_message">Unesite zaporku za resetiranje u demo načinu</string>
   <string name="retail_demo_reset_next">Dalje</string>
@@ -1252,6 +1253,7 @@ Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
   <string name="window_blurs">Dopusti zamućenja na razini prozora</string>
   <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
+  <string name="xpan_bt_toast">Prebačeno na Wi-Fi %s Mbps zvuk bez gubitaka</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
   <string name="zen_alarm_warning">Nećete čuti sljedeći alarm %1$s</string>

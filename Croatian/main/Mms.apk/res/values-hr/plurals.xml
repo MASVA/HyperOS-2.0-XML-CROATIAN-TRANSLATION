@@ -33,6 +33,18 @@
         <item quantity="other">Izbrisati poruke: %1$s?</item>
         <item quantity="one">Izbrisati %1$s poruku?</item>
     </plurals>
+	 <plurals name="beidou_receive_remain_time">
+        <item quantity="other">Možete primiti drugu poruku za %ds</item>
+        <item quantity="one">Možete primiti drugu poruku za %ds</item>
+     </plurals>
+     <plurals name="beidou_remain_times">
+        <item quantity="other">" (%d preostalih poruka)"</item>
+        <item quantity="one">" (%d preostala poruka)"</item>
+     </plurals>
+     <plurals name="beidou_send_remain_time">
+        <item quantity="other">Možete poslati drugu poruku za %ds</item>
+        <item quantity="one">Možete poslati drugu poruku za %ds</item>
+     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">Poruka: %d</item>
         <item quantity="zero">Poruka: %d</item>

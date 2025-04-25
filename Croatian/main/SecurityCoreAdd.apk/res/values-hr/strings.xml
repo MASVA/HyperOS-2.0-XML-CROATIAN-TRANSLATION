@@ -181,6 +181,7 @@ Isključiti svejedno?"</string>
   <string name="cta_declaration_message_format" formatted="false">Morate pročitati i prihvatiti naše &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; prije korištenja Enterprise načina. Vaš uređaj treba biti povezan na internet za aktiviranje Enterprise načina. Prihvaćate?</string>
   <string name="cta_declaration_title">Uvjeti i Odredbe</string>
   <string name="current_space">Trenutni prostor</string>
+  <string name="custom_esc_logic">Prilagodi tipku \"Esc\"</string>
   <string name="custom_gesture_title">Prilagođene geste</string>
   <string name="customize_knock_gesture">Prilagođene geste zglobova</string>
   <string name="dataSafe">Korištenje Drugog prostora je kao da imate dva uređaja.</string>
@@ -277,6 +278,9 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="err_volume_not_enough">Nema dovoljno prostora za pohranu</string>
   <string name="error_a11y_label">Pogreška: nevažeće</string>
   <string name="error_icon_content_description">Pogreška</string>
+  <string name="esc_cancel">Izlaz (Otkaži)</string>
+  <string name="esc_return">Natrag</string>
+  <string name="esc_title">Esc</string>
   <string name="exit_private_space">Promjeni</string>
   <string name="expand_button_title">Napredno</string>
   <string name="experience_more_features">Dodajte uređaj da biste vidjeli sve značajke</string>
@@ -605,6 +609,10 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="key_settings">Prečaci tipke i gesta</string>
   <string name="key_settings_title">Prečaci tipke i gesta</string>
   <string name="key_system_control">Kontrola sustava</string>
+  <string name="keyboard_touchpad_click_force">Klik na trackpadu</string>
+  <string name="keyboard_touchpad_click_force_medium">Srednje</string>
+  <string name="keyboard_touchpad_click_force_strong">Čvrsto</string>
+  <string name="keyboard_touchpad_click_force_weak">Lagano</string>
   <string name="keyboard_assistance_category">Pomoć s tipkovnicom</string>
   <string name="keyboard_back_light">Pozadinsko osvjetljenje tipkovnice</string>
   <string name="keyboard_back_light_automatic_adjustment">Automatsko podešavanje pozadinskog osvjetljenja</string>
@@ -728,6 +736,7 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="long_press_power_key_half_second">Pritisnite i držite tipku za uključivanje %ss</string>
   <string name="long_press_power_key_tips">&lt;Data&gt;Dugi pritisak na tipku za uključivanje &lt;font color=#999999&gt;brži je i praktičniji&lt;/font&gt;&lt;/Data&gt;</string>
   <string name="long_press_volume_down">Dugi pritisak na smanjivanje glasnoće</string>
+  <string name="lp_display_shortcut_keys">Pritisnite i držite* za prikaz prečaca</string>
   <string name="master_clear_apply_step_1">Opoziv autorizacije zahtijeva vraćanje uređaja na tvorničke postavke. Trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije. Izradite Sig. kopiju svih važnih stavki na računalo prije nego što opozovete autorizaciju.</string>
   <string name="master_clear_apply_step_2">Provjerite jeste li sigurnosno kopirali sve važne stavke na svoje računalo. Nakon što dodirnete \"U redu\", vaš će se uređaj vratiti na tvorničke postavke, trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije.</string>
   <string name="master_clear_apply_title">Pažnja</string>
@@ -934,6 +943,7 @@ Inače možda nećete moći unijeti drugi razmak sa zaključanog zaslona."</stri
   <string name="pref_volume_wake_summary">Pritisak na tipke za glasnoću budi uređaj</string>
   <string name="pref_volume_wake_title">Probudite se s tipkama za glasnoću</string>
   <string name="preference_copied">\"%1$s\" kopirano u međuspremnik.</string>
+  <string name="preferences_esc">Postavke</string>
   <string name="preferred_app_settings_reset">Vrati na zadane postavke</string>
   <string name="preferred_app_settings_reset_button">Poništi</string>
   <string name="preferred_app_settings_reset_message">Vratiti zadane postavke aplikacije na tvorničke postavke?</string>

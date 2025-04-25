@@ -250,6 +250,7 @@
   <string name="long_press_summary">Pritisnite i držite stavku na zaslonu</string>
   <string name="media_volume_too_low_message">Pojačajte zvuk medija da biste mogli čuti prijevod</string>
   <string name="menu_multi_select">Odaberi više stavki</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
@@ -266,6 +267,7 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -387,6 +389,7 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="preference_user_agreement_title">Korisnički ugovor</string>
   <string name="preference_value_create_shortcut">Izradi</string>
   <string name="preference_value_has_shortcut">Izrađeno</string>
+  <string name="privacy_update">Ažurirana Pravila o privatnosti</string>
   <string name="quit">Izlaz</string>
   <string name="realistic">Kućni ljubimci</string>
   <string name="recents_summary">Otvori Nedavno</string>

@@ -504,8 +504,16 @@
         <item quantity="other">Odaberite %1$d–%2$d stavki</item>
         <item quantity="one">Odaberite %1$d–%2$d stavku</item>
      </plurals>
+	   <plurals name="picker_title_selection_format_multiple_os2">
+        <item quantity="other">Odaberite %1$d ~ %2$d fotografija</item>
+        <item quantity="one">Odaberite %1$d ~ %2$d fotografiju</item>
+     </plurals>
+     <plurals name="picker_title_video_editor_component_format_os2">
+        <item quantity="other">Odaberite %1$d segmenata</item>
+        <item quantity="one">Odaberite %1$d segment</item>
+     </plurals>
 	<plurals name="picker_title_video_editor_component">
-        <item quantity="other">Odaberite %d segmenta</item>
+        <item quantity="other">Odaberite %d segmenata</item>
         <item quantity="one">Odaberite %d segment</item>
     </plurals>
     <plurals name="picker_title_video_editor_component_format">

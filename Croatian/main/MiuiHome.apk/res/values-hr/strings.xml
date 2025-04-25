@@ -126,6 +126,7 @@
   <string name="announce_for_drop_workspace">Zaslon broj %1$d, broj linije %2$d, broj reda %3$d</string>
   <string name="announce_for_edit_mode">Ulaz u način editiranja</string>
   <string name="announce_for_edit_mode_disable">Izlaz iz načina editiranja</string>
+  <string name="announce_for_indicator">Stranica %1$d od %2$d stranica</string>
   <string name="announce_for_move">Pomakni u red %1$d kolonu %2$d</string>
   <string name="announce_for_move_hotseat">Pomakni na poziciju %1$d</string>
   <string name="announce_for_layout_preview_mode">Otvori pregled</string>
@@ -316,6 +317,7 @@
   <string name="deleted_system_applications">Deinstalirane aplikacije sustava</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="dialog_safe_launcher_content">"Pokretač je doživio pogrešku i prebacio se na siguran način rada. Neke značajke trenutačno nisu dostupne. Možete nam poslati povratne informacije o problemu dok čekate da se pokretač ažurira." </string>
+  <string name="dialog_safe_launcher_commit_describe">Pošalji povratne informacije</string>
   <string name="dialog_safe_launcher_title">Siguran način rada je uključen</string>
   <string name="dialog_work_profile_button_1">Dalje</string>
   <string name="dialog_work_profile_button_2">Razumijem</string>

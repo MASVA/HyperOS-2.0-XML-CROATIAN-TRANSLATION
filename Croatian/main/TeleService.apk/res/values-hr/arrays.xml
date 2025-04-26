@@ -168,6 +168,14 @@
         <item>Glas</item>
         <item>CSVoice</item>
     </string-array>
+	 <string-array name="js_ntn_log_level">
+       <item>Isključeno</item>
+       <item>Opširno</item> 
+       <item>Informacije</item> 
+       <item>Ispravljanje pogrešaka</item> 
+	    <item>Upozorenje</item>
+       <item>Pogreška</item>
+    </string-array>
     <string-array name="livetalk_about_info_array">
         <item>- Podržava domaće i međunarodne brojeve telefona.</item>
         <item>"- Svaki poziv koristi 1Kb mobilnih podataka (koristi redovitu mobilnu mrežu kada nemate mobilne podatkovne veze)."</item>

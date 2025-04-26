@@ -64,6 +64,10 @@
   <string name="customization_quit">Izlaz</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
   <string name="dolby_atoms">Dolby Atmos</string>
+  <string name="dolby_dax_geq_bar_chart_talkback" formatted="false">Ekvalizator, klizač %d, %s.</string>
+  <string name="dolby_dax_geq_select_click_tip_talkback">Dvaput dodirnite za aktivaciju</string>
+  <string name="dolby_dax_geq_select_not_selected_talkback">Nije odabrano</string>
+  <string name="dolby_dax_geq_select_selected_talkback">Odabrano</string>
   <string name="dolby_dax_geq_select_title">Preseti</string>
   <string name="dolby_dax_geq_title">Grafički ekvilajzer</string>
   <string name="dolby_dax_profile_dynamic">Dinamično</string>
@@ -206,6 +210,7 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_progressbar_loading">Učitavanje</string>

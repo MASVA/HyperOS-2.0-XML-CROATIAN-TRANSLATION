@@ -377,6 +377,42 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="battery_info_status_full">Napunjeno</string>
   <string name="battery_info_status_not_charging">Uključen, trenutačno se ne može puniti</string>
   <string name="battery_info_status_unknown">Nepoznato</string>
+  <string name="beidiu_privacy_statement_negative">"Ne slažem se"</string>
+  <string name="beidiu_privacy_statement_positive">Slažem se</string>
+  <string name="beidiu_privacy_statement_title">BeiDou satelitske komunikacije</string>
+  <string name="beidiue_privacy_statement_message">"BeiDou satelitske komunikacije omogućuju vam slanje i primanje satelitskih poruka. Ova usluga zahtijeva povezivanje s internetom i sljedeća dopuštenja:
+Lokacija: za slanje i dijeljenje lokacije
+Pročitajte i prihvatite "<a href="https://pnt.10086.cn/scc/v1/bdlawfront/#/agreement">Ugovor o korištenju pretplate na BeiDou poruke</a> i <a href="https://pnt.10086.cn/scc/v1/bdlawfront/#/privacy">Pravila o privatnosti BeiDou poruka</a> prije korištenja ove usluge.</string>
+  <string name="beidou_close_bluetooth_fail_toast">"Bluetooth nije moguće isključiti. To može uzrokovati pogreške u satelitskoj komunikaciji."</string>
+  <string name="beidou_close_bluetooth_toast">Bluetooth je isključen radi poboljšanja satelitske veze</string>
+  <string name="beidou_findout_settings_title">O satelitskim porukama Beidou</string>
+  <string name="beidou_mobile_settings_summary">Dostupno samo korisnicima China Mobilea</string>
+  <string name="beidou_mobile_settings_title">Beidou satelitske komunikacije</string>
+  <string name="beidou_received_failed">"Primanje nije moguće.
+Pokušajte ponovno."</string>
+  <string name="beidou_received_success">Uspješno primljeno.</string>
+  <string name="beidou_received_zero_sms">Uspješno primljeno. Nema novih poruka.</string>
+  <string name="beidou_satellite_area_requirement_message">Ova je značajka dostupna samo na uređajima koji se prodaju na kineskom kopnu i može se koristiti samo na kineskom kopnu. Ova značajka nije dostupna korisnicima u kineskim regijama Hong Kong, Makao i Tajvan.</string>
+  <string name="beidou_satellite_area_requirement_title">Koja su regionalna ograničenja za korištenje ove značajke?</string>
+  <string name="beidou_satellite_enable_message">Pošaljite KTBD na 10086 ili uključite ovu značajku u aplikaciji China Mobile.</string>
+  <string name="beidou_satellite_enable_title">Kako uključiti Beidou satelitsku komunikaciju?</string>
+  <string name="beidou_satellite_environment_requirement_message">Satelitsku komunikaciju najbolje je koristiti u područjima bez mrežne pokrivenosti. Kako biste izbjegli ometanje signala, uklonite sve metalne futrole s uređaja i držite vrh uređaja najmanje 5 cm od tijela ili drugih predmeta tijekom upotrebe.</string>
+  <string name="beidou_satellite_environment_requirement_title">Koji su zahtjevi zaštite okoliša za korištenje ove značajke?</string>
+  <string name="beidou_satellite_feature_introduction">Često postavljana pitanja</string>
+  <string name="beidou_satellite_impact_phone_message">"Kada je satelitska komunikacija uključena, Wi-Fi, mobilni podaci i način rada u zrakoplovu bit će isključeni i neće biti dostupni. Dok je ova značajka uključena, GPS usluge koriste se samo za slanje poruka. Slanje poruka putem satelita zahtijeva više energije od konvencionalnog slanja poruka, pa će vaš uređaj trošiti energiju brže nego inače."</string>
+  <string name="beidou_satellite_impact_phone_title">Kako će korištenje satelitske komunikacije utjecati na moj uređaj?</string>
+  <string name="beidou_satellite_introduction_title">Beidou satelitske poruke</string>
+  <string name="beidou_satellite_send_receive_sms_message">Nakon što uključite satelitsku komunikaciju, poruke će se slati i primati putem Beidou satelita. Možete slati poruke najviše 4 kontakta istovremeno, a svaka poruka može sadržavati do 20 kineskih znakova. Što više kontakata odaberete, manje znakova možete poslati. Uključene informacije o lokaciji računat će se kao dio dopuštenih znakova.</string>
+  <string name="beidou_satellite_send_receive_sms_title">Kako mogu slati i primati poruke putem BeiDoua?</string>
+  <string name="beidou_satellite_use_message">"U područjima bez signala mobilne mreže, poput planina, pustinja i oceana, ili u situacijama gdje su zemaljski komunikacijski sustavi uništeni prirodnim katastrofama, i dalje možete koristiti satelitsku komunikaciju za slanje i primanje poruka sve dok je područje u kojem se nalazite otvoreno i bez prepreka prema jugu."</string>
+  <string name="beidou_send_use_title">Zašto koristiti satelitsku komunikaciju?</string>
+  <string name="beidou_send_failed">"Nije moguće poslati. Pokušajte ponovno."</string>
+  <string name="beidou_send_success">Uspješno poslano. Primljena potvrda.</string>
+  <string name="beidou_send_wait_ack">Uspješno poslano. Još nije primljena potvrda.</string>
+  <string name="beidou_sms_location_fail_toast">Dopustite ovoj značajki da prvo pristupi vašoj lokaciji</string>
+  <string name="beidou_state_connecting">Povezivanje sa satelitom…</string>
+  <string name="beidou_state_registered">Registriran</string>
+  <string name="beidou_state_unregistered">Neregistriran</string>
   <string name="bf_news_settings">Poslovne i financijske vijesti</string>
   <string name="billing_cycle_title">Upozorenje o potrošnji i ograničenje</string>
   <string name="blob_expires_text">Istječe %s</string>
@@ -496,6 +532,8 @@ Audio"</string>
   <string name="cached_apps_freezer_disabled">Onemogućeno</string>
   <string name="cached_apps_freezer_enabled">Omogućeno</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Da bi se ova promjena primijenila, vaš se uređaj mora ponovno pokrenuti. Ponovo pokrenite odmah ili otkažite.</string>
+  <string name="calibrate_rotate_again">Pokušajte ponovno</string>
+  <string name="calibrate_rotate_tip">Oštro nagnite uređaj da biste kotrljali loptu po krugu</string>
   <string name="callEnded_pulled">Poziv prenesen na drugi uređaj.</string>
   <string name="callFailed_NetworkBusy">Mreža je zauzeta. Pokušajte ponovo kasnije.</string>
   <string name="callFailed_NetworkCongested">Mreža je zauzeta. Za pomoć se obratite svom mobilnom operateru.</string>
@@ -1212,6 +1250,8 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="enable">Uključi</string>
   <string name="enable_2g_dialog_title">Pažnja</string>
   <string name="enable_2g_dialog_warn_message">"Ako isključite 2G i nalazite se u području gdje je 2G jedina dostupna mreža, nećete moći upućivati hitne niti one koji nisu hitni pozivi. Svejedno isključiti?"</string>
+  <string name="enable_2g_summary_eu">Koristite 2G mobilne veze. Za hitne pozive 2G je uvijek uključen.</string>
+  <string name="enable_2g_title_eu">Dopusti 2G</string>
   <string name="enable_2g_summary">2G mreže su manje sigurne, ali mogu poboljšati kvalitetu veze na nekim lokacijama</string>
   <string name="enable_2g_title">Dopusti korištenje 2G</string>
   <string name="enable_4g_data_summary">4G može omogućiti bolji i brži pristup internetu.</string>
@@ -1329,6 +1369,7 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="esim_msim_setting_sim_info_editor_title">Uredite informacije o eSIM kartici</string>
   <string name="esim_setting_title">Postavke eSIM-a</string>
   <string name="esos_satellite_string">Testiranje eSOS načina pravog satelita (samo međuverzija programa za otklanjanje pogrešaka)</string>
+  <string name="exit">Isključi</string>
   <string name="exception_error">Pogreška mreže ili SIM kartice.</string>
   <string name="expand_button_title">Napredno</string>
   <string name="expected_avaiable_minute">Preostalo minuta</string>
@@ -2937,6 +2978,45 @@ UT sučelje: %5$s"</string>
   <string name="sa_switch_debug_summary">Prikaži opcije 5G mrežnog načina rada u dodatnim postavkama SIM-a</string>
   <string name="sa_switch_debug_title">Prikaži opcije 5G mrežnog načina</string>
   <string name="sat_version">Verzija modema:</string>
+  <string name="satellite_call_failed">Signal prekinut. Pokušajte ponovno.</string>
+  <string name="satellite_dialog_button">Plutajući prozor</string>
+  <string name="satellite_dialog_cancel">Otkaži</string>
+  <string name="satellite_exit">Izlaz</string>
+  <string name="satellite_exit_dialog_message">Satelitska komunikacija je isključena. Ponovno ih pokrenite da biste ih mogli koristiti.</string>
+  <string name="satellite_exit_tips">Isključiti komunikaciju satelita Tiantong sada?</string>
+  <string name="satellite_flash_time_out_message">"Nije moguće ažurirati firmware za satelitsku komunikaciju. Uređaj će pokušati ponovno ažurirati nakon ponovnog pokretanja."</string>
+  <string name="satellite_flash_time_out_notification">Podsjetnik na neuspjelo ažuriranje firmwarea satelita</string>
+  <string name="satellite_flash_time_out_title">Ažuriranje firmware-a</string>
+  <string name="satellite_flashing_toast">"Nije moguće ažurirati firmware. Pokušajte ponovno kasnije."</string>
+  <string name="satellite_guide_azimuth">Pomičite se dok satelit ne bude u području skeniranja</string>
+  <string name="satellite_guide_azimuth_in">Satelit je u području skeniranja</string>
+  <string name="satellite_guide_azimuth_leave">"Satelit nije u području skeniranja"</string>
+  <string name="satellite_guide_down">"Nagnite uređaj prema dolje
+kako biste lopticu stavili u plavo područje"</string>
+  <string name="satellite_guide_elevation">"Pomičite se dok plavi krug ne bude na satelitu.
+Držite satelit u vodoravnom položaju."</string>
+  <string name="satellite_guide_left">"Nagnite uređaj lijevo
+kako biste ikonu satelita postavili u plavo područje"</string>
+  <string name="satellite_guide_right">"Nagnite uređaj desno
+kako biste ikonu satelita postavili u plavo područje"</string>
+  <string name="satellite_guide_searching">"Skeniranje satelita…
+Provjerite jeste li na otvorenom prostoru."</string>
+  <string name="satellite_guide_up">"Nagnite uređaj prema gore
+kako biste lopticu postavili u plavo područje"</string>
+  <string name="satellite_management_title">Satelitska mreža</string>
+  <string name="satellite_network_error">Došlo je do pogreške u satelitskoj komunikaciji. Pričekajte minutu ili dvije i ponovno pokrenite satelitske značajke.</string>
+  <string name="satellite_pa_megathermal_message">Uređaj je previše vruć za uključivanje satelitske komunikacije. Pričekajte da se ohladi i pokušajte ponovno.</string>
+  <string name="satellite_pa_megathermal_title">Uređaj se pregrijao</string>
+  <string name="satellite_state">Držite uređaj u istom položaju</string>
+  <string name="satellite_state_connected_floating">"Ne pomičite uređaj"</string>
+  <string name="satellite_state_occlusion_prompt">Izbjegavajte zgrade ili drveće koje bi moglo blokirati signal</string>
+  <string name="satellite_switch_alert">Satelitski signal je slab, ponovno usmjerite satelit</string>
+  <string name="satellite_unable_open_title">"Ne mogu uključiti satelitsku komunikaciju"</string>
+  <string name="satellite_xingwang_findout_settings_title">O satelitskoj komunikaciji tvrtke Tiantong</string>
+  <string name="satellite_xingwang_mobile_settings_summary">Podržava samo SIM kartice s omogućenim satelitskim signalom tvrtke China Telecom ili drugih podržanih operateri</string>
+  <string name="satellite_xingwang_mobile_settings_title">Omogući satelitsku komunikaciju</string>
+  <string name="satellite_xingwang_privacy_withdrawal_setting">Otkaži usluge satelitske komunikacije Tiantong</string>
+  <string name="satellite_xingwang_setting">Satelitska komunikacija Xingwang</string>
   <string name="satellite_area_requirement_message">Ova je značajka dostupna samo za uređaje koji se prodaju na kineskom kopnu (isključujući Hong Kong, Macao i Tajvan), a ova se značajka može koristiti samo na kineskom kopnu (isključujući Hong Kong, Macao i Tajvan).</string>
   <string name="satellite_area_requirement_title">U kojim regijama se ova značajka može koristiti?</string>
   <string name="satellite_call_indoor_positioning_message">"Kada SIM kartica s omogućenim satelitom nije instalirana, a vi ste unutra, Xiaomi Science and Technology Park koristi se kao zadana lokacija. To omogućuje vašem uređaju da pokaže kako se sateliti nalaze." </string>

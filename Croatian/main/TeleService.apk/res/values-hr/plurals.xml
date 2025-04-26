@@ -33,6 +33,14 @@
         <item quantity="other">odgodi: %d sek.</item>
         <item quantity="one">odgodi: %d sek.</item>
     </plurals>
+	  <plurals name="beidou_receiving">
+        <item quantity="other">Primanje (%ds)</item>
+        <item quantity="one">Primanje (%ds)</item>
+     </plurals>
+     <plurals name="beidou_sending">
+        <item quantity="other">Slanje (%ds)</item>
+        <item quantity="one">Slanje (%ds)</item>
+     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Možete dodati do %s osoba, odaberite ponovno.</item>
         <item quantity="one">Možete dodati %s osobu, odaberite ponovno.</item>
@@ -93,6 +101,10 @@
 	 <plurals name="satellite_low_battery_turn_off_message">
         <item quantity="other">Baterija je slaba. Tiantong Satellite komunikacije će se isključiti za %ds.</item>
         <item quantity="one">Baterija je slaba. Tiantong Satellite komunikacije će se isključiti za %ds.</item>
+     </plurals>
+	  <plurals name="satellite_pa_megathermal_turn_off_message">
+        <item quantity="other">Uređaj je pregrijan. Satelitska komunikacija će se isključiti za %d sek.</item>
+        <item quantity="one">Uređaj je pregrijan. Satelitska komunikacija će se isključiti za %d sekundu.</item>
      </plurals>
      <plurals name="satellite_privacy_withdrawal_dialog_disable_negative">
         <item quantity="other">Otkaži usluge (%ds)</item>

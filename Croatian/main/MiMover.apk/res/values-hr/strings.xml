@@ -978,6 +978,7 @@ Preuzmite i instalirajte Mi Mover."</string>
   <string name="trans_show_qr_code_label">Otvorite Mi Mover na starom uređaju</string>
   <string name="trans_show_qr_code_label_for_pad">Otvorite Mi Mover na starom uređaju</string>
   <string name="trans_sync_transfer_data_list">Odaberite stavke koje želite prenijeti na stari uređaj</string>
+  <string name="trans_sync_transfer_data_list_pad">Odaberite stavke koje želite prenijeti na stari uređaj</string>
   <string name="trans_sync_transfer_data_list_apple">"Odaberite stavke za prijenos
 na vašem Apple uređaju"</string>
   <string name="trans_sync_transfer_data_list_hint">Samo trenutak…</string>

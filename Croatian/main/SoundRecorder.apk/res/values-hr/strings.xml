@@ -68,7 +68,6 @@
   <string name="add_remark_tip">Dodirnite za dodavanje napomene</string>
   <string name="add_to_trust_device">Ovo je pouzdani uređaj</string>
   <string name="agree_description">Dopustite ovoj aplikaciji da se poveže s internetom kako bi mogla koristiti sve svoje značajke.</string>
-  <string name="ai_summary">Sažetak umjetne inteligencije</string>
   <string name="ai_watermark">Ovaj sadržaj generirao je umjetna inteligencija i pruža se samo kao referenca.</string>
   <string name="ai_recognition_other_speaker">(Netko drugi govori)</string>
   <string name="ai_summary">AI sažetak</string>

@@ -734,7 +734,6 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_item_view_accessibility_unselected">Nije odabrano</string>
-  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_item_view_role_description">Kartica</string>
   <string name="miuix_navigator_category_group_collapse">Sažmi</string>
   <string name="miuix_navigator_category_group_collapsed">Sažeto</string>

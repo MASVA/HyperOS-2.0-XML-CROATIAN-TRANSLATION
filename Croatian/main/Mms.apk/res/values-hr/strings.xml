@@ -733,14 +733,18 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="miuix_appcompat_select_item">Odaberite stavke</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
-  <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_item_view_accessibility_unselected">Nije odabrano</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_item_view_role_description">Kartica</string>
   <string name="miuix_navigator_category_group_collapse">Sažmi</string>
+  <string name="miuix_navigator_category_group_collapsed">Sažeto</string>
   <string name="miuix_navigator_category_group_expand">Proširi</string>
+  <string name="miuix_navigator_category_group_expanded">Prošireno</string>
   <string name="miuix_navigator_content_switch_description">Prikaži bočnu traku</string>
   <string name="miuix_navigator_multiple_choice">Odaberite</string>
   <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>
+  <string name="miuix_navigator_toolbar_screen_bottom">Alatna traka na dnu zaslona</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -750,7 +754,7 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
-  <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
   <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="mms">MMS</string>
   <string name="mms_5g_mms_privacy_policy">Politika o privatnosti 5G poruka</string>
@@ -993,6 +997,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="notification_seen">Označi kao pročitano</string>
   <string name="number_add_hint">Unesite broj za dodavanje</string>
   <string name="number_recognition_partner">Partneri za prepoznavanje brojeva</string>
+  <string name="ok">Razumijem</string>
   <string name="only_chairman_left">U ovom razgovoru je ostao samo upravitelj. Raspustiti razgovor i izbrisati upravitelja?</string>
   <string name="open_audio_record_panel">Otvori ploču za snimanje zvuka</string>
   <string name="open_edit_sms_panel">Otvori ploču uređivanja SMS-a</string>

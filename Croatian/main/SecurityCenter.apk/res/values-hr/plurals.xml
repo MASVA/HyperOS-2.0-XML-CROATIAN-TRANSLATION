@@ -656,6 +656,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">"Pričekajte %d sek. i pokušajte ponovno. "</item>
         <item quantity="one">"Pričekajte %d sek. i pokušajte ponovno. "</item>
     </plurals>
+	<plurals name="main_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
     <plurals name="manual_white_list_header">
         <item quantity="other">%d iznimaka</item>
         <item quantity="one">%d iznimka</item>

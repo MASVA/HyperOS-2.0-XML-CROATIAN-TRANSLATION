@@ -132,7 +132,7 @@
   <string name="announce_for_layout_preview_mode">Otvori pregled</string>
   <string name="announce_for_layout_preview_mode_disable">Zatvori pregled</string>
   <string name="announce_for_open_default_preview">Otvorili ste zadane postavke Početnog zaslona</string>
-  <string name="announce_for_open_folder">Otvorena mapa %1$s</string>
+  <string name="announce_for_open_folder">Otvori \"%1$s\"</string>
   <string name="announce_for_open_launcher_menu">Otvoreni izbornik</string>
   <string name="announce_for_search_bar">Traka za pretraživanje</string>
   <string name="announce_for_show_uninstall_dialog">Pojavio se dijalog za deinstalaciju. Otkažite ili potvrdite.</string>
@@ -140,6 +140,12 @@
   <string name="announce_for_unchecked_after">neoznačen, %1$s</string>
   <string name="announce_for_widget_span">Širina %1$d, visina %2$d</string>
   <string name="announce_for_xiaoai">Mi AI</string>
+  <string name="announce_to_drop_folder_grid_view">Ispušteno na poziciju %1$d u mapi</string>
+  <string name="announce_to_drop_folder_icon">Ispušteno u \"%1$s\"</string>
+  <string name="announce_to_drop_hotseat">Dodano u Dock</string>
+  <string name="announce_to_drop_shortcut_icon">Ispušteno u %1$s i mapu koju je generirao %2$s</string>
+  <string name="announce_to_drop_trash">Ispušteno u Otpad</string>
+  <string name="announce_to_drop_workspace">Ispušteno na stranicu %1$d, redak %2$d, stupac %3$d</string>
   <string name="app_already_exist">Aplikacija već postoji</string>
   <string name="app_being_backup_message">Izvodi se Sig. kopija aplikacije</string>
   <string name="app_being_restored_message">Izvodi se vraćanje aplikacije</string>
@@ -983,6 +989,9 @@ Poboljšana sigurnost."</string>
   <string name="select_photo">Fotografija</string>
   <string name="send">Pošalji</string>
   <string name="server_error">Dogodila se pogreška poslužitelja. Pričekajte minutu-dvije i pokušajte ponovo.</string>
+  <string name="service_delivery_carousel_desc_talkback">Povucite prstom gore ili dolje da biste odabrali drugi widget unutar grupe</string>
+  <string name="service_delivery_carousel_page_down_talkback">Povucite prstom dolje da biste promijenili. Trenutni widget: %1$s</string>
+  <string name="service_delivery_carousel_page_up_talkback">Povucite prstom gore da biste promijenili. Trenutni widget: %1$s</string>
   <string name="service_double_attention">Poboljšanu funkciju pretraživanja pruža Branch Metrics Inc. Da bi ova značajka funkcionirala, moramo podijeliti vaše zahtjeve za pretraživanje, Google Ads ID i IP adresu s Branch Metrics Inc. Pročitajte i prihvatite &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Uvjeti i odredbe za krajnjeg korisnika&lt;/a&gt;&lt;/font&gt; i &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Branch Discovery Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije kori&amp;#353;tenja ove zna&amp;#269;ajke.</string>
   <string name="setting_close">Isključeno</string>
   <string name="setting_no_word">Bilo gdje</string>

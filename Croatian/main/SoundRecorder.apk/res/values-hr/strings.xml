@@ -71,7 +71,7 @@
   <string name="ai_summary">Sažetak umjetne inteligencije</string>
   <string name="ai_watermark">Ovaj sadržaj generirao je umjetna inteligencija i pruža se samo kao referenca.</string>
   <string name="ai_recognition_other_speaker">(Netko drugi govori)</string>
-  <string name="ai_recognize">AI prepoznavanje glasa</string>
+  <string name="ai_summary">AI sažetak</string>
   <string name="airecorder_mic_in_use_while_in_call_tip">"Nije moguće snimati kada je mikrofon u upotrebi"</string>
   <string name="airecorder_month_day_hour_minute_format">dd.MM. h:mm aaa</string>
   <string name="airecorder_notification_channel_name">Snimke</string>

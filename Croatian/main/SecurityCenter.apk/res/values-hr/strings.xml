@@ -1374,6 +1374,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="button_text_view">Optimiziraj</string>
   <string name="button_text_view_power">Prikaži</string>
   <string name="button_to_setting">Postavke</string>
+  <string name="button_toll_correction">Kalibriraj stanje</string>
   <string name="buy_immediately">Kupi</string>
   <string name="buy_traffic_pack">Kupite još podataka</string>
   <string name="byteShort">B</string>
@@ -1491,6 +1492,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="charging_text_battery_full_time">"Zadnje punjenje "</string>
   <string name="charging_text_battery_nearly_full">Skoro napunjeno</string>
   <string name="charging_text_battery_perfect">Napunjeno</string>
+  <string name="check bill balance">Provjerite stanje</string>
   <string name="charging_text_time_calculating">Izračun vremena punjenja…</string>
   <string name="chat_number">10 sati</string>
   <string name="chat_uint">" sati"</string>
@@ -2486,7 +2488,8 @@ volonter"</string>
   <string name="five_percent_total_pkg">%s (5%% od mjes. podataka)</string>
   <string name="fixed_cellular_data_quota_monthly">Mjesečno ograničenje podataka</string>
   <string name="fixed_package_tips">Dodatne naknade generirat će se nakon što dosegnete ograničenje</string>
-  <string name="fixed_traffic_quota">Ograničenje podataka (obvezno)</string>
+  <string name="fixed_traffic_quota">Ograničenje podataka (obavezno)</string>
+  <string name="fixed_traffic_quota_offline">Ograničenje podataka (obavezno)</string>
   <string name="flow_rank_title">Uporaba podataka</string>
   <string name="fod_authentication_shift_button">Odustani</string>
   <string name="fod_button_finger">Koristi otisak prsta</string>
@@ -2631,6 +2634,16 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="game_toolbox_performance_config_notice_highlight_color_hex">\#A09A97</string>
   <string name="game_toolbox_performance_config_resolution_notice">Kada je prioritet slike uključen, stvarni broj sličica u sekundi je onakav kakav je prikazan na nadzornoj ploči izvedbe</string>
   <string name="game_toolbox_performance_config_resolution_notice_new">Prioritet slike poboljšava kvalitetu slike putem Super rezolucije i upravlja brzinom sličica putem pametne brzine sličica. &lt;font color=%s>Stvarni broj sličica u sekundi prikazan je na nadzornoj ploči izvedbe.&lt;/font></string>
+  <string name="game_toolbox_slow_charge_desc">Uključite ovu značajku kako biste poboljšali iskustvo igranja tijekom punjenja usporavanjem brzine punjenja. To može spriječiti pregrijavanje uređaja. Uključiti sada?</string>
+  <string name="game_toolbox_slow_charge_dialog_btn">Razumijem</string>
+  <string name="game_toolbox_slow_charge_negative_btn">Odustani</string>
+  <string name="game_toolbox_slow_charge_notification_msg">Ova značajka poboljšava iskustvo igranja tijekom punjenja usporavanjem brzine punjenja. Ovo može spriječiti pregrijavanje uređaja.</string>
+  <string name="game_toolbox_slow_charge_notification_title">Sporo punjenje u tijeku</string>
+  <string name="game_toolbox_slow_charge_positive_btn">Uključi</string>
+  <string name="game_toolbox_slow_charge_title">Sporo punjenje</string>
+  <string name="game_toolbox_slow_charge_toast">Sporo punjenje je uključeno</string>
+  <string name="game_toolbox_smotion_vibrate_desc">Dodajte haptičku povratnu informaciju u skladu s potezima u igri. Podržane su samo neke igre.</string>
+  <string name="game_toolbox_smotion_vibrate_title">Haptička povratna informacija</string>
   <string name="game_toolbox_super_follow_up_msg">Poboljšajte reakciju na dodir i praćenje kroz cijeli hardversko-softverski cjevovod</string>
   <string name="game_toolbox_super_shake_msg">Smanjenje podrhtavanja pri dodiru i prelasku, poboljšavajući stabilnost upravljanja</string>
   <string name="game_toolbox_title">Alati za igre</string>
@@ -2874,6 +2887,12 @@ i istražite naš izmjenjivač glasa!"</string>
   <string name="gb_beauty_face">Uljepšajte</string>
   <string name="gb_beauty_light">Ispuna svjetlom</string>
   <string name="gb_collimator_color">Boja</string>
+  <string name="gb_collimator_color_blue_talkback">Plava</string>
+  <string name="gb_collimator_color_purple_talkback">Ljubičasta</string>
+  <string name="gb_collimator_color_red_talkback">Crvena</string>
+  <string name="gb_collimator_color_white_talkback">Bijela</string>
+  <string name="gb_collimator_color_yellow_talkback">Žuta</string>
+  <string name="gb_collimator_style_talkback">Stil %1$d</string>
   <string name="gb_collimator_size">Veličina</string>
   <string name="gb_collimator_style">Tip</string>
   <string name="gb_collimator_toast">Pogled čini ciljanje mnogo praktičnijim</string>
@@ -3601,6 +3620,7 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="main_alert_message_open_traffic_ctrl">Preporučujemo vam da ograničite uporabu podataka</string>
   <string name="main_alert_message_slot_no_data_connection">"Utor SIM kartice ne podržava
 podatkovnu vezu"</string>
+  <string name="main_balance_check">Provjerite stanje</string>
   <string name="main_bill_remained">Stanje računa</string>
   <string name="main_button_mi_sim_close">Aktiviraj Mi SIM</string>
   <string name="main_button_mi_sim_open">Prikaz detalja</string>
@@ -3615,6 +3635,7 @@ podatkovnu vezu"</string>
   <string name="main_daily_card_guide_dialog_title">Postavite vrstu plana podataka</string>
   <string name="main_daily_card_guide_dialog_title_new">Postavite vrstu plana podataka</string>
   <string name="main_daily_package">Dnevni plan podataka</string>
+  <string name="main_declaration_dialog_msg">"Vrijednost stanja prikazana u ovoj značajki ne može se koristiti kao dokaz prilikom pregovora s vašim operaterom. Statistika korištenja mobilnih podataka i glasa koju pruža vaš operater ima prednost."</string>
   <string name="main_indicator_title">Aktivacija</string>
   <string name="main_leisure_remained">Preostalo podataka</string>
   <string name="main_month_total_used">Iskorišteno ovaj mjesec</string>
@@ -4217,6 +4238,7 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="notify_weekly_traffic_body">Kako bi se ograničila uporaba podataka automatski, postavite vaš mjesečni promet.</string>
   <string name="notify_weekly_traffic_title">Iskorišteno %s ovaj tjedan</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s iskorišteno %2$s ovaj tjedan</string>
+  <string name="now_inquiry">Detalji</string>
   <string name="number_address">Lokacija</string>
   <string name="numeric_need_to_confirm">Unesite ponovno za potvrdu</string>
   <string name="numeric_password_confirmed_header_confirm">Uspješno postavljeno. Dodirnite za potvrdu.</string>
@@ -4516,6 +4538,10 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_continuity_open_save_mode_notifi_title">%s baterija je slaba</string>
   <string name="pc_current_power_mode">Trenutni način rada</string>
   <string name="pc_cycle_count_protect_title">Ciklusi</string>
+  <string name="pc_dialog_dual_type_c_port_reminder_btn">Shvatam</string>
+  <string name="pc_dialog_dual_type_c_port_reminder_checkbox">"Ne prikazuj više"</string>
+  <string name="pc_dialog_dual_type_c_port_reminder_message">"Priključak tipa C na kratkoj strani uređaja ne podržava prijenos podataka. Spojite ga na računalo s drugim priključkom."</string>
+  <string name="pc_dialog_dual_type_c_port_reminder_title">Podsjetnik za punjenje</string>
   <string name="pc_emergency_call">Hitna pomoć</string>
   <string name="pc_endurance_calculation">Izračun…</string>
   <string name="pc_entered_extreme_mode">Način hibernacije je uključen</string>
@@ -5985,6 +6011,7 @@ Povući suglasnost sada?"</string>
   <string name="renew_now">Obnovi</string>
   <string name="repair">Obnovi</string>
   <string name="repair_loading_text">Samo trenutak…</string>
+  <string name="repeat_prompts">"Usporite! Nemojte slati više zahtjeva zaredom."</string>
   <string name="repeat_type">Ponovi</string>
   <string name="repeated_marked_number_summary">"Ne blokiraj drugi poziv od istog prijavljenog broja u roku od %d min."</string>
   <string name="repeated_marked_number_title">"Ne blokiraj ponovljene pozive s prijavljenih brojeva"</string>
@@ -7119,6 +7146,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="tc_parse_error">"Ne mogu analizirati SMS"</string>
   <string name="tc_receive_timeout">Kalibracija je istekla</string>
   <string name="tc_send_sms_error">"Ne mogu poslati SMS"</string>
+  <string name="tc_sms_bill_report_receive_content">Kalibracijski SMS (provjerite sadrži li SMS podatke o stanju računa)</string>
   <string name="tc_sms_report_direction">SMS Upit za kod</string>
   <string name="tc_sms_report_do_report">Pošalji</string>
   <string name="tc_sms_report_get_default">"Nećete snositi troškove korištenja SMS poruka za dobivanje stanja uporabe podataka vašeg mobilnog operatera."</string>
@@ -7237,6 +7265,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="title_app_update">Dostupna ažuriranja</string>
   <string name="title_auto_update">Ažuriraj automatski</string>
   <string name="title_background_connection">"Ne možete koristiti %s u pozadini"</string>
+  <string name="title_bill_balance_inquiry">Stanje (SIM %1$s)</string>
   <string name="title_block_calls_from_cantacts">Propustili ste pozive vaših kontakata</string>
   <string name="title_block_calls_from_strangers">Propustili ste važne pozive</string>
   <string name="title_chain_start">Ograniči lančano pokretanje</string>
@@ -7283,6 +7312,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="title_eye_shield">"Boja zaslona ne izgleda dobro"</string>
   <string name="title_find_device">Pronađi uređaj</string>
   <string name="title_first_aid_kit">Ispravite probleme</string>
+  <string name="title_flow_base_reminder">Podsjetnici o korištenju podataka</string>
   <string name="title_flow_notification">Obavijest mobilnih podataka</string>
   <string name="title_flow_purchase">Kupi mobilne podatke</string>
   <string name="title_flow_rank">Uporaba mobilnih podataka</string>
@@ -7747,6 +7777,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="videobox_settings_timing">Upozorenje o prejedanju</string>
   <string name="videobox_settings_timing_desc">Primajte upozorenje o prejedanju po satu podsjećajući vas na pauzu</string>
   <string name="videobox_settings_title">Alati za videozapise</string>
+  <string name="view_package_info">Prikaži detalje plana</string>
   <string name="view_traffic_detail">Prikaži detalje</string>
   <string name="view_traffic_details">Prikaži statistiku upotrebe podataka</string>
   <string name="virus_ad_icon_text">Oglas</string>

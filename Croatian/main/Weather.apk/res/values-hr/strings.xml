@@ -626,10 +626,14 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="video_dialog_subtitle">"Koristite mobilne podatke. Svejedno reproducirati videozapis?"</string>
+  <string name="view_drag_end_talkback">%1$s, premješteno u redak: %2$s</string>
+  <string name="view_drag_move_talkback">Premjesti u redak: %s</string>
   <string name="view_forecast_item_yesterday">Jučer</string>
   <string name="view_indexes_item_day_after_tommorrow">Za 2 dana</string>
   <string name="view_indexes_item_today">Danas</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>
+  <string name="view_not_select_talkback">Nije odabrano: %s</string>
+  <string name="view_select_talkback">Odabrano: %s</string>
   <string name="warning_weather_day_and_night_settings_summary">Primanje dnevnih sažetaka koji sadrže informacije o vremenu u 7:00 i 19:00</string>
   <string name="warning_weather_day_and_night_settings_title">Dnevni sažeci</string>
   <string name="weather_alert_channel_name">Upozorenja</string>

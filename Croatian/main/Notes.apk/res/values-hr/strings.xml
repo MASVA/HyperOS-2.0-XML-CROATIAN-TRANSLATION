@@ -380,7 +380,7 @@
   <string name="doodle_brush_pen">Olovka</string>
   <string name="doodle_brush_pencil">Kemijska</string>
   <string name="doodle_brush_watercolor">Marker</string>
-  <string name="doodle_color_picker_bar">Klizač za odabir boja: Dvaput kliknite, dugo pritisnite i prijeđite prstom za odabir boja</string>
+  <string name="doodle_color_picker_bar">Traka za odabir boja. Dvaput dodirnite i držite, a zatim prijeđite prstom za odabir boja.</string>
   <string name="doodle_color_pick_black_talkback">Crna</string>
   <string name="doodle_color_pick_blue_talkback">Plava</string>
   <string name="doodle_color_pick_green_blue_talkback">Plavo-zelena</string>
@@ -690,8 +690,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="miuix_navigator_content_switch_description">Prikaži bočnu traku</string>
   <string name="miuix_navigator_multiple_choice">Odaberi</string>
   <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>
+  <string name="miuix_navigator_toolbar_screen_bottom">Alatna traka na dnu zaslona</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
-  <string name="miuix_show_password">Prikaži zaporku</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -700,7 +700,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-  <string name="miuix_stretchablewidget_collapsed">Zatvoreno</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
   <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>

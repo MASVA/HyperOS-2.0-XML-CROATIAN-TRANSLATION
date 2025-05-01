@@ -27,6 +27,10 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="app_name">Prikaži indikator točaka stranice</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
@@ -61,7 +65,13 @@
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -77,8 +87,9 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
-  <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -87,6 +98,9 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="miuix_search_action_mode_cancel">Odustani</string>
   <string name="miuix_search_back_button_description">Natrag</string>
   <string name="miuix_search_history_clear">Brisanje povijesti pretraživanja</string>
@@ -186,6 +200,7 @@ dvaput dodirnite za početak</string>
   <string name="pa_accessibility_picker_back">Natrag</string>
   <string name="pa_accessibility_picker_bigBanner_widget_collection">Zbirke widgeta</string>
   <string name="pa_accessibility_picker_close">Zatvori</string>
+  <string name="pa_accessibility_picker_edit_color_view">Boja %1$d</string>
   <string name="pa_accessibility_picker_home_appList_entrance">Pogledajte popis podržanih widgeta</string>
   <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
 Dodirnite dvaput za početak."</string>
@@ -268,6 +283,9 @@ Dodirnite dvaput za prikaz detalja."</string>
   <string name="pa_edit_every_month">Svaki mjesec</string>
   <string name="pa_edit_every_week">Svaki tjedan</string>
   <string name="pa_edit_every_year">Svake godine</string>
+  <string name="pa_edit_item_on_off_closed">Isključeno</string>
+  <string name="pa_edit_item_on_off_opened">Uključeno</string>
+  <string name="pa_edit_item_on_off_type_switch">Promjeni</string>
   <string name="pa_edit_not_repeat">"Nemoj ponavljati"</string>
   <string name="pa_edit_repeat">Ponavljanje</string>
   <string name="pa_edit_select_image">Format</string>
@@ -442,6 +460,8 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_feature_recomm_life_item_iot_title">Pametna kuća</string>
   <string name="pa_feature_recomm_life_item_movie_reminder_desc">Primajte podsjetnike za filmove prije nego što počnu</string>
   <string name="pa_feature_recomm_life_item_movie_reminder_title">Podsjetnici za filmove</string>
+  <string name="pa_feature_recomm_life_item_power_bank_desc">Prikaži informacije o obližnjim punionicama kada je baterija slaba</string>
+  <string name="pa_feature_recomm_life_item_power_bank_title">Punionica</string>
   <string name="pa_feature_recomm_life_item_quick_scan_desc">Skenirajte QR kodove u trenu</string>
   <string name="pa_feature_recomm_life_item_quick_scan_title">Brzo skeniranje</string>
   <string name="pa_feature_recomm_life_item_takeout_desc">Primajte podsjetnike za naručivanje hrane na temelju svojih navika</string>
@@ -589,6 +609,7 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_page_park_asst_action_voice_record_get_off_reminder_subtitle">Dodajte podsjetnik za sebe kada izlazite iz automobila</string>
   <string name="pa_page_park_asst_action_voice_record_get_off_reminder_title">Stvori glasovni podsjetnik</string>
   <string name="pa_page_park_asst_title">Parkiranje</string>
+  <string name="pa_page_power_bank_title">Punionica</string>
   <string name="pa_page_predict_title">Brzo skeniranje</string>
   <string name="pa_page_restrict_driving_action_fill_license_plate_subtitle">Ispunite podatke o registarskoj pločici da biste primali podsjetnike o ograničenjima</string>
   <string name="pa_page_restrict_driving_action_fill_license_plate_title">Registračka pločica</string>
@@ -748,6 +769,9 @@ Dodajte widgete za početak."</string>
   <string name="pa_search_hint">Traži</string>
   <string name="pa_search_summary">Prikaži traku za pretraživanje</string>
   <string name="pa_search_title">Traži</string>
+  <string name="pa_service_delivery_carousel_desc_talkback">Povucite prstom gore ili dolje da biste odabrali drugi widget unutar grupe</string>
+  <string name="pa_service_delivery_carousel_page_down_talkback">Povucite prstom dolje da biste promijenili. Trenutni widget: %1$s</string>
+  <string name="pa_service_delivery_carousel_page_up_talkback">Povucite prstom gore da biste promijenili. Trenutni widget: %1$s</string>
   <string name="pa_service_delivery_dislike_dialog_title">Recite nam kako možemo poboljšati:</string>
   <string name="pa_setting">Postavke</string>
   <string name="pa_setting_app_usage_auth_close_auth">Isključi</string>
@@ -1006,6 +1030,7 @@ Dodajte widgete za početak."</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">Ned</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Čet</string>

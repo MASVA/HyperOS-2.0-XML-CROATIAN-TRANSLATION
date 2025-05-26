@@ -148,7 +148,7 @@ Prijavite se na svoj Xiaomi račun u Postavke &gt; Xiaomi račun za sinkronizaci
  <string name="car_camera_associate_connecting">Povezivanje na EV kameru</string>
  <string name="car_camera_associate_disconnecting">Odspajanje od EV kamere</string>
  <string name="car_camera_device_name">%1$s prednja kamera</string>
- <string name="car_camera_unavailable_dialog_message">"Uključen je način rada niske potrošnje energije ili način rada privatnosti. Trenutačno ne možete vidjeti prikaz prednje kamere vozila na vašem mobilnom uređaju."</string>
+ <string name="car_camera_unavailable_dialog_message">"Vozilo je u načinu rada s niskom potrošnjom energije ili privatnosti. Sada se ne može koristiti prednja kamera."</string>
  <string name="car_camera_unavailable_dialog_positive_button">Razumijem</string>
  <string name="car_camera_unavailable_dialog_title">"Ne mogu koristiti kameru"</string>
  <string name="car_card_air_control_backseat_air">Stražnja sjedala</string>

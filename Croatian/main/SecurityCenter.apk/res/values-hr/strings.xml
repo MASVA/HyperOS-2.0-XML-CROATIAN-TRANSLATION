@@ -1492,13 +1492,13 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="charging_text_battery_full_time">"Zadnje punjenje "</string>
   <string name="charging_text_battery_nearly_full">Skoro napunjeno</string>
   <string name="charging_text_battery_perfect">Napunjeno</string>
-  <string name="check bill balance">Provjerite stanje</string>
   <string name="charging_text_time_calculating">Izračun vremena punjenja…</string>
   <string name="chat_number">10 sati</string>
   <string name="chat_uint">" sati"</string>
   <string name="check_network_state">Provjeri status mreže</string>
   <string name="checkout_traffic_saving_history">Prikaži povijest</string>
   <string name="chip_text">Chip tekst</string>
+  <string name="check_bill_balance">Provjerite stanje</string>
   <string name="choose">Odaberite</string>
   <string name="choose_gs_show_way">Odaberite orijentaciju početne stranice</string>
   <string name="clean_immediately">Očisti</string>

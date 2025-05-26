@@ -648,6 +648,15 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="option_third_party_shared_info_instruction">Dijeljenje podataka treće strane</string>
   <string name="option_user_agreement">Korisnički ugovor</string>
   <string name="option_user_device_info">Informacije o uređaju</string>
+  <string name="optional_per_access_camera">snimanje fotografija i videozapisa</string> 
+  <string name="optional_per_access_location">pristup lokaciji</string> 
+  <string name="optional_per_access_media">pristup fotografijama, videozapisima i zvuku</string> 
+  <string name="optional_per_get_installed_packages">pristup popisu aplikacija instaliranih na ovom uređaju</string> 
+  <string name="optional_per_read_call_log">pristup povijesti poziva</string> 
+  <string name="optional_per_read_contacts">pristup kontaktima</string> 
+  <string name="optional_per_read_sms">pristup porukama</string> 
+  <string name="optional_per_write_call_log">uređivanje povijesti poziva</string> 
+  <string name="optional_per_write_contacts">uređivanje kontakata</string>
   <string name="organization">Organizacija</string>
   <string name="other_system_data">Podaci aplikacija sustava</string>
   <string name="other_user_app">Aplikacije trećih strana</string>

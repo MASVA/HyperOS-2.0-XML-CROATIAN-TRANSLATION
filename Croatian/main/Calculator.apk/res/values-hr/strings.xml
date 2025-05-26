@@ -112,7 +112,7 @@
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
-  <string name="cijeli prozor">Maksimiziraj</string>
+  <string name="full_window">Maksimiziraj</string>
   <string name="from_unit_en">km/h</string>
   <string name="further_education">Daljnje obrazovanje</string>
   <string name="get_loaction_permission_title">Pristup lokaciji</string>

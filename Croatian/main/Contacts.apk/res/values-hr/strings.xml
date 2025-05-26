@@ -197,7 +197,9 @@
   <string name="bh_permission_read_contact_desc_and_reason">Pročitati kontakte za nadoplatu računa vaših kontakata</string>
   <string name="bh_permission_read_phone_state_desc">Za prikaz telefonskih brojeva i povezanih informacija o operateru</string>
   <string name="bh_permission_showing">Pojedinosti o dopuštenjima</string>
+  <string name="bh_pkg_current_month">Ovaj mjesec</string>
   <string name="bh_pkg_data_cant_query">"Ne mogu vidjeti pojedinosti zbog ograničenja operatera"</string>
+  <string name="bh_pkg_setting_talkback">Postavke</string>
   <string name="bh_please_complete_sim_before_charge">Za nadoplatu prvo dodajte telefonski broj.</string>
   <string name="bh_please_fill_total_limit">Dodajte mobilne podatke uključene u vaš plan</string>
   <string name="bh_please_set_pkg">Postavite svoj plan kako biste mogli provjeriti svoj saldo.</string>
@@ -214,9 +216,11 @@
   <string name="bh_save_desc">Spremi ovaj broj kako biste ga upotrijebili za sljedeću nadoplatu</string>
   <string name="bh_save_sccuss">Uspješno spremljeno</string>
   <string name="bh_saved_number">Spremljeni broj: %1$s</string>
-  <string name="bh_should_login_to_buy">Prijavite se na Xiaomi Račun da biste mogli kupiti minute poziva i mobilne podatke</string>
+  <string name="bh_should_login_to_buy">Prijavite se na Xiaomi račun da biste mogli kupiti minute poziva i mobilne podatke</string>
   <string name="bh_sim">SIM %1$d</string>
   <string name="bh_similar_number_hint">Ovaj broj je sličan %1$s. Svejedno nadoplatiti ovaj broj?</string>
+  <string name="bh_state_not_selected_talkback">Nije odabrano: SIM %1$s</string>
+  <string name="bh_state_selected_talkback">Odabrano: SIM %1$s</string>
   <string name="bh_stop_carrier_services">Isključi Xiaomi Carrier Services</string>
   <string name="bh_stop_carrier_services_short">Uključi Xiaomi Carrier Services</string>
   <string name="bh_stop_result">"Nećete moći upravljati svojim planom operatera ili kupovati podatke i minute poziva ako isključite usluge Xiaomi Carrier. Isključiti svejedno?"</string>

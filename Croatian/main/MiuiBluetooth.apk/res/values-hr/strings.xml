@@ -282,6 +282,8 @@ Audio"</string>
   <string name="category_personal">Osobno</string>
   <string name="category_work">Posao</string>
   <string name="cell_data_off_content_description">Mobilni podaci su isključeni</string>
+  <string name="celluar_tether_disconect_title_pad_talkback">Tablet, prekinuta veza</string>
+  <string name="celluar_tether_disconect_title_phone_talkback">Telefon, prekinuta veza</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="charge_length_format">Prije %1$s</string>
@@ -370,6 +372,9 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="easy_tether_auto_connect_summary_v2">Automatski uključite mobitel ili hotspot i povežite se kada obližnji uređaji s istim računom trebaju pristup internetu.</string>
   <string name="easy_tether_auto_connect_toast">"Povezan s hotspotom %1$s. Postavite ograničenja podataka u Postavkama tog uređaja > Osobni hotspot."</string>
   <string name="easy_tether_cancel">Ne</string>
+  <string name="easy_tether_click_button_description">Dodirnite tipku s desne strane za povezivanje</string>
+  <string name="easy_tether_click_celluar_button">"Dodirnite za povezivanje s mobilnim podacima telefona"</string>
+  <string name="easy_tether_click_hotspot_button">"Dodirnite za povezivanje s hotspotom telefona"</string>
   <string name="easy_tether_confirm">Da</string>
   <string name="easy_tether_next_auto_connect">Povezati se automatski sljedeći put?</string>
   <string name="easy_tether_statusbar_auto_connected_title">Povezan na hotspot: %1$s</string>
@@ -380,6 +385,17 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="easy_tether_statusbar_connect_title_v3">Poveži se na %1$s hotspot</string>
   <string name="easy_tether_statusbar_connecting_title">Povezivanje…</string>
   <string name="easy_tether_statusbar_dialog_connected_title">Povezan</string>
+  <string name="easy_tether_statusbar_auto_connected_title_pad_talkback">"Tablet, povezan na hotspot uređaja %1$s"</string>
+  <string name="easy_tether_statusbar_auto_connected_title_v2_pad_talkback">"Tablet, povezan na mobilne podatke uređaja %1$s"</string>
+  <string name="easy_tether_statusbar_connect_fail_title_car_talk_back">"Vozilo, ne može se povezati"</string>
+  <string name="easy_tether_statusbar_connect_fail_title_pad_talk_back">"Tablet, ne može se povezati"</string>
+  <string name="easy_tether_statusbar_connect_fail_title_phone_talk_back">"Telefon, ne može se povezati"</string>
+  <string name="easy_tether_statusbar_connect_title_car_talk_back">Vozilo, povezivanje…</string>
+  <string name="easy_tether_statusbar_connecting_title_pad_talk_back">Tablet, povezivanje…</string>
+  <string name="easy_tether_statusbar_connecting_title_phone_talk_back">Telefon, povezivanje…</string>
+  <string name="easy_tether_statusbar_dialog_connected_title_car_talk_back">Vozilo, povezano</string>
+  <string name="easy_tether_statusbar_dialog_connected_title_pad_talk_back">Tablet, povezan</string>
+  <string name="easy_tether_statusbar_dialog_connected_title_phone_talk_back">Telefon, povezan</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
   <string name="enable_adb_summary">Otklanjanje pogrešaka s priključenim USB-om</string>
   <string name="enable_adb_wireless">Bežično otklanjanje pogrešaka</string>

@@ -364,6 +364,10 @@
         <item quantity="other">Nema dovoljno prostora za pohranu. Stavke čekaju izradu Sig. kopije: %1$d</item>
         <item quantity="one">Nema dovoljno prostora za pohranu. %1$d stavka čeka izradu Sig. kopije</item>
     </plurals>
+	  <plurals name="minutes_talkback">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+     </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
@@ -376,6 +380,10 @@
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
     </plurals>
+	 <plurals name="miuix_indexer_selected">
+        <item quantity="other">Odabrano %1$d stavki</item>
+        <item quantity="one">Odabrana %1$d stavka</item>
+     </plurals>
     <plurals name="more_face">
         <item quantity="other">%1$s fotografija od %2$s</item>
         <item quantity="one">%1$s fotografija od %2$s</item>
@@ -432,6 +440,10 @@
         <item quantity="other">Ukupno: %1$d</item>
         <item quantity="one">Ukupno: %1$d</item>
     </plurals>
+	 <plurals name="photo_count_talkback">
+        <item quantity="other">%d fotografija</item>
+        <item quantity="one">%d fotografija</item>
+     </plurals>
 	 <plurals name="photo_picker_title_format">
         <item quantity="other">Odaberite %d fotografija</item>
         <item quantity="one">Odaberite %d fotografiju</item>
@@ -564,6 +576,10 @@
         <item quantity="other">Pronađeno %d stavki</item>
         <item quantity="one">Pronađena %d stavka</item>
      </plurals>
+	  <plurals name="seconds_talkback">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d instal. paketa (%3$s) od %1$s</item>
         <item quantity="one">%2$d instal. paket (%3$s) od %1$s</item>
@@ -624,6 +640,18 @@
         <item quantity="other">Primanje %2$d slika ili videozapisa od %1$s…</item>
         <item quantity="one">Primanje %2$d slika ili videozapis od %1$s…</item>
     </plurals>
+	  <plurals name="send_live_photo_dialog_desc">
+        <item quantity="other">%1$s poslao vam je %2$d fotografija uživo</item>
+        <item quantity="one">%1$s poslao vam je %2$d fotografiju uživo</item>
+     </plurals>
+     <plurals name="send_live_photo_dialog_desc_received">
+        <item quantity="other">Primljeno %2$d fotografija uživo od %1$s</item>
+        <item quantity="one">Primljena %2$d fotografija uživo od %1$s</item>
+     </plurals>
+     <plurals name="send_live_photo_dialog_desc_receiving">
+        <item quantity="other">Primanje %2$d fotografija uživo od %1$s</item>
+        <item quantity="one">Primanje %2$d fotografije uživo od %1$s</item>
+     </plurals>
     <plurals name="send_more_type_file_dialog_desc">
         <item quantity="other">%2$d datoteka od %1$s</item>
         <item quantity="one">%2$d datoteke od %1$s</item>

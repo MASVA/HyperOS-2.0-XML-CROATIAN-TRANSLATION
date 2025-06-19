@@ -350,6 +350,9 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="canceled_failed">Otkazivanje nije moguće</string>
   <string name="canceled_subscription_failed">Nije moguće otkazati pretplatu. Pokušajte ponovno.</string>
   <string name="canceled_trial_failed">Otkazivanje nije moguće. Pokušajte ponovno.</string>
+  <string name="carousel_wallpaper">Promijeni pozadine</string>
+  <string name="carousel_wallpaper_dlg_apply_home_btn">Samo početni zaslon</string>
+  <string name="carousel_wallpaper_dlg_apply_lock_btn">Želite li primijeniti ovaj set pozadina i na zaključani zaslon?</string>
   <string name="card_data_request_error">Dogodila se pogreška. Pričekajte trenutak ili dva i pokušajte ponovo.</string>
   <string name="card_loading">Samo trenutak…</string>
   <string name="card_no_network">"Ne mogu se povezati s mrežom. Provjerite mrežne postavke i pokušajte ponovno."</string>

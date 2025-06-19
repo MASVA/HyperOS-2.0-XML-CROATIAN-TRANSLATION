@@ -1007,6 +1007,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="over_max_mms_size">MMS poruka je prevelika.</string>
   <string name="overwrite_edited_content">Uređeni sadržaj će biti prebrisan, nastaviti?</string>
   <string name="packages_select_sim_cards_title">Odaberitete SIM karticu</string>
+  <string name="page_indicator">Indikator stranice</string>
   <string name="passenger_title">Putnik</string>
   <string name="password_toggle_content_description">Pokaži zaporku</string>
   <string name="pay_bill">Plati</string>
@@ -1572,6 +1573,7 @@ Pogledajte one preporučene!"</string>
   <string name="search_setting_description">Tekst u vašim porukama</string>
   <string name="search_show_more_results">Pikaži više</string>
   <string name="search_sms">Traži poruke</string>
+  <string name="search_sms_in_action_mode">Traži, pretraži tekstualne poruke, okvir za uređivanje, onemogućeno</string>
   <string name="search_title_mms">Slanje poruka</string>
   <string name="seats">Sjedište</string>
   <string name="second_mms_introduction">Prebacite se na drugi prostor da biste mogli vidjeti privatne poruke</string>

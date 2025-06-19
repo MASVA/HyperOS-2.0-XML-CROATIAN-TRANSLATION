@@ -34,6 +34,10 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="about_ent_mode">O načinu Enterprise</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="activate_ent_mode">Aktiviraj način Enterprise</string>
   <string name="add_finger_print">Dodajte otisak prsta</string>
@@ -124,16 +128,20 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Povucite prema gore od dna zaslona i pauzirajte da otkvačite ovu aplikaciju</string>
   <string name="can_not_switch_when_super_power_active">"Ne mogu promjeniti prostore kada je Ultra štednja baterije uključena""</string>
   <string name="cancelClosePassword">"Ne isključuj"</string>
+  <string name="cancel">Odustani</string>
   <string name="cancel_button">Odustani</string>
   <string name="changePassword">Promjeni zaporku</string>
   <string name="change_brightness">Prilagodite svjetlinu</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
+  <string name="check_protocol_msg_detail">"Ako je tijekom popravka potrebno zamijeniti dijelove povezane s pohranom uređaja, neki se podaci mogu izgubiti. Napravite sigurnosnu kopiju svih podataka prije uključivanja načina popravka. Osoblje postprodajne usluge nije odgovorno za gubitak podataka koji se može dogoditi tijekom postupka popravka."</string>
+  <string name="check_protocol_msg_title">Odricanje od odgovornosti za korisničke podatke</string>
   <string name="chooseDataTransfer">Što treba učiniti s podacima Drugog prostora?</string>
   <string name="chooseFile">Odaberite druge datoteke</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_back_first_space">Dodirnite za povratak u Prvi prostor</string>
+  <string name="click_to_close">Dodirnite za isključivanje načina popravka</string>
   <string name="click_to_switch">Dodirnite za prikaz</string>
   <string name="close">Zatvori</string>
   <string name="closePassword">Isključi zaporku</string>
@@ -143,6 +151,8 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="closeSuccess">Isključeno</string>
   <string name="close_app">Zatvori trenutnu aplikaciju</string>
   <string name="close_kid_space_success">Dječji prostor je izbrisan</string>
+  <string name="close_maintenance_mode">Isključi</string>
+  <string name="close_maintenance_mode_title">Isključi način rada za popravak</string>
   <string name="close_second_space">Drugi prostor je izbrisan</string>
   <string name="close_second_space_success">Izbriši Drugi prostor</string>
   <string name="closed">Isključeno</string>
@@ -173,6 +183,8 @@ Isključiti svejedno?"</string>
   <string name="createUserFail">"Ne mogu napraviti"</string>
   <string name="create_app_icon_failed">"Ne mogu napraviti ikonu"</string>
   <string name="create_app_icon_success">Ikona uspješno napravljena</string>
+  <string name="create_fail">"Nije moguće uključiti način rada za popravak. Pokušajte ponovno."</string>
+  <string name="create_fail_because_max_user">Dosegnut je maksimalan broj profila sustava. Izbrišite Drugi prostor, Dvostruke aplikacije ili Dječji prostor i pokušajte ponovno.</string>
   <string name="create_second_space">Uspješno izrađeno</string>
   <string name="create_space_loading">Izrada Drugog prostora…</string>
   <string name="create_work_space">Izradi Radni prostor</string>
@@ -193,6 +205,7 @@ Isključiti svejedno?"</string>
   <string name="deleteDataDes">"Niste odabrali stavke za premještanje. Nećete biti u mogućnosti vratiti stavke nakon što ih izbrišete."</string>
   <string name="delete_fingerprint">Izbriši otisak prsta</string>
   <string name="delete_fingerprint_desc">Otisak prsta Drugog prostora bit će izbrisan zajedno s zaporkom</string>
+  <string name="delete_maintenance_mode">"Isključivanje načina popravka. Nemojte ponovno pokretati uređaj."</string>
   <string name="delete_phone_fingerprint">Izbriši otisak prsta za Drugi prostor</string>
   <string name="delete_src_file">Izbriši datoteke</string>
   <string name="delete_src_photo">Izbriši fotografije</string>
@@ -309,6 +322,7 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="flashback_wangzhe_summary">Prikaži odbrojavanje uskrsnuća</string>
   <string name="flip_expand_screen_partial_screen_shot_disable">Podržano samo na unutarnjem zaslonu</string>
   <string name="fold_screen_settings">Značajke za sklopive uređaje</string>
+  <string name="forbid_create">Način popravka može se uključiti samo u prvom prostoru</string>
   <string name="fp_nav_center_back_to_home_title">Dodirnite tipku Početna za povratak na početni zaslon</string>
   <string name="freeform_demo_back">Natrag</string>
   <string name="freeform_demo_final_over">Gotovo</string>
@@ -456,6 +470,7 @@ zatim povucite za pomicanje"</string>
   <string name="gms_open_button">Uključi</string>
   <string name="gms_title">Dvojna aplikacija za Googleove usluge</string>
   <string name="goToSecondSpacce">Idi u Drugi prostor</string>
+  <string name="go_deleted_fingerprint">Izbriši otiske prstiju</string>
   <string name="go_on_import">Nastavi s uvozom</string>
   <string name="go_to_sleep">Isključi zaslon</string>
   <string name="google_assistant_guide_cancel">Odustani</string>
@@ -559,6 +574,7 @@ Dva prostora. Jedan uređaj."</string>
   <string name="how_to_use_freeform">Kako koristiti plutajuće prozore</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="imageData">Fotografije</string>
+  <string name="immediately_go">Izbriši</string>
   <string name="import_application">Uvezi aplikacije</string>
   <string name="import_application_desc">"Uvezite aplikacije u Drugi prostor.
 Također, možete ih preuzeti zasebno."</string>
@@ -707,6 +723,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="launch_notification_center">Zaslon obavijesti</string>
   <string name="launch_recents">Pokreni nedavno</string>
   <string name="launch_smarthome">Xiaomi Magic Control</string>
+  <string name="launch_sound_recorder">Snimač</string>
   <string name="launch_voice_assistant">Pokreni glasovnog asistenta</string>
   <string name="launch_wechat_health_code">WeChat zdravstveni kod</string>
   <string name="launch_wechat_health_code_auto_close">Prečac zdravstvenog koda WeChat više nije dostupan. Možete se prebaciti na drugi prečac.</string>
@@ -726,7 +743,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="long_press_home_key">Dugo pritisnite tipku Početna</string>
   <string name="long_press_menu_key">Dugo pritisnite tipku Izbornik</string>
   <string name="long_press_menu_key_when_lock">Dugo pritisnite Izbornik na zaključanom zaslonu</string>
-  <string name="long_press_power_guide_know">Shvaćam</string>
+  <string name="long_press_power_guide_know">Razumijem</string>
   <string name="long_press_power_guide_message" formatted="false">"Pritisnite i držite tipku za uključivanje/isključivanje %s sekundi da biste probudili Google asistenta.
 Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključivanje."</string>
   <string name="long_press_power_guide_settings">Postavke</string>
@@ -734,9 +751,18 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="long_press_power_key">Dugo pritisnite tipku za uključivanje</string>
   <string name="long_press_power_key_half_of_second">Pritisnite i držite tipku za uključivanje/isključivanje 0,5 s da biste uključili Google pomoćnika</string>
   <string name="long_press_power_key_half_second">Pritisnite i držite tipku za uključivanje %ss</string>
-  <string name="long_press_power_key_tips">&lt;Data&gt;Dugi pritisak na tipku za uključivanje &lt;font color=#999999&gt;brži je i praktičniji&lt;/font&gt;&lt;/Data&gt;</string>
+  <string name="long_press_power_key_tips">&lt;Data>Dugi pritisak na tipku za uključivanje &lt;font color=#999999>brži je i praktičniji&lt;/font>&lt;/Data></string>
   <string name="long_press_volume_down">Dugi pritisak na smanjivanje glasnoće</string>
   <string name="lp_display_shortcut_keys">Pritisnite i držite* za prikaz prečaca</string>
+  <string name="maintenance_mode">Način popravka</string>
+  <string name="maintenance_mode_close_title">Način popravka je uključen</string>
+  <string name="maintenance_mode_data_backup_agreement"><Data>Kako biste spriječili gubitak podataka, &lt;a href=\"%1$s\">napravite sigurnosnu kopiju podataka&lt;/a> prije slanja uređaja na popravak.</Data></string>
+  <string name="maintenance_mode_fingerprint_msg">Kalibracija otiska prsta potrebna je nakon popravka, stoga spremljene otiske prstiju morate sada izbrisati. Otisak prsta možete ponovno snimiti nakon što popravci budu dovršeni.</string>
+  <string name="maintenance_mode_loading">Uključivanje načina popravka i ponovno pokretanje uređaja…</string>
+  <string name="maintenance_mode_reboot">Ponovno pokretanje načina popravka</string>
+  <string name="maintenance_mode_title">Vaši su podaci sigurni</string>
+  <string name="maintenance_mode_user_data_disclaimer_agreement"><Data>"Pročitao/la sam i slažem se s &lt;a href=\"%1$s\">Izjavom o odricanju od odgovornosti za korisničke podatke&lt;/a>"</Data></string>
+  <string name="maintenance_mode_watch_out">Tijekom postupka popravka, vaše fotografije, videozapisi, kontakti, povijest poziva i poruke bit će zaštićeni i osoblje za popravke ih neće moći vidjeti.</string>
   <string name="master_clear_apply_step_1">Opoziv autorizacije zahtijeva vraćanje uređaja na tvorničke postavke. Trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije. Izradite Sig. kopiju svih važnih stavki na računalo prije nego što opozovete autorizaciju.</string>
   <string name="master_clear_apply_step_2">Provjerite jeste li sigurnosno kopirali sve važne stavke na svoje računalo. Nakon što dodirnete \"U redu\", vaš će se uređaj vratiti na tvorničke postavke, trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije.</string>
   <string name="master_clear_apply_title">Pažnja</string>
@@ -764,11 +790,16 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="miui_desktop_mode_settings_title">Radna stanica</string>
   <string name="miui_desktop_mode_video_description">Dodirnite ikone aplikacija na docku za otvaranje aplikacija u plutajućim prozorima. Možete uključiti i isključiti način rada radne stanice u centru za kontrolu.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
-  <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
@@ -791,6 +822,10 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažet</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -908,10 +943,14 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="notification_tof_gesture_content_text">Uključite ovu značajku za izvođenje različitih radnji bez dodirivanja zaslona</string>
   <string name="notification_tof_gesture_title">Prepoznavanje beskontaktnih pokreta</string>
   <string name="ok_button">U redu</string>
+  <string name="open">Uključi</string>
   <string name="openPasswordGuard">Postavite zaporku Drugog prostora</string>
   <string name="openSuccess">Uključeno</string>
   <string name="open_system_optimization">Prvo uključite optimizaciju sustava</string>
   <string name="opened">Uklj.</string>
+  <string name="open_maintenance_mode">Uključi</string>
+  <string name="open_maintenance_mode_tips">Način popravka je isključen. Povezani podaci se brišu. To može potrajati minutu.</string>
+  <string name="open_maintenance_mode_title">Uključi način popravka</string>
   <string name="operation_guide_settings_title">Kako koristiti plutajuće prozore</string>
   <string name="operation_guide_title">Uputstva</string>
   <string name="other">Ostalo</string>
@@ -961,6 +1000,9 @@ Inače možda nećete moći unijeti drugi razmak sa zaključanog zaslona."</stri
   <string name="radio_button_icon_switch_title">Korištenje prečaca</string>
   <string name="radio_button_password_switch_title">Korištenje zaporke</string>
   <string name="regional_screen_shot">Djelomična snimka zaslona</string>
+  <string name="reached_max_user">Dosegnut je maksimalan broj profila</string>
+  <string name="reboot_maintenance_mode">Način popravka je isključen. Ponovno pokrenite uređaj kako biste poboljšali performanse i stabilnost uređaja.</string>
+  <string name="reboot_msg">Kada uključite način popravka, uređaj će se automatski ponovno pokrenuti. Uključiti sada?</string>
   <string name="removeSuccess">Uspješno izbrisano</string>
   <string name="remove_button">Izbriši</string>
   <string name="remove_button_time">Izbriši (%ds)</string>
@@ -968,6 +1010,7 @@ Inače možda nećete moći unijeti drugi razmak sa zaključanog zaslona."</stri
   <string name="remove_user_click_message">"*Ako nemate nijednu važnu stavku u Drugom prostoru, %s"</string>
   <string name="remove_user_click_message_action">možete izbrisati Drugi prostor i ponovo pokrenuti uređaj.</string>
   <string name="removingSpace">Brisanje…</string>
+  <string name="reopen_maintenance_mode">Izgleda da je glavni korisnik otključao ovaj uređaj. Kako biste zaštitili svoju privatnost i sigurnost, ponovno uključite način rada za popravak.</string>
   <string name="repeat_scanner_fingerprint">Dodaj ponovno</string>
   <string name="reset_passwd_success">Zaporka je uspješno resetirana</string>
   <string name="reset_password_dialog_message">"Koristite različite vrste zaporki za Prvi prostor i Drugi prostor. Drugi prostor treba koristiti istu vrstu zaporke kao Prvi prostor za prečac koji će biti skriven."</string>
@@ -1026,11 +1069,14 @@ Odvojite i osigurajte svoje podatke."</string>
   <string name="setSecondSpacePasswordGuideDes">Koristite ovu zaporku za ulazak u Drugi prostor sa Zaključanog zaslona</string>
   <string name="setSpacePasswordGuide">Koristite različite zaporke za ulazak u oba prostora sa Zaključanog zaslona</string>
   <string name="setSuccess">Zaporka uspješno postavljena</string>
+  <string name="set_password_main_user">Postavi zaključavanje zaslona za prvi prostor</string>
+  <string name="set_password_main_user_context">"Postavite zaključavanje zaslona kako biste zaštitili svoje podatke. Morat ćete unijeti ovo zaključavanje zaslona kada isključite način rada za popravak. Vaše zaključavanje zaslona ne može se vratiti, stoga se pobrinite da ga zapamtite."</string>
   <string name="set_space_finger">Postavi otisak prsta</string>
   <string name="set_space_finger_sub_text_suc">Otisak prsta uspješno postavljen</string>
   <string name="set_space_password">Postavi zaporku</string>
   <string name="set_space_pwd_detail">Možete ući u Drugi prostor pomoću zaporke</string>
   <string name="set_space_pwd_suc">Zaporka Drugog prostora dodana</string>
+  <string name="setting">Postavi</string>
   <string name="setting_finger_print_sub_title">Uvjerite se da je otisak prsta različit od onog u Prvom prostoru</string>
   <string name="setting_finger_print_title">Dodaj otisak prsta za Drugi prostor</string>
   <string name="setting_fingerprint_title">Dodajte zaporku za Drugi prostor</string>
@@ -1138,6 +1184,14 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="stylus_laser_title">Osvijetli područja</string>
   <string name="stylus_not_connect_message">"Olovka nije spojena"</string>
   <string name="stylus_not_connect_message_new">Priključite svoju olovku za uparivanje</string>
+  <string name="stylus_ota_cancel">Odustani</string>
+  <string name="stylus_ota_fail">"Nije moguće ažuriranje"</string>
+  <string name="stylus_ota_fail_reason">"Nije moguće dovršiti ažuriranje firmvera. Ponovno pričvrstite olovku ili ažurirajte ručno."</string>
+  <string name="stylus_ota_fail_special_reason">"Nije moguće ažurirati olovku. Bez ovog ažuriranja, vaša olovka može se koristiti samo na zaslonima s frekvencijom osvježavanja od %1$d Hz. Ponovno pričvrstite olovku ili ažurirajte ručno."</string>
+  <string name="stylus_ota_manual">Ručno ažuriranje</string>
+  <string name="stylus_ota_manual_as_lowversion">Ažurirajte olovku na najnoviju verziju da biste je mogli koristiti</string>
+  <string name="stylus_ota_popup_describe">Ažuriranje firmvera</string>
+  <string name="stylus_ota_popup_sub_describe">"Ažuriranje firmvera. Ne dodirujte zaslon niti pomičite olovka."</string>
   <string name="stylus_ota_check_failed_battery">"Nije moguće provjeriti. Baterija vaše olovke je pri kraju."</string>
   <string name="stylus_ota_check_failed_info">"Nije moguće provjeriti verziju firmvera. Ponovo spojite svoju olovku."</string>
   <string name="stylus_ota_check_failed_infoV2">"Nije moguće dobiti verziju firmvera. Ponovno povežite svoju olovku."</string>
@@ -1215,6 +1269,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="switching_photos">Premještanje fotografija…</string>
   <string name="tablet_screen_settings">Značajke za tablete</string>
   <string name="temporary_no_set">Ne sada</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Probudite glasovnog asistenta u načinu cijelog zaslona (bez virtualnih tipki)</string>
   <string name="this_function_can_not_use_in_second_space">Ova se funkcija može koristiti samo u Prvom prostoru</string>
   <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Povucite vodoravno po unutarnjem zaslonu s tri prsta da biste otvorili podijeljeni zaslon</string>
@@ -1313,6 +1368,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share">WeChat Pay</string>
   <string name="weixin_share_sign">Prijavite se i podijelite</string>
+  <string name="workbench_mode_not_support_maintenancemode_mode">"Ne mogu uključiti način rada za popravak u načinu rada radne stanice. Isključite način rada radne stanice i pokušajte ponovno."</string>
   <string name="whatsapp_send">Podijeli na WhatsApp</string>
   <string name="xpsace_guide_button">Izradi</string>
   <string name="xspace_account">Računi dvojne aplikacije</string>

@@ -129,6 +129,7 @@
   <string name="announce_for_indicator">Stranica %1$d od %2$d stranica</string>
   <string name="announce_for_move">Pomakni u red %1$d kolonu %2$d</string>
   <string name="announce_for_move_hotseat">Pomakni na poziciju %1$d</string>
+  <string name="announce_for_launcher_menu_close">Sažeto</string>
   <string name="announce_for_layout_preview_mode">Otvori pregled</string>
   <string name="announce_for_layout_preview_mode_disable">Zatvori pregled</string>
   <string name="announce_for_open_default_preview">Otvorili ste zadane postavke Početnog zaslona</string>
@@ -522,7 +523,7 @@ Poboljšana sigurnost."</string>
   <string name="launcher_search_bar_value_enable">Uključeno</string>
   <string name="launcher_search_gesture_provider_title">Povucite prema gore za davatelja pretraživanja</string>
   <string name="launcher_slide_up_search_provider_title">Povucite prema gore za davatelja pretraživanja</string>
-  <string name="launcher_slide_up_title">Povucite prema dolje na Početni zaslonu</string>
+  <string name="launcher_slide_up_title">Povucite prema dolje na Početnom zaslonu</string>
   <string name="launcher_sliding_up_gesture">Povucite prema gore na Početnom zaslonu za otvaranje pretraživanja</string>
   <string name="launcher_title">Početni zaslon &amp; Nedavno</string>
   <string name="layout_guide_description">"Ako vam se ne sviđa ladica aplikacija, uvijek se možete vratiti na klasični početni zaslon. Jednostavno upotrijebite prečac \"Postavke Početnog zaslona\" i prebacite se između dva načina."</string>
@@ -559,9 +560,8 @@ Poboljšana sigurnost."</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
-  <string name="material_slider_range_end">Kraj raspona,</string>
-  <string name="material_slider_range_start">Početak raspona,</string>
-  <string name="material_timepicker_am">AM</string>
+  <string name="material_slider_range_end">Kraj raspona</string>
+  <string name="material_slider_range_start">Početak raspona</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>

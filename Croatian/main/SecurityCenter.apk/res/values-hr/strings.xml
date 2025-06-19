@@ -237,6 +237,9 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="anim_gamebooster_text">Samo trenutak…</string>
   <string name="anti_disturb_msg_detail">Isključi sve obavijesti, osim za dolazne pozive</string>
   <string name="anti_disturb_msg_title">DND</string>
+  <string name="antispam_add_black_number_message">Broj koji ste unijeli je kratak. Blokirati sve brojeve koji počinju ovim znamenkama?</string>
+  <string name="antispam_add_black_number_negative">Ne</string>
+  <string name="antispam_add_black_number_positive">Da</string>
   <string name="antispam_guangdian_card_hint">"Vaš SIM ne podržava prebacivanje na drugu poruku o odsutnosti. Kontaktirajte svog operatera za detalje."</string>
   <string name="antispam_guangdian_card_title">"Prebacivanje nije podržano"</string>
   <string name="antispam_mms_text">Postavite Poruke kao zadanu aplikaciju za slanje SMS-ova da biste mogli pregledati blokirane poruke</string>
@@ -246,6 +249,12 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="antispam_notificaiton_type_show_except_blacklist">Popis dopuštenih brojeva</string>
   <string name="antispam_notificaiton_type_show_none">Nikad</string>
   <string name="antispam_notification_setting_title">Obavijesti</string>
+  <string name="antispam_st_all_net">Bilo koja internetska veza</string>
+  <string name="antispam_st_smart_close">Isključeno</string>
+  <string name="antispam_st_smart_update">Baza podataka za prepoznavanje brojeva</string>
+  <string name="antispam_st_smart_update_title">Ažuriraj bazu podataka za prepoznavanje brojeva</string>
+  <string name="antispam_st_wlan_net">Samo na Wi-Fi mreži</string>
+  <string name="antispam_st_wlan_net_china">Samo na Wi-Fi mreži</string>
   <string name="antispam_xpace_text">Promjeni na Prvi prostor za postavljanje popisa blokiranja</string>
   <string name="antivirus_antidefraud_risk_desc">Nacionalni centar za borbu protiv prijevara klasificira ovu aplikaciju kao aplikaciju za financijske prijevare. Deinstalirajte je kako biste izbjegli moguće rizike.</string>
   <string name="antivirus_antidefraud_risk_type">Financijska prijevara</string>
@@ -522,6 +531,8 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="app_manager_advanced_setting">Napredne postavke</string>
   <string name="app_manager_airtel_dlg_msg">Ako imate pitanja, kontaktirajte Airtel</string>
   <string name="app_manager_allow">Da</string>
+  <string name="app_manager_airtel_dlg_title">Blokirao Airtel</string>
+  <string name="app_manager_global_recommend_title">Za vas</string>
   <string name="app_manager_anomaly_analysis">Analizirajte probleme s aplikacijama treće strane</string>
   <string name="app_manager_app_ifno_version">Verzija aplikacije</string>
   <string name="app_manager_app_info_label">Informacije o aplikaciji</string>
@@ -2602,6 +2613,10 @@ volonter"</string>
   <string name="game_performance_wild_mode_tips">"Uključite za poboljšanje performansi uređaja
 (Vaš uređaj će se zagrijati i trošiti više energije)"</string>
   <string name="game_setting">Postavke igre</string>
+  <string name="game_toolbox_auto_brightness_talkback">Automatska svjetlina</string>
+  <string name="game_toolbox_btn_back_talkback">Natrag</string>
+  <string name="game_toolbox_screen_brightness_talkback">Svjetlina zaslona</string>
+  <string name="game_toolbox_settings_talkback">Postavke</string>
   <string name="game_toolbox_ai_qa_desc">Pitanja i odgovori o velikom modelu</string>
   <string name="game_toolbox_ai_qa_title">Vodič za umjetnu inteligenciju</string>
   <string name="game_toolbox_ai_service_desc">Iskustvo igranja poboljšano umjetnom inteligencijom</string>
@@ -4469,6 +4484,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_batery_information">Informacije o bateriji</string>
   <string name="pc_batery_protection">Zaštita baterije</string>
   <string name="pc_battery_charge_protect">Zaštita prilikom punjenja</string>
+  <string name="pc_battery_charging_error_message">Došlo je do pogreške pri punjenju. Posjetite servisni centar za popravke.</string>
+  <string name="pc_battery_charging_error_title">Pogreška pri punjenju</string>
   <string name="pc_battery_chart_loading">Samo trenutak…</string>
   <string name="pc_battery_detail_curve_reference_now">Sad</string>
   <string name="pc_battery_detail_device_item_title">Statistika korištenja baterije</string>
@@ -4984,6 +5001,10 @@ Način otpornosti na hladnoću"</string>
   <string name="permit_running_network">Pozadinski podaci</string>
   <string name="person_hotpot">Mobilni hospot</string>
   <string name="phone">Telefon</string>
+  <string name="phone_manage_content_description_add">Dodaj</string>
+  <string name="phone_manage_content_description_remove">Ukloni</string>
+  <string name="phone_manage_edit_cancel">Odustani</string>
+  <string name="phone_manage_edit_confirm">Spremi promjene</string>
   <string name="phone_manage">Korisni programi</string>
   <string name="phone_manage_app_manager_summary">Upravljanje aplikacijama na vašem uređaju</string>
   <string name="phone_manage_clean_summary">Oslobodite prostor za pohranu</string>
@@ -6086,6 +6107,9 @@ Povući suglasnost sada?"</string>
   <string name="risk_app_install_manager">Aplikacije s mogućim rizicima</string>
   <string name="risk_app_menu_title">Deblokiraj dopuštenja</string>
   <string name="risk_app_permission_settings_desc">Dopuštanje aplikacijama iz nepoznatih izvora pristup osjetljivim dopuštenjima može predstavljati rizik za sigurnost vašeg uređaja i podataka. Kako bi se spriječili ti rizici, nekim će aplikacijama prema zadanim postavkama biti blokiran pristup određenim dopuštenjima. Možete ručno &lt;u>deblokirati dopuštenja&lt;/u>, nakon čega možete dodijeliti pojedinačna dopuštenja kako vam odgovara.</string>
+  <string name="risk_app_restrict_network_btn">Razumijem</string>
+  <string name="risk_app_restrict_network_message">"Veza ove aplikacije s internetom ograničena je na zahtjev nadležnih tijela zbog neuobičajenog ponašanja."</string>
+  <string name="risk_app_restrict_network_title">"Ne mogu se povezati s internetom"</string>
   <string name="risk_detail_app">Predstavlja rizike</string>
   <string name="risk_detail_title">Mogući rizici</string>
   <string name="risk_info_title">Opis</string>
@@ -7628,6 +7652,11 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usage_sorted_empty_text">Prazno</string>
   <string name="usage_sorted_loading_text">Samo trenutak…</string>
   <string name="usage_type_audio">Zvuk</string>
+  <string name="usage_type_background_desk_power_consumption_time">Potrošnja u pozadini</string>
+  <string name="usage_type_front_desk_power_consumption_time">Potrošnja u prednjem planu</string>
+  <string name="usage_type_power_consumption_ratio">Potrošnja baterije</string>
+  <string name="usage_type_power_consumption_ratio_hint_binary">Potrošnja energije koju je %3$s potrošio kao postotak energije koju su sve aplikacije potrošile u posljednjih %1$s %2$s</string>
+  <string name="usage_type_power_consumption_ratio_hint_single">Potrošnja energije koju je %2$s potrošio kao postotak energije koju su sve aplikacije potrošile u posljednjih %1$s</string>
   <string name="usage_type_cpu">Ukupno CPU-a</string>
   <string name="usage_type_cpu_foreground">Glavni zadatak CPU-a</string>
   <string name="usage_type_data_recv">Primljeni mobilni podaci</string>

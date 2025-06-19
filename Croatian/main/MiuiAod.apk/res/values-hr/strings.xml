@@ -466,6 +466,8 @@ dd.MM."</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
   <string name="mini_time">Mali sat</string>
   <string name="minimalist_clock">Jednostavan sat</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
   <string name="miui_clock_city_name_local">Lokalno</string>
   <string name="miui_clock_city_name_second">Drugi sat</string>
   <string name="miui_clock_classic_signature_area_hint">Dodirnite za unos potpisa</string>

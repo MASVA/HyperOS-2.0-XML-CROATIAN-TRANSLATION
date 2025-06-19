@@ -1853,6 +1853,12 @@ dd.MM."</string>
   <string name="miui_magazine_clock_date">d.M.</string>
   <string name="miui_magazine_clock_date_content_description">dd.MM</string>
   <string name="miui_magazine_clock_week">EEE</string>
+  <string name="miui_notification_menu_custom_fold">Grupiraj u \"Više obavijesti\"</string>
+  <string name="miui_notification_menu_custom_unfold">"Ne grupiraj"</string>
+  <string name="miui_notification_menu_msg_custom_fold">Grupirati prilagođene obavijesti od \"%1$s\" u \"Više obavijesti\"?</string>
+  <string name="miui_notification_menu_msg_custom_unfold">Prikazati prilagođene obavijesti od \"%1$s\" u Panelu obavijesti?</string>
+  <string name="miui_notification_menu_title_custom_fold">Grupiraj prilagođene obavijesti</string>
+  <string name="miui_notification_menu_title_custom_unfold">Zaustavi grupiranje prilagođenih obavijesti</string>
   <string name="miui_notification_menu_aggregate_feedback">Povratne inf.</string>
   <string name="miui_notification_menu_allow">Dopusti</string>
   <string name="miui_notification_menu_feedback_success">Hvala na povratnim informacijama!</string>
@@ -2712,6 +2718,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="screen_pinning_toast_gesture_mode">Povucite prema gore od dna zaslona i pauzirajte da otkvačite ovu aplikaciju</string>
   <string name="screen_pinning_toast_gesture_nav">Da biste otkvačili ovu aplikaciju, povucite prstom prema gore i zadržite</string>
   <string name="screen_pinning_toast_navigation_mode">Pritisnite i držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
+  <string name="screen_pinning_toast_navigation_talkback_mode">Da biste otkvačili ovu aplikaciju, dugo pritisnite tipku Zadaci</string>
   <string name="screen_pinning_toast_recents_invisible">Da biste otkvačili ovu aplikaciju, dodirnite tipke Natrag i Početna i zadržite</string>
   <string name="screen_pinning_toast_start">Aplikacija je prikvačena</string>
   <string name="screen_recording_announcement">Počelo je snimanje zaslona</string>

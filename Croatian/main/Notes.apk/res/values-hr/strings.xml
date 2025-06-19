@@ -56,6 +56,19 @@
   <string name="add_to_clip_toast">Uspješno kopirano</string>
   <string name="add_modifications">Prijedlog: Dodajte \"%1$s\"</string>
   <string name="adopt">Koristite</string>
+  <string name="ai_DeepSeek_button_text">DeepThink</string>
+  <string name="ai_generate_waiting_title">AI obrađuje…</string>
+  <string name="ai_sensitive_word_error_title">Nema dostupnih daljnjih odgovora.</string>
+  <string name="aicr_deepthink_done">Završeno zaključivanje</string>
+  <string name="aicr_deepthink_stop">Zaustavljeno zaključivanje</string>
+  <string name="aicr_deepthink_thinking">Zaključivanje</string>
+  <string name="aicr_down_content">Preuzmite veliki model na uređaj kako biste mogli koristiti AI pisanje. Preuzeti sada?</string>
+  <string name="aicr_down_title">Preuzeti veliki model na uređaju</string>
+  <string name="aicr_generate_waiting_title">Obrada putem umjetne inteligencije…</string>
+  <string name="aicr_update_button">Ažuriraj</string>
+  <string name="aicr_update_content">Ažuriraj veliki model na uređaju kako bi se moglo koristiti pisanje umjetnom inteligencijom. Ažurirati sada?</string>
+  <string name="aicr_update_title">Ažuriraj veliki model na uređaju</string>
+  <string name="aig_register_preference_title">Broj prijave generativne usluge umjetne inteligencije</string>
   <string name="ai_already_copy_toast_text">Uspješno kopirano</string>
   <string name="ai_already_insert_toast_text">Umetnuti original</string>
   <string name="ai_button_cancel">Odustani</string>
@@ -227,6 +240,7 @@
   <string name="brush_WaterColor">WaterColor</string>
   <string name="btn_next">Dalje</string>
   <string name="button_new_note">"Novo"</string>
+  <string name="button_talkback">Tipka</string>
   <string name="call_folder_name">Bilješke poziva</string>
   <string name="call_record_folder_name">Bilješke poziva</string>
   <string name="call_notification_answer_action">Odgovor</string>
@@ -368,6 +382,7 @@
   <string name="dlg_update_title">Dostupno je ažuriranje</string>
   <string name="dlg_update_update_now">Ažuriraj</string>
   <string name="done">Gotovo</string>
+  <string name="done_talkback">Gotovo</string>
   <string name="doodle_action_enter_immersion_mode">Prebaci na interaktivni način</string>
   <string name="doodle_action_exit_immersion_mode">Interaktivni način je isključen</string>
   <string name="doodle_action_hide_tool_panel">Sakrij alate</string>
@@ -404,6 +419,11 @@
   <string name="doodle_guide_dialog_title">Skiciranje</string>
   <string name="doodle_guide_quick_shape_hint" formatted="false">Pritisnite i držite skicu na %d–%d sek. za automatsko podešavanje poteza</string>
   <string name="doodle_palette">Paleta boja</string>
+  <string name="doodle_pencil_stroke_1">Iznimno tanko</string>
+  <string name="doodle_pencil_stroke_2">Tanko</string>
+  <string name="doodle_pencil_stroke_3">Srednje</string>
+  <string name="doodle_pencil_stroke_4">Podebljano</string>
+  <string name="doodle_pencil_stroke_5">Iznimno podebljano</string>
   <string name="doodle_save_progress_text">Spremanje…</string>
   <string name="doodle_saving">Spremanje</string>
   <string name="doodle_setting_show_grid_background">Doodle crte rešetke</string>
@@ -835,6 +855,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_module_name">Bilješke</string>
   <string name="note_not_text_stub">Nema teksta</string>
   <string name="note_sort_way">Poredaj</string>
+  <string name="note_select_all_talkback">Sve odabrano</string>
+  <string name="note_unselect_all_talkback">Sve odabrano poništeno</string>
   <string name="note_write_hint">Počni pisati</string>
   <string name="notealert_enter">Otvori bilješku</string>
   <string name="notealert_ok">"Odbaci"</string>

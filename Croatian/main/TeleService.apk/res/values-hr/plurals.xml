@@ -87,7 +87,11 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novih obavijesti</item>
         <item quantity="one">%d nova obavijest</item>
-    </plurals>
+	</plurals>
+	 <plurals name="miuix_indexer_selected">
+        <item quantity="other">Odabrano %1$d stavki</item>
+        <item quantity="one">Odabrana %1$d stavka</item>
+	 </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>

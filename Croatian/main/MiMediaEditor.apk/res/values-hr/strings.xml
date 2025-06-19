@@ -1517,6 +1517,8 @@ Dodirnite Pro za korištenje."</string>
   <string name="photo_editor_talkback_crop_mirror">Ogledalo</string>
   <string name="photo_editor_talkback_crop_original">Original</string>
   <string name="photo_editor_talkback_crop_portrait_screen">Omjer slike na cijelom zaslonu. Vertikalna orijentacija.</string>
+  <string name="photo_editor_talkback_corp_preview">Pregled</string>
+  <string name="photo_editor_talkback_crop_preview_mirror">Zrcaljeni pregled</string>
   <string name="photo_editor_talkback_crop_reset">Poništi</string>
   <string name="photo_editor_talkback_crop_right_rotate">Rotiraj 90 stupnjeva</string>
   <string name="photo_editor_talkback_crop_rotate">Rotiraj</string>
@@ -2322,6 +2324,9 @@ Prenesite fotografije s jasnim crtama lica za najbolje rezultate."</string>
   <string name="vlog_speed_treble">3.0X</string>
   <string name="vlog_support_max_duration">Projekt može biti do %1$d sati dugačak</string>
   <string name="vlog_support_max_number">Možete dodati do %1$d videozapisa u projekat</string>
+  <string name="vlog_talkback_add_audio">Dodaj zvuk</string>
+  <string name="vlog_talkback_add_caption">Dodaj tekst</string>
+  <string name="vlog_talkback_edit_text">Titlovi</string>  
   <string name="vlog_talkback_audio_local">Lokalna glazba</string>
   <string name="vlog_talkback_audio_null">Bez zvučnog zapisa</string>
   <string name="vlog_talkback_audio_seekbar">Podesite glasnoću</string>

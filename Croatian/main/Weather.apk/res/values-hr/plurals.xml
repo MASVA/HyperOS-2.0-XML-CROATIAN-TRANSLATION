@@ -65,6 +65,10 @@
         <item quantity="one">Prosječno %1$s postaja</item>
         <item quantity="few">Prosječno %1$s postaja</item>
     </plurals>
+	 <plurals name="button_confirm_to_second">
+        <item quantity="other">%1$s sek.</item>
+        <item quantity="one">%1$s sek.</item>
+     </plurals>
     <plurals name="daily_forcast_drawer_on_home">
         <item quantity="other">%1$s-dnevna prognoza</item>
         <item quantity="one">%1$s-dnevna prognoza</item>

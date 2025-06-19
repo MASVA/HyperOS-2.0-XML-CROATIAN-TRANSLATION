@@ -159,6 +159,10 @@
   <string name="accessibility_phone_signal_full">Telefonski signal pun.</string>
   <string name="accessibility_phone_three_bars">Telefonski signal tri stupca.</string>
   <string name="accessibility_phone_two_bars">Telefonski signal dva stupca.</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="accessibility_settings_activity_title">Pristupačnost</string>
   <string name="accessibility_wifi_off">Wi-Fi je isključen.</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi signal ima jedan stupac.</string>
@@ -1948,6 +1952,12 @@ Uvijek koristi ovaj broj"</string>
   <string name="miui_notification_network_selection_title">SIM: nema usluge</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: nema usluge</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažet</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
@@ -1974,6 +1984,10 @@ Uvijek koristi ovaj broj"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="mmiCancelled">Otkazan je MMI kôd</string>
   <string name="mmiStarted">Pokrenut je MMI kôd</string>
   <string name="mms_message_summary">Slanje i primanje dok su mobilni podaci isključeni</string>
@@ -3070,6 +3084,9 @@ Otkazati usluge sada?"</string>
   <string name="satellite_select_enable_sim">Odaberite SIM karticu</string>
   <string name="satellite_send_receive_sms_message">Kada je satelitski način rada uključen, možete slati i primati SMS. SMS su ograničeni na %d znakova, nakon čega će se podijeliti u više poruka i naplatiti u skladu s tim.</string>
   <string name="satellite_send_receive_sms_title">Kako mogu koristiti satelitsku komunikaciju za slanje SMS-a?</string>
+  <string name="satellite_setting_disabled_summary">Slanje i primanje tekstualnih poruka putem satelita. Nije uključeno s vašim računom.</string>
+  <string name="satellite_setting_enabled_summary">Slanje i primanje tekstualnih poruka putem satelita. Uključeno s vašim računom.</string>
+  <string name="satellite_setting_title">Satelitske poruke</string>
   <string name="satellite_signal_boost_setting_summary">Instalirajte pojačalo za poboljšanje snage signala i stabilnosti satelitske komunikacije u oblačnim i oblačnim uvjetima</string>
   <string name="satellite_signal_boost_setting_title">Koristite Tiantong pojačalo signala</string>
   <string name="satellite_signal_boost_toast">Pojačalo signala bit će isključeno kada su satelitske komunikacije isključene</string>

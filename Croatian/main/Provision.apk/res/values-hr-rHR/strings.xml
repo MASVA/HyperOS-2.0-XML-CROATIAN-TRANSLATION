@@ -30,6 +30,10 @@
   <string name="access_calendar">Pristup kalendaru</string>
   <string name="access_non_personal_data">Ako povučete suglasnost za pristup i korištenje neosobnih podataka sa svog uređaja, usluge Wallpaper Carousel bit će deaktivirane, a svi prikupljeni podaci izbrisani u roku određenom važećim zakonima i propisima.</string>
   <string name="accessibility_enabled">Pristupačnost je omogućena.</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string> 
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string> 
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string> 
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="activate_esim_tips">"Aktivacija nije uspjela. Pokušajte ponovo."</string>
   <string name="activating_esim_tips">Aktiviranje…</string>
@@ -161,6 +165,7 @@
   <string name="friday_shortest">P</string>
   <string name="game_introduction">Dodatak za igre omogućuje vam prijavu, stvaranje narudžbi, dovršavanje plaćanja, korištenje kupona i sudjelovanje u promotivnim događajima.</string>
   <string name="get_audio_and_video_information_settings">Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju</string>
+  <string name="get_contact_information_settings">Pristup kontaktima</string>
   <string name="get_imei_information">Pristup IMEI-ju</string>
   <string name="get_imei_information_settings">Pristup jedinstvenom identifikatoru uređaja (IMEI)</string>
   <string name="google_service_introduction">Da bi mogao normalno raditi, Trgovina Play treba se povezati s internetom, pristupiti vašoj lokaciji, moći slati SMS i MMS, snimati zvukove, upućivati pozive, pristupiti događajima iz kalendara, povijesti poziva, senzorima, pohrani, kameri, informacijama o uređaju i računima.</string>
@@ -310,6 +315,12 @@
   <string name="miui_settings">Postavke</string>
   <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
@@ -329,6 +340,10 @@
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -535,6 +550,7 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="permission_recorder_file_introduction">Za pristup i spremanje zapisa zvuka</string>
   <string name="permission_recording">Snimanje poziva i zvuka</string>
   <string name="permission_recording_introduction">Za snimanje zvuka tijekom snimanja videozapisa</string>
+  <string name="permission_reminder_mode_summary_settings">Za odabir vrsta podsjetnika za dolazne pozive</string>
   <string name="permission_screen_shoot_introduction">Za pristup i spremanje snimaka zaslona</string>
   <string name="permission_send_message">Slanje SMS-a</string>
   <string name="permission_sms_verification_code_login">Za pružanje SMS potvrde za brzu prijavu</string>
@@ -770,6 +786,7 @@ Prije korištenja ove značajke morate prihvatiti Pravila o privatnosti Mint Key
   <string name="terms_of_use_lable_xmsf">Xiaomi service framework</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o privatnosti</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Pravila o privatnosti</string>
+  <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>

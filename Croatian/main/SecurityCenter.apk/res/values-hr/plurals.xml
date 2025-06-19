@@ -1586,4 +1586,12 @@ Odmorite se!"</item>
         <item quantity="other">Trojanci: %d</item>
         <item quantity="one">Trojanac: %d</item>
     </plurals>
+	 <plurals name="usage_type_power_consumption_ratio_hint_hour">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+     </plurals>
+     <plurals name="usage_type_power_consumption_ratio_hint_minute">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+     </plurals>
 </resources>

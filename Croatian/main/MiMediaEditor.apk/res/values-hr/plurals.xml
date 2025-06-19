@@ -72,11 +72,27 @@
         <item quantity="other">Vododravno: %d stupnjeva</item>
         <item quantity="one">Vododravno: %d stupanj</item>
     </plurals>
+	     <plurals name="photo_editor_talkback_corp_preview_clockwise_value">
+        <item quantity="other">Pregled zakrenut u smjeru kazaljke na satu za %d stupnjeva</item>
+        <item quantity="one">Pregled zakrenut u smjeru kazaljke na satu za %d stupanj</item>
+     </plurals>
+     <plurals name="photo_editor_talkback_corp_preview_counterclockwise_value">
+        <item quantity="other">Pregled akrenut za %d stupnjeva suprotno od kazaljke na satu</item>
+        <item quantity="one">Pregled zakrenut za %d stupanj suprotno od kazaljke na satu</item>
+     </plurals>
+     <plurals name="photo_editor_talkback_crop_preview_mirror_clockwise_value">
+        <item quantity="other">Pregled zrcaljen i rotiran %d stupnjeva u smjeru kazaljke na satu</item>
+        <item quantity="one">Pregled zrcaljen i rotiran %d stupanj u smjeru kazaljke na satu</item>
+     </plurals>
+     <plurals name="photo_editor_talkback_crop_preview_mirror_counterclockwise_value">
+        <item quantity="other">Pregled zrcaljen i rotiran %d stupnjeva suprotno od kazaljke na satu</item>
+        <item quantity="one">Pregled zrcaljen i rotiran %d stupanj suprotno od kazaljke na satu</item>
+     </plurals>
     <plurals name="photo_editor_talkback_crop_scale_value">
         <item quantity="other">Rotiraj %d stupnjeva</item>
         <item quantity="one">Rotiraj %d stupanj</item>
     </plurals>
-	<plurals name="photo_editor_talkback_crop_vertical_default_value">
+	 <plurals name="photo_editor_talkback_crop_vertical_default_value">
         <item quantity="other">Zadana okomita vrijednost: %d stupnjeva</item>
         <item quantity="one">Zadana okomita vrijednost: %d stupanj</item>
     </plurals>

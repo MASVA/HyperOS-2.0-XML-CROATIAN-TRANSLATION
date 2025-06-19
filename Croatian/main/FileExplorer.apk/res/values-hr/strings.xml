@@ -254,6 +254,9 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="doc_word">DOC</string>
   <string name="doc_wps">WPS</string>
   <string name="doc_xls">XLS</string>
+  <string name="download_cad_dialog_message">Instalirajte ZWCAD za uređivanje CAD datoteka. Instalirati odmah?</string>
+  <string name="download_mi_wps_dialog_message">S Mi Doc Viewerom možete pregledavati datoteke bilo kada i bilo gdje. Instalirati odmah?</string>
+  <string name="download_mi_wps_dialog_title">Instalirajte Mi Doc Viewer</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="drag_not_support_with_dir">"Ne mogu se preurediti ili poslati mape"</string>
   <string name="edit_quick_category">Uredi</string>
@@ -316,6 +319,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="file_cloud_setting_item_view_message">Pogledajte iWork, Xmind i *.psd datoteke na mreži</string>
   <string name="file_cloud_setting_item_view_title">Mrežne datoteke</string>
   <string name="file_error_cannt_view">"Došlo je do pogreške. Ne mogu prikazati datoteku."</string>
+  <string name="file_exception">"Došlo je do pogreške u datoteci. Konverzija nije uspjela."</string>
   <string name="file_info_canread">Čitljivo: </string>
   <string name="file_info_canwrite">Pisljivo: </string>
   <string name="file_info_ishidden">Skriveno: </string>
@@ -327,6 +331,15 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="file_name_invalid">"Nazivi datoteka ne mogu sadržavati sljedeće znakove: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"Datoteka ne postoji"</string>
   <string name="file_parse_fail">"Nije moguće raščlaniti datoteku"</string>
+  <string name="file_parse_layout_switch_failed">"Nije moguće promijeniti izgled."</string>
+  <string name="file_parse_loading_please_wait">Samo trenutak…</string>
+  <string name="file_parse_menu_excel">Pretvori u Excel</string>
+  <string name="file_parse_menu_image">Pretvori u sliku</string>
+  <string name="file_parse_menu_pdf">Pretvori u PDF</string>
+  <string name="file_parse_menu_ppt">Pretvori u PowerPoint</string>
+  <string name="file_parse_menu_word">Pretvori u Word</string>
+  <string name="file_parse_running">Cloud obrada u tijeku…</string>
+  <string name="file_parse_search_result_empty">"Nisu pronađeni rezultati"</string>
   <string name="file_parse_loading">Transkodiranje. Ovo bi moglo potrajati minutu.</string>
   <string name="file_parse_outpace_1gb">"Ova datoteka premašuje %1$d GB i ne može se vidjeti u ovoj aplikaciji. Možete je otvoriti s drugom aplikacijom."</string>
   <string name="file_parse_outpace_1mb">"Ova datoteka premašuje %1$d MB i ne može se vidjeti u ovoj aplikaciji. Možete je otvoriti s drugom aplikacijom."</string>
@@ -383,6 +396,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="image_loading_error">"Ne mogu učitati sliku"</string>
   <string name="imm_str_storage">Pohrana</string>
   <string name="import_files_from_old_phones">Uvezi sa starog uređaja</string>
+  <string name="install_dialog_postion">Instaliraj</string>
   <string name="install_media_editor_button_text">Preuzimanje</string>
   <string name="install_media_editor_message">Da biste mogli uređivati stavke, prvo preuzmite dodatak. Preuzeti sada?</string>
   <string name="install_media_editor_title">Potreban je dodatak</string>
@@ -420,6 +434,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="menu_cloud_view_project">Emitiranje</string>
   <string name="menu_cloud_view_share">Dijeli</string>
   <string name="menu_cloud_view_stamp">Ispis</string>
+  <string name="menu_convert">Pretvori format</string>
   <string name="menu_item_cleanup">Očisti</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Prijenos datoteka</string>
@@ -734,6 +749,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="pad">Tablet</string>
   <string name="pad_homepage_tab_file_view_phone">Tablet</string>
   <string name="pad_start_phone">Pohrana</string>
+  <string name="parse_webview_image_preview">Stranica %1$d. Ukupno stranica: %2$d</string>
   <string name="partial_cancel_successful">"Ne mogu ukloniti neke datoteke. Ostale datoteke premještene su u %s."</string>
   <string name="partial_delete_failure">"Ne mogu izbrisati neke datoteke. Pokušajte ponovo."</string>
   <string name="partial_encrypt_success">"Neke datoteke nije bilo moguće učiniti privatnim. Pokušajte ponovo."</string>
@@ -919,6 +935,8 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="tab_local">LOKALNO</string>
   <string name="tab_more">Više</string>
   <string name="tab_source">Aplikacije</string>
+  <string name="talkback_new_folder_name">Naziv mape</string>
+  <string name="talkback_new_name">Novi naziv</string>
   <string name="terabyteShort">TB</string>
   <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
   <string name="text_select_all">Odaberi sve</string>

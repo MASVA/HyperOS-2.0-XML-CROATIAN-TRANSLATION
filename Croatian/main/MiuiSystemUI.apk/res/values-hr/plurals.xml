@@ -60,6 +60,10 @@
         <item quantity="one">prije %d godine</item>
         <item quantity="few">prije %d godina</item>
     </plurals>
+	 <plurals name="accessibility_descriptions_signal_strength">
+        <item quantity="other">Jačina signala: %1$d od %2$d crtica</item>
+        <item quantity="one">Jačina signala: %1$d od %2$d crta</item>
+     </plurals>
     <plurals name="controls_number_of_favorites">
         <item quantity="other">%s kontrola dodano.</item>
         <item quantity="one">%s kontrola dodana.</item>

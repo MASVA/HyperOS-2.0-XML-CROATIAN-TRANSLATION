@@ -291,6 +291,9 @@
   <string name="kind_tip_title">Pažnja</string>
   <string name="kind_subtitle">Ovaj uređaj koristi dizajn sklopivog zaslona. Kako biste zaštitili svoj uređaj, obratite pozornost na sljedeće:</string>
   <string name="ktposition_header">Dijeljenje informacija o lokaciji s hitnim spasilačkim agencijama</string>
+  <string name="language_disabled_description">%1$s, nije dostupan</string>
+  <string name="language_selected_description">%1$s, odabran</string>
+  <string name="language_unselected_description">%1$s, dvaput dodirnite za primjenu</string>
   <string name="language_picker_other_languages_title">Više jezika</string>
   <string name="language_settings">Odaberi jezik</string>
   <string name="layout_size_large">Veliki</string>

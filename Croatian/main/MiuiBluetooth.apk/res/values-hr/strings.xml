@@ -49,6 +49,10 @@
   <string name="accessibility_phone_signal_full">Telefonski signal pun.</string>
   <string name="accessibility_phone_three_bars">Telefonski signal tri stupca.</string>
   <string name="accessibility_phone_two_bars">Telefonski signal dva stupca.</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string> 
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string> 
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string> 
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="accessibility_wifi_off">Wi-Fi je isključen.</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi signal ima jedan stupac.</string>
   <string name="accessibility_wifi_security_type_none">Otvorena mreža</string>
@@ -391,6 +395,7 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="easy_tether_statusbar_connect_fail_title_pad_talk_back">"Tablet, ne može se povezati"</string>
   <string name="easy_tether_statusbar_connect_fail_title_phone_talk_back">"Telefon, ne može se povezati"</string>
   <string name="easy_tether_statusbar_connect_title_car_talk_back">Vozilo, povezivanje…</string>
+  <string name="easy_tether_statusbar_connecting_title_car_talk_back">Vozilo, povezivanje…</string>
   <string name="easy_tether_statusbar_connecting_title_pad_talk_back">Tablet, povezivanje…</string>
   <string name="easy_tether_statusbar_connecting_title_phone_talk_back">Telefon, povezivanje…</string>
   <string name="easy_tether_statusbar_dialog_connected_title_car_talk_back">Vozilo, povezano</string>
@@ -477,6 +482,7 @@ Brži protokol veze."</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="get_target_info">Dohvaćanje informacija</string>
+  <string name="glasses_download_title">Instalirajte aplikaciju \"Xiaomi Smart Glasses\"</string>
   <string name="goto_package">Otvori %1$s</string>
   <string name="guest_exit_guest">Uklanjanje gosta</string>
   <string name="guest_new_guest">Dodavanje gosta</string>
@@ -644,6 +650,7 @@ Brži protokol veze."</string>
   <string name="mi_key_summary_open_camera">2x klik Mi Key za pokretanje Kamere</string>
   <string name="mi_key_summary_take_photo">1x klik Mi Key za snimanje fotografije</string>
   <string name="mi_key_take_photo">Snimi fotografiju</string>
+  <string name="mijia_glasses_download_title">Prvo instalirajte Mijia naočale</string>
   <string name="miheadset_notification_Box">Box</string>
   <string name="miheadset_notification_Disconnect">Prekini vezu</string>
   <string name="miheadset_notification_LeftEar">L</string>
@@ -661,6 +668,13 @@ Brži protokol veze."</string>
   <string name="mihome_update_title">Ažuriraj Xiaomi Home aplikaciju</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_accessibility_title">Naslov</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažet</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -678,6 +692,10 @@ Brži protokol veze."</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

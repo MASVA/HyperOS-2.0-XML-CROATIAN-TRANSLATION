@@ -3779,6 +3779,7 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_call_accept">Prihvaćam</string>
   <string name="wifi_call_available_message">"Sada možete upućivati pozive putem Wi-Fi-ja. Ako ste povezani s Wi-Fi mrežom, moći ćete razgovarati čak i kad se nalazite u područjima koja nemaju pokrivenost mobilnom mrežom."</string>
   <string name="wifi_call_available_message_for_ATT_MX">Povezat ćete se na Wi-Fi mrežu, kvaliteta poziva može varirati ovisno o mreži.</string>
+  <string name="wifi_call_available_message_DEO2">Ako je pokrivenost mobilnom mrežom slaba, a vaš je uređaj spojen na Wi-Fi, pozivi će se obavljati putem Wi-Fi mreže. Ovu postavku možete promijeniti na svom pametnom telefonu u bilo kojem trenutku. Ako imate bilo kakvih pitanja, obratite se svom davatelju mobilnih usluga.</string>
   <string name="wifi_call_available_title">Uključivanje Wi-Fi poziva</string>
   <string name="wifi_call_cancel">Više informacija</string>
   <string name="wifi_call_help">Pomoć</string>

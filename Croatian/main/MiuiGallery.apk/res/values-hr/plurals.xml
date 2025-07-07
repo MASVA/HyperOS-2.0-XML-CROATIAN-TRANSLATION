@@ -340,6 +340,10 @@
     <plurals name="half_hour_ago">
         <item quantity="other">Za pola sata</item>
     </plurals>
+	 <plurals name="hours_talkback">
+        <item quantity="one">%d sat</item>
+        <item quantity="other">%d sati</item>
+     </plurals>
     <plurals name="ignore_faces_alert_msg">
         <item quantity="other">"Ne prikazivati ove osobe?"</item>
         <item quantity="one">"Ne prikazivati ovu osobu?"</item>

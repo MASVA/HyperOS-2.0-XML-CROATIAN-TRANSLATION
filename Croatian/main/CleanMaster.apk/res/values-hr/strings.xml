@@ -288,6 +288,8 @@
   <string name="dc_storage_info_new">%1$s dostupno</string>
   <string name="deep_clean_completed_tips">Uspješno očišćeno</string>
   <string name="deep_clean_data_path_clean_title">Očisti predmemoriju</string>
+  <string name="deep_clean_down">Silazni redoslijed</string>
+  <string name="deep_clean_up">Uzlazni redoslijed</string>
   <string name="deep_clean_uninstall_completed_tips">Uspješno deinstalirano</string>
   <string name="deepclean_1_k_clean">Brzo čišćenje</string>
   <string name="deepclean_apk_content">Izbriši aplik. ili nepotrebne aplikacije</string>
@@ -323,6 +325,7 @@
   <string name="deepclean_title_uninstall_apps">Rijetko korištene aplikacije</string>
   <string name="deepclean_video_content">Izbriši već pregledane ili nepotrebne videozapise</string>
   <string name="deepclean_video_summary_empty">Sve izgleda dobro</string>
+  <string name="default_cache_type">Datoteke s podacima</string>
   <string name="delete_confirm">Izbriši</string>
   <string name="delete_confirm_msg">Izbrisati trajno sve odabrane datoteke?</string>
   <string name="delete_slected_data">Poništi</string>

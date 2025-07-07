@@ -41,6 +41,10 @@
         <item quantity="other">Odabrano %1$d stavki</item>
         <item quantity="one">Odabrana %1$d stavka</item>
     </plurals>
+	 <plurals name="content_description_document_sum">
+        <item quantity="one">Dokumenti, ukupno stranica: %s</item>
+        <item quantity="other">Dokumenti, ukupno stranica: %s</item>
+     </plurals>
     <plurals name="document_duplicate_data_tip">
         <item quantity="other">Uspješno uvezeno (filtrirano %1$d dvostrukih stavki)</item>
         <item quantity="one">Uspješno uvezeno (filtrirana %1$d dvostruka stavka)</item>

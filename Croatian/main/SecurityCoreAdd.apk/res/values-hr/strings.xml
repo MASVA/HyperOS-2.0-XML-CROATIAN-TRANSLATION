@@ -434,6 +434,12 @@ zatim povucite za pomicanje"</string>
   <string name="gb_gpu_pannel_touch_ctl_dialog_message">"Dodirne kontrole su ažurirane. Sada možete pronaći povezane značajke u Gaming prečacima &gt; Poboljšane dodirne kontrole dok igrate igrice."</string>
   <string name="gb_gpu_pannel_touch_ctl_dialog_title">Nove dodirne kontrole</string>
   <string name="gd_setting_title">Bočna traka</string>
+  <string name="genimi_wake_up_guide_know_v2">Ne, hvala</string>
+  <string name="genimi_wake_up_guide_press_power_and_volume_up_message_v2">Pritisnite tipke za uključivanje/isključivanje i pojačavanje glasnoće da biste isključili uređaj</string>
+  <string name="genimi_wake_up_guide_press_power_key_message_for_assistant_v2">Pritisnite i držite tipku za uključivanje/isključivanje %ss da biste pristupili Pomoćniku</string>
+  <string name="genimi_wake_up_guide_press_power_key_message_for_gemini_v2">Pritisnite i držite tipku za uključivanje/isključivanje %ss da biste pristupili Geminiju</string>
+  <string name="genimi_wake_up_guide_settings_v2">Prijeđi na Postavke</string>
+  <string name="genimi_wake_up_guide_title_v2">Nadograđene opcije tipke za uključivanje/isključivanje</string>
   <string name="genimi_wake_up_guide_know">Razumijem</string>
   <string name="genimi_wake_up_guide_press_power_and_volume_up_message">Pritisnite tipke za uključivanje/isključivanje i pojačavanje zvuka za isključivanje ili ponovno pokretanje</string>
   <string name="genimi_wake_up_guide_press_power_key_message">Pritisnite i držite tipku za uključivanje/isključivanje za %ss, zatim otpustite za pristup Geminiju</string>
@@ -790,6 +796,7 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="miui_desktop_mode_settings_title">Radna stanica</string>
   <string name="miui_desktop_mode_video_description">Dodirnite ikone aplikacija na docku za otvaranje aplikacija u plutajućim prozorima. Možete uključiti i isključiti način rada radne stanice u centru za kontrolu.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
@@ -977,6 +984,9 @@ Inače možda nećete moći unijeti drugi razmak sa zaključanog zaslona."</stri
   <string name="power_off_press_power_and_volume_up_message">Pritisnite tipke za uključivanje/isključivanje i pojačavanje zvuka</string>
   <string name="power_off_press_power_key_message">Pritisnite i držite gumb za uključivanje %ss</string>
   <string name="power_off_title">Isključite ili ponovno pokrenite</string>
+  <string name="power_off_press_power_and_volume_up_message_v2">Istovremeno pritisnite tipke za uključivanje/isključivanje i pojačavanje glasnoće</string>
+  <string name="power_off_press_power_key_message_v2">Pritisnite i držite tipku za uključivanje/isključivanje %ss</string>
+  <string name="power_off_title_v2">Isključivanje</string>
   <string name="pref_volume_launch_camera_summary">Pritisnite tipku za smanjivanje glasnoće dvaput za pokretanje kamere</string>
   <string name="pref_volume_launch_camera_title">Pokreni kameru</string>
   <string name="pref_volume_wake_summary">Pritisak na tipke za glasnoću budi uređaj</string>
@@ -1284,6 +1294,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="title_backup_and_recovery">Sigurnosno kopiranje i vraćanje</string>
   <string name="title_choose_app_status">Odaberite vrstu aplikacije</string>
   <string name="title_switch_file">Izbrisati ove datoteke?</string>
   <string name="title_switch_photo">Izbrisati ove fotografije?</string>

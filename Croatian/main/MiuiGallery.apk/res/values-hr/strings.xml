@@ -908,6 +908,13 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="desc_gallery_widget_editor_font_type_list">Font</string>
   <string name="desc_gallery_widget_editor_selected_photo_list">Odabrane slike</string>
   <string name="desc_gallery_widget_editor_text_position_list">Izgled</string>
+  <string name="desc_gallery_widget_editor_font_color_blue">Plava</string>
+  <string name="desc_gallery_widget_editor_font_color_bright_green">Svijetlo zelena</string> 
+  <string name="desc_gallery_widget_editor_font_color_cyan">Cijan</string> 
+  <string name="desc_gallery_widget_editor_font_color_gray">Siva</string> 
+  <string name="desc_gallery_editor_font_color_light_blue">Svijetloplava</string> 
+  <string name="desc_gallery_editor_font_color_light_green">Svijetlozelena</string>
+  <string name="desc_gallery_widget_editor_font_color_orange">Narančasta</string>
   <string name="desc_gallery_widget_editor_font_color_black">Crna</string>
   <string name="desc_gallery_editor_font_color_blue">Plava</string> 
   <string name="desc_gallery_editor_font_color_bright_green">Svijetlo zelena</string>
@@ -1409,7 +1416,7 @@ za fotografije"</string>
   <string name="global_cloud_action_upgrade_onedrive">Nadogradite OneDrive</string>
   <string name="global_cloud_full_space_tip_message">Nadogradite svoj plan pohrane da biste mogli sigurnosno kopirati sve svoje fotografije i videozapise u cloud.</string>
   <string name="global_help">"Ne mogu pronaći uređaj"</string>
-<string name="global_my">"Moj uređaj
+  <string name="global_my">"Moj uređaj
 %1$s"</string>
   <string name="global_trash_vip_info_text_login_medium_or_low_level">"Izbrisane stavke za koje je napravljena sigurnosna kopija mogu ostati u cloudu do %1$s dana. Stavke za koje nije napravljena sigurnosna kopija bit će zadržane do %2$s dana. "</string>
   <string name="google_banner_back_stop">Sigurnosno kopiranje je zaustavljeno</string>
@@ -1471,6 +1478,7 @@ za fotografije"</string>
   <string name="help">"Ne možete pronaći uređaje?"</string>
   <string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da uključi Xiaomi Share."</string>
   <string name="hidden_album_display_name">Skriveni album</string>
+  <string name="hide">Sakrij</string>
   <string name="hide_nearby_photos">Sakrij fotografije i videozapise u blizini</string>
   <string name="holiday_travel_title_one">%1$s odmor</string>
   <string name="holiday_travel_title_two">Natrag na posao</string>

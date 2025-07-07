@@ -231,6 +231,10 @@
         <item quantity="one">odabrana %d stavka</item>
         <item quantity="few">odabrano %d stavki</item>
     </plurals>
+	 <plurals name="miuix_indexer_selected">
+        <item quantity="one">Odabrano %1$d stavki</item>
+        <item quantity="other">Odabrana %1$d stavka</item>
+     </plurals>
 	<plurals name="not_authenticated_devices">
         <item quantity="other">Ukupno imate %s nepouzdanih uređaja.</item>
         <item quantity="one">Ukupno imate %s nepouzdani uređaj.</item>

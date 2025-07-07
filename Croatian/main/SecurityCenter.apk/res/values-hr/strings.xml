@@ -814,7 +814,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="applock_add_account_setting">račun &amp; privatnost</string>
   <string name="applock_add_account_tips">"Pomoću Xiaomi računa, moći ćete vratiti vaš Zaklj. aplikacija ako ga zaboravite."</string>
   <string name="applock_add_account_title">Dodajte svoj Xiaomi račun</string>
-  <string name="applock_add_account_title_part">Dodajte svoj Mi račun kako biste mogli poništiti lozinku</string>
+  <string name="applock_add_account_title_part">Dodajte svoj Mi račun kako biste mogli poništiti zaporku</string>
   <string name="applock_already_add_account">Trenutni račun: %s</string>
   <string name="applock_app_recommend_lock_title">Možete zaključati sljedeće aplikacije</string>
   <string name="applock_bind_account_dialog_content">Vaš Xiaomi račun jedini je način za vraćanje Zaklj. aplikacija u slučaju da ga zaboravite. Prijavite se da biste dodali svoj Xiaomi račun.</string>
@@ -866,6 +866,12 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="applock_operate_fingerprint_title">Upotrijebite otisak prsta</string>
   <string name="applock_operate_hidenoti_summary">Zaklj. aplikacija to može učiniti za zaštićene aplikacije</string>
   <string name="applock_operate_hidenoti_title">Želite li sakriti osjetljive obavijesti?</string>
+  <string name="applock_password_set_luck_button">Postavke</string>
+  <string name="applock_password_set_luck_comment">Morate postaviti zaključavanje zaslona da biste koristili privatne značajke na ovom uređaju.</string>
+  <string name="applock_password_set_luck_message">"Za siguran pristup privatnim značajkama na vašem uređaju, Xiaomi HyperOS prema zadanim postavkama koristi zaključavanje zaslona za provjeru identiteta.
+
+Ako još niste postavili zaključavanje zaslona, ​​slijedite upute za postavljanje."</string>
+  <string name="applock_password_set_luck_title">Prvo postavite zaključavanje zaslona</string>
   <string name="applock_recommend_tips">%s korisnika štiti ove aplikacije</string>
   <string name="applock_recommend_title">Odaberite aplikacije</string>
   <string name="applock_set_complete">Upotrijebite Zaklj. aplikacija</string>
@@ -1254,6 +1260,22 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bind_xiaomi_account_success">Xiaomi račun uspješno dodan</string>
   <string name="bind_xiaomi_account_summary">Koristite Xiaomi račun za poništavanje zaporke</string>
   <string name="bind_xiaomi_account_title">Dodaj Xiaomi račun</string>
+  <string name="biometric_applock_password_lockout_title">Previše neuspješnih pokušaja</string>
+  <string name="biometric_applock_pwd">Provjera zaključavanjem aplikacije</string>
+  <string name="biometric_applock_pwd_or_finger">Potvrdi otiskom prsta ili zaključavanjem aplikacije</string>
+  <string name="biometric_face_error">"Nije moguće provjeriti"</string>
+  <string name="biometric_face_finger_change">Biometrijski podaci su se promijenili. Unesite zaporku za potvrdu.</string>
+  <string name="biometric_finger_verify">Potvrda otiska prsta</string>
+  <string name="biometric_lockscreen_pwd">Potvrda zaključavanja zaslona</string>
+  <string name="biometric_lockscreen_pwd_or_finger">Potvrda otiskom prsta ili zaključavanjem zaslona</string>
+  <string name="biometric_private_password">Potvrda lozinke za zaštitu privatnosti</string>
+  <string name="biometric_private_password_lockout_title">Previše neuspješnih pokušaja</string>
+  <string name="biometric_private_pwd_or_finger">Potvrda otiskom prsta ili lozinkom za zaštitu privatnosti</string>
+  <string name="biometric_reset_password_tips">Zaporka uspješno resetirana. Unesite novu zaporku za otključavanje.</string>
+  <string name="biometric_screen_lock_password_lockout_title">Previše neuspješnih pokušaja</string>
+  <string name="biometric_subtitle">Za otvaranje %1$s</string>
+  <string name="biometric_subtitle_default">Potvrdite svoj identitet</string>
+  <string name="biometric_verify_retry">Pokušajte ponovno</string>
   <string name="birthday">Rođendan</string>
   <string name="bl_no_blacklist">Nema blokiranih brojeva.</string>
   <string name="bl_no_block_call">Nema blokiranih poziva.</string>
@@ -1419,6 +1441,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="car_sickness_relief_comment_text">Kada se detektira kretanje vozila, točkice se prikazuju na obje strane zaslona kako bi pokazale da li se vozilo kreće, što može pomoći u odgađanju pojave mučnine.</string>
   <string name="car_sickness_relief_example_text_1">Kada vozilo ubrzava ili usporava</string>
   <string name="car_sickness_relief_example_text_2">Kada vozilo skreće ili mijenja trak</string>
+  <string name="car_sickness_relief_exit_text">Ublažavanje mučnine od putovanja prestalo je djelovati</string>
+  <string name="car_sickness_relief_start_text">Ublažavanje mučnine od putovanja djeluje</string>
   <string name="car_sickness_remind_time_title">Indikatori kretanja</string>
   <string name="car_sickness_title">Olakšanje od mučnine</string>
   <string name="cancle">Odustani</string>
@@ -2095,6 +2119,15 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="ew_action_subscribed">Pretplaćen</string>
   <string name="ew_action_subscribed_area">Pretplaćene regije</string>
   <string name="ew_action_unsubscribe">Otkaži pretplatu</string>
+  <string name="ew_car_accident_call_self">Preuzmi poziv</string>
+  <string name="ew_emergency_date_format">dd.MM.gggg</string>
+  <string name="ew_emergency_gender_text">Datum poroda: %s</string>
+  <string name="ew_emergency_gender_title">Trudna</string>
+  <string name="ew_guide_start_find_area">Traži područja</string>
+  <string name="ew_main_subscribe_city">Pretplati se na gradove</string>
+  <string name="ew_merge_contact_button">Shvatam</string>
+  <string name="ew_merge_contact_message">Vaši kontakti za hitne slučajeve iz hitnih poziva i upozorenja na potres su spojeni.</string>
+  <string name="ew_merge_contact_title">Spoji kontakte za hitne slučajeve</string>
   <string name="ew_contact_dialog_tips">Dodajte najmanje jedan kontakt za hitne slučajeve.</string>
   <string name="ew_contact_dialog_title">Pažnja</string>
   <string name="ew_current_location">Trenutačna lokacija</string>
@@ -2657,6 +2690,8 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="game_toolbox_slow_charge_positive_btn">Uključi</string>
   <string name="game_toolbox_slow_charge_title">Sporo punjenje</string>
   <string name="game_toolbox_slow_charge_toast">Sporo punjenje je uključeno</string>
+  <string name="game_toolbox_smotion_vibrate_close_toast">"Haptička povratna informacija ne radi s originalnim rasporedima. Haptička povratna informacija je isključena."</string>
+  <string name="game_toolbox_smotion_vibrate_conflic_toast">"Haptička povratna informacija ne radi s originalnim rasporedima"</string>
   <string name="game_toolbox_smotion_vibrate_desc">Dodajte haptičku povratnu informaciju u skladu s potezima u igri. Podržane su samo neke igre.</string>
   <string name="game_toolbox_smotion_vibrate_title">Haptička povratna informacija</string>
   <string name="game_toolbox_super_follow_up_msg">Poboljšajte reakciju na dodir i praćenje kroz cijeli hardversko-softverski cjevovod</string>
@@ -3637,6 +3672,7 @@ da se pridružite našem lovu na jaja!"</string>
 podatkovnu vezu"</string>
   <string name="main_balance_check">Provjerite stanje</string>
   <string name="main_bill_remained">Stanje računa</string>
+  <string name="main_bill_out_talkback">Negativno stanje %1$.2f</string>
   <string name="main_button_mi_sim_close">Aktiviraj Mi SIM</string>
   <string name="main_button_mi_sim_open">Prikaz detalja</string>
   <string name="main_button_usage_adjust">Sinkr. uporabe podataka</string>
@@ -3744,6 +3780,25 @@ podatkovnu vezu"</string>
   <string name="material_timepicker_pm">PM</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+  <string name="medical_info_category_title_medical">Medicinske informacije</string>
+  <string name="medical_info_category_title_persion">Osnovne informacije</string>
+  <string name="medical_info_sp_title_height">Visina</string>
+  <string name="medical_info_sp_title_weight">Težina</string>
+  <string name="medical_info_unknow_contact">Nepoznati kontakt</string>
+  <string name="medical_sp_blood_type_title">Krvna grupa</string>
+  <string name="medical_sp_category_title_address">Kućna adresa</string>
+  <string name="medical_sp_category_title_medicine">Lijekovi</string>
+  <string name="medical_sp_edit_hint_address">Pružanje vaše adrese pomoći će hitnim službama da kontaktiraju vašu obitelj i prijatelje</string>
+  <string name="medical_sp_edit_hint_allergy">Poznavanje vaše povijesti alergija pomaže hitnim službama da vas sigurnije liječe</string>
+  <string name="medical_sp_edit_hint_medical">Poznavanje vaših drugih zdravstvenih stanja omogućuje hitnim službama da pruže bolju skrb</string>
+  <string name="medical_sp_edit_hint_medicine">Zabilježavanje lijekova omogućuje hitnim službama da vas sigurnije liječe</string>
+  <string name="medical_sp_expectedDate_title">Datum poroda</string>
+  <string name="medical_sp_gender_title">Spol</string>
+  <string name="medical_sp_height_title">Visina (cm)</string>
+  <string name="medical_sp_pregent_title">Trudna</string>
+  <string name="medical_sp_text_not_add">Nije dodano</string>
+  <string name="medical_sp_text_not_setting">Nije postavljeno</string>
+  <string name="medical_sp_weight_title">Težina (kg)</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_check_content">Oslobođeno %s</string>
@@ -4471,6 +4526,10 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pay_charge">Kupite dodatne podatke</string>
   <string name="pc_18W_high_power_reverse_charging_summary">Punite brže uz obrnuto punjenje velike snage. USB veza služi samo za punjenje.</string>
   <string name="pc_18W_high_power_reverse_charging_title">Obrnuto punjenje</string>
+  <string name="pc_18W_high_power_reverse_charging_summary_new">Brže punjenje uz snažno obrnuto punjenje.</string>
+  <string name="pc_remove_shell_charging_notification_msg">"Bežično punjenje nije moguće kada koristite kućište za igranje. Uklonite ga i pokušajte ponovno ili koristite žičano punjenje."</string>
+  <string name="pc_remove_shell_charging_notification_title">Uklonite kućište za bežično punjenje</string>
+  <string name="pc_remove_shell_charging_toast">Uklonite kućište za bežično punjenje</string>
   <string name="pc_abnormal_scan_button_text">Zatvori aplikacije</string>
   <string name="pc_abnormal_scan_reason_prevent_standby">Sprječava ulazak sustava u stanje pripravnosti</string>
   <string name="pc_abnormal_scan_reason_reconnect">Prečesto se pokušava povezivati s mrežom</string>
@@ -5609,15 +5668,16 @@ Način otpornosti na hladnoću"</string>
   <string name="pref_more_traffic_settings">Dodatne postavke</string>
   <string name="pref_new_installed_preconfig_title">"Zadane postavke novih aplikacija"</string>
   <string name="pref_normal_traffic_limit">Kada se potroši plan podataka</string>
-  <string name="pref_open_adjust_traffic">"Ažuriraj uporabu podataka svakodnevno koristeći statistiku svog mobilnog operatera"</string>
-  <string name="pref_operator_not_set">"Operater nije postavljen"</string>
-  <string name="pref_over_traffic_limit">Kada premašite plan podataka</string>
   <string name="pref_package_traffic_leisure">%1$s 
 Isklj. maks.: %2$s</string>
   <string name="pref_package_traffic_normal">Maks.: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatno: %2$s</string>
   <string name="pref_package_traffic_settings">Podatkovni plan</string>
   <string name="pref_pkg_begin_date">Datum resetiranja uporabe</string>
+  <string name="pref_physical_sim_self_detection_cat_title">Obnova mreže</string>
+  <string name="pref_open_adjust_traffic">"Ažuriraj uporabu podataka svakodnevno koristeći statistiku svog mobilnog operatera"</string>
+  <string name="pref_operator_not_set">"Operater nije postavljen"</string>
+  <string name="pref_over_traffic_limit">Kada premašite plan podataka</string>
   <string name="pref_roaming_daily_limit_setting">Postavite dnevno ograničenje podataka za roaming</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Dnevno ograničenje podataka</string>
   <string name="pref_roaming_setting_gategory">Postavke</string>
@@ -5638,6 +5698,7 @@ Isklj. maks.: %2$s</string>
   <string name="pref_title_manual_check_virus_db_update">Provjeri za ažuriranja</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke korištenja dok je uređaj bio zaključan</string>
   <string name="pref_title_network_diagnostics">Testiranje mreže</string>
+  <string name="pref_title_physical_sim_self_detection">Provjera fizičke SIM kartice</string>
   <string name="pref_title_over_traffic_limit_warning">Kada je premašeno</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_package_type">Vrsta plana podataka</string>
@@ -5800,6 +5861,35 @@ Isklj. maks.: %2$s</string>
   <string name="privacy_notification_title_mic">%1s koristi mikrofon u pozadini</string>
   <string name="privacy_other_permission_manage_summary">Upravljajte ostalim dopuštenjima vezanim za privatnost</string>
   <string name="privacy_other_permission_manage_title">Ostala dopuštenja</string>
+  <string name="privacy_custom_password_long">Unesite do %d znamenki</string>
+  <string name="privacy_custom_password_too_short">Unesite barem %d znamenki</string>
+  <string name="privacy_extra_provision_require_permission">· %1$s (%2$s)</string>
+  <string name="privacy_hybrid_password_long">Unesite do %d znakova</string>
+  <string name="privacy_hybrid_password_too_short">Unesite barem %d znakova</string>
+  <string name="privacy_password_chanage_process">Promijeni zaporku za zaštitu privatnosti</string>
+  <string name="privacy_password_custom_password">Prilagođeni PIN</string>
+  <string name="privacy_password_digital_password">%d-znamenkasti PIN</string>
+  <string name="privacy_password_enter_custom_password">Unesite svoj %1$d–%2$d-znamenkasti PIN</string>
+  <string name="privacy_password_enter_custom_password_again">Ponovno unesite PIN</string>
+  <string name="privacy_password_enter_custom_password_not_match">"PIN-ovi se ne podudaraju"</string>
+  <string name="privacy_password_enter_digital_password">Unesite svoj %d-znamenkasti PIN</string>
+  <string name="privacy_password_enter_digital_password_again">Ponovno unesite svoj %d-znamenkasti PIN</string>
+  <string name="privacy_password_enter_graphic_password">Nacrtajte uzorak za otključavanje. Spojite barem %d točaka.</string>
+  <string name="privacy_password_enter_hybrid_password">Unesite svoju zaporku od %1$d–%2$d znakova</string>
+  <string name="privacy_password_enter_hybrid_password_again">Ponovno unesite zaporku</string>
+  <string name="privacy_password_enter_hybrid_password_invalid">"Zaporka ne smije sadržavati nevažeće znakove"</string>
+  <string name="privacy_password_enter_hybrid_password_not_match">"Zaporke se ne podudaraju"</string>
+  <string name="privacy_password_graphic_password">Uzorak</string>
+  <string name="privacy_password_hybrid_password">Zaporka</string>
+  <string name="privacy_password_other_password">Druga zaporka</string>
+  <string name="privacy_password_setup_confirm">U redu</string>
+  <string name="privacy_password_setup_hint">Unesite svoju zaporku</string>
+  <string name="privacy_password_setup_next">Sljedeće</string>
+  <string name="privacy_password_setup_not_match">Pokušajte ponovno</string>
+  <string name="privacy_password_setup_process">Postavite zaporku za zaštitu privatnosti</string>
+  <string name="privacy_password_update_type">Odaberite vrstu zaporke</string>
+  <string name="privacy_screen_share_notification_land_protect_sub_title">Zaštita vaše privatnosti</string>
+  <string name="privacy_screen_share_notification_land_title">Dijeljenje zaslona</string>
   <string name="privacy_permission_call">Pristup ili uređivanje povijesti poziva</string>
   <string name="privacy_permission_call_title">Zaštitite pozive</string>
   <string name="privacy_permission_camera_title">Ograniči korištenje kamere u pozadini</string>
@@ -5961,6 +6051,10 @@ Povući suglasnost sada?"</string>
   <string name="privacy_using_record">Snimanje zvuka</string>
   <string name="privacyapp_number_masked_text">Sadržaj obavijesti je skriven</string>
   <string name="privacyapp_number_unmasked_text">Sadržaj obavijesti nije skriven</string>
+  <string name="private_file">Privatne datoteke</string>
+  <string name="private_note">Skrivene bilješke</string>
+  <string name="private_photo">Privatni album</string>
+  <string name="private_sms">Privatne poruke</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
   <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Oglas</string>
@@ -6472,6 +6566,7 @@ Povući suglasnost sada?"</string>
   <string name="sp_empty_title_sign_exception">Držite aplikaciju da je dodate u iznimke</string>
   <string name="sp_eew_summary">Upozorenje o nadolazećim potresima</string>
   <string name="sp_eew_title">Upozorenje potresa</string>
+  <string name="sp_emergency_contact_title">Kontakti za hitne slučajeve</string>
   <string name="sp_family_guard_summary">Pružite pomoć na daljinu</string>
   <string name="sp_family_guard_title">Family Guard</string>
   <string name="sp_find_device_summary">Pronađite svoj uređaj na daljinu</string>
@@ -7557,7 +7652,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_saving_whitelist_btn_removed">Aplikacija uklonjena s popisa</string>
   <string name="traffic_saving_whitelist_count">"Aplikacija bez ograničenja uporabe podataka: %d"</string>
   <string name="traffic_saving_whitelist_no_app">Nema aplikacija</string>
-  <string name="traffic_saving_wifi_usage">Wi-Fi uporaba</string>
+  <string name="traffic_saving_wifi_usage">Korištenje Wi-Fi-ja</string>
+  <string name="traffic_select_dialog_title">Odaberi operatera</string>
   <string name="traffic_setting_app_count">Aplik.: %d</string>
   <string name="traffic_setting_completed">U redu</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Prilagodite uporabu i ograničenje podataka</string>
@@ -7885,6 +7981,30 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="warningcenter_alert_source">HyperOS Centar za upozoravanje | Izvor podataka: %s</string>
   <string name="warningcenter_alert_time">Vrijeme</string>
   <string name="warningcenter_alert_warning_time">Vrijeme primitka: %s</string>
+  <string name="warning_car_accident_alert_call_text">Poziv u nuždi</string>
+  <string name="warning_car_accident_alert_cancel_text">Otkaži</string>
+  <string name="warning_car_accident_alert_countdown_text">Vaš će uređaj automatski pozvati 120 nakon što odbrojavanje završi</string>
+  <string name="warning_car_accident_alert_fine_text">"Dobro sam"</string>
+  <string name="warning_car_accident_alert_option_item_call">Pozvan 120</string>
+  <string name="warning_car_accident_alert_option_item_contats">Obaviješteni kontakti za hitne slučajeve</string>
+  <string name="warning_car_accident_alert_option_item_time">Otkrivena prometna nesreća u %s</string>
+  <string name="warning_car_accident_alert_text_to_speak">"Vaš je uređaj otkrio da Možda ste doživjeli prometnu nesreću. Ako ne odgovorite prije kraja odbrojavanja, automatski će se pozvati hitne službe."</string>
+  <string name="warning_car_accident_alert_top_text">Jeste li doživjeli prometnu nesreću?</string>
+  <string name="warning_car_accident_alert_waiting_rescue">Čekanje pomoći…</string>
+  <string name="warning_car_accident_comment_text">"Kako funkcionira:
+Kada vaš uređaj otkrije da se dogodila prometna nesreća, vibrirat će i oglasiti podsjetnik punom glasnoćom kako bi vas pitao trebate li pomoć.
+Ako naznačite da vam je potrebna pomoć ili ne odgovorite, vaš uređaj će birati broj za hitne slučajeve (zadano je 120) i poslati tekstualnu poruku vašim kontaktima u hitnim slučajevima.
+Imajte na umu da sustav ne može otkriti sve prometne nesreće."</string>
+  <string name="warning_car_accident_dialog_message">"Ako isključite ovu značajku, vaš uređaj više neće automatski upućivati ​​hitne pozive kada otkrije da ste sudjelovali u prometnoj nesreći. Želite li svejedno isključiti?"</string>
+  <string name="warning_car_accident_dialog_negative_text">Isključi</string>
+  <string name="warning_car_accident_dialog_positive_text">Nastavi</string>
+  <string name="warning_car_accident_dialog_title">Isključiti otkrivanje prometne nesreće?</string>
+  <string name="warning_car_accident_open_dialog_text"><Data>Pročitajte i prihvatite &lt;a href=%s>Pravila o privatnosti za otkrivanje prometne nesreće&lt;/a> prije nego što nastavite</Data></string>
+  <string name="warning_car_accident_privay_revoke_dialog_message">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti za otkrivanje prometne nesreće. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisano u navedenom roku u skladu s važećim zakonima i propisima. Budući da detekcija prometnih nesreća pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje privole smatrat će se odbijanjem prihvaćanja usluga detekcije prometnih nesreća. Želite li odmah povući privolu?</string>
+  <string name="warning_car_accident_privay_revoke_text">Povlačenje suglasnosti</string>
+  <string name="warning_car_accident_title">Otkrivanje prometnih nesreća</string>
+  <string name="warning_view_demo_text">Pogledajte demo</string>
+  <string name="warningcenter_accurate_area_title">Pogođeno područje</string>
   <string name="warningcenter_disaster_search_keywords">Upozorenja vremena</string>
   <string name="warningcenter_disaster_all">Sva upozorenja</string>
   <string name="warningcenter_disaster_area_search_hint">Unesite regiju</string>

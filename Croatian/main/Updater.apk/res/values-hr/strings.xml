@@ -16,6 +16,7 @@
   <string name="abc_searchview_description_search">Pretraživanje</string>
   <string name="abc_searchview_description_submit">Pošalji upit</string>
   <string name="abc_searchview_description_voice">Glasovna pretraga</string>
+  <string name="abc_search_hint">Traži…</string>
   <string name="abc_shareactionprovider_share_with">Podijeli s</string>
   <string name="abc_shareactionprovider_share_with_application">Podijeli s %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>

@@ -248,6 +248,10 @@
         <item quantity="one">%d se aplikacija ne može povezati s mrežom u pozadini</item>
         <item quantity="few">%d se aplikacija ne može povezati s mrežom u pozadini</item>
     </plurals>
+	 <plurals name="biometric_too_many_failed_confirmation_attempts_footer">
+        <item quantity="one">Pokušajte ponovno za %d sekundi</item>
+        <item quantity="other">Pokušajte ponovno za %d sekundu</item>
+     </plurals>
     <plurals name="cache_check_content">
         <item quantity="other">Štitim %d aplik.</item>
         <item quantity="one">Štitim %d aplik.</item>
@@ -299,12 +303,12 @@ Ako ponovo uključite mobilne podatke, vaš mobilni operater može vam naplatiti
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Premotavanje unaprijed za %d sekundi</item>
         <item quantity="one">Premotavanje unaprijed za %d sekundu</item>
-        <item quantity="few">Premotavanje unaprijed za %d sekunde</item>
+        <item quantity="few">Premotavanje unaprijed za %d sekundi</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Premotavanje unatrag za %d sekundi</item>
         <item quantity="one">Premotavanje unatrag za %d sekundu</item>
-        <item quantity="few">Premotavanje unatrag za %d sekunde</item>
+        <item quantity="few">Premotavanje unatrag za %d sekundi</item>
     </plurals>
     <plurals name="extreme_mode_runtime_hour">
         <item quantity="other">%s hrs</item>
@@ -672,6 +676,22 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">%d drugih korisnika je označilo kao</item>
         <item quantity="one">%d drugi korisnik je označio kao</item>
     </plurals>
+	 <plurals name="medical_info_person_age">
+        <item quantity="one">%d godina</item>
+        <item quantity="other">%d godina</item>
+     </plurals>
+     <plurals name="medical_info_sp_text_height">
+        <item quantity="one">%d cm</item>
+        <item quantity="other">%d cm</item>
+     </plurals>
+     <plurals name="medical_info_sp_text_weight">
+        <item quantity="one">%d kg</item>
+        <item quantity="other">%d kg</item>
+     </plurals>
+     <plurals name="medical_sp_emergency_contact_text">
+        <item quantity="one">%d</item>
+        <item quantity="other">%d</item>
+     </plurals>
     <plurals name="menu_text_antispam_ex">
         <item quantity="other">%d poruka i poziva bili su blokirani</item>
         <item quantity="one">%d poruke i poziv bili su blokirani</item>

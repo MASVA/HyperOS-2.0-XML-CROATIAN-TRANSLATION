@@ -222,6 +222,11 @@
   <string name="accessibility_qs_edit_tile_removed">Kartica %1$s uklonjena</string>
   <string name="accessibility_qs_edit_tile_start_add">Dodavanje kartice</string>
   <string name="accessibility_qs_edit_tile_start_move">Premještanje kartice</string>
+  <string name="accessibility_qs_item_drag">Povlačenje stavke</string>
+  <string name="accessibility_qs_position_hint">Postavljeno u redak %1$d, stupac %2$d</string>
+  <string name="accessibility_quick_settings_bluetooth_restricted">Veza ograničena</string>
+  <string name="accessibility_quick_settings_page_indicator">Indikator stranice</string>
+  <string name="accessibility_recent_button">Gumb izbornika</string>
   <string name="accessibility_quick_settings_alarm">Vrijeme alarma: %s.</string>
   <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
   <string name="accessibility_quick_settings_bluetooth_device_tap_to_activate">aktiviraj</string>
@@ -1196,6 +1201,7 @@ Isključite tipkom za napajanje."</string>
   <string name="guest_wipe_session_title">Dobro došli natrag, gostu!</string>
   <string name="guest_wipe_session_wipe">Počni ispočetka</string>
   <string name="gxzw_area">Skener otiska prsta</string>
+  <string name="gxzw_icon_access_tips">Ikona otiska prsta</string>
   <string name="gxzw_press_harder">Pritisnite malo jače</string>
   <string name="gxzw_quick_close">Zatvori</string>
   <string name="gxzw_quick_open_add_event">Dodaj događaj</string>

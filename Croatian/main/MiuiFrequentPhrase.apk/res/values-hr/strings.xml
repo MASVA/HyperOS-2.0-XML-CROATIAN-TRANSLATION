@@ -27,6 +27,10 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string> 
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string> 
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string> 
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="across_device_file_temp_name">Kopirane datoteke</string>
   <string name="across_device_image_temp_name">Kopirane slike</string>
   <string name="across_device_videos_temp_name">Kopirani videozapisi</string>
@@ -107,6 +111,13 @@
   <string name="menu_add_frequent_phrases">Dodaj</string>
   <string name="menu_delete">Izbriši</string>
   <string name="menu_edit">Uredi</string>
+  <string name="miuix_accessibility_title">Naslov</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -134,6 +145,10 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -179,6 +194,9 @@
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
   <string name="open_the_url">Otvori poveznicu</string>
+  <string name="phrase_edit_cancel_select_all_button">Poništi odabir</string>
+  <string name="phrase_edit_select_all_button">Odaberi sve</string> 
+  <string name="phrase_edit_select_all_cancel_button">Odustani</string>
   <string name="phrase_network_tip_summary">Da biste mogli sinkronizirati svoje česte fraze s cloudom i koristiti ih na svim svojim uređajima, dopustite ovoj aplikaciji da se poveže s internetom.</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>

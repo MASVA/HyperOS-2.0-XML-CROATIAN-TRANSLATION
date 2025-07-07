@@ -342,6 +342,7 @@
   <string name="desc_paper_white_talkback">Bijela</string>
   <string name="desc_paper_yellow_talkback">Žuta</string>
   <string name="delete_folder_dialog_tile">Izbriši mapu</string>
+  <string name="delete_talkback">Izbriši</string>
   <string name="dialog_button_cancel">Odustani</string>
   <string name="dialog_button_close">Zatvori</string>
   <string name="dialog_button_confirm">U redu</string>
@@ -587,11 +588,14 @@ Dodirnite + da napravite mapu"</string>
   <string name="menu_folders">Mape</string>
   <string name="menu_group">Izradi mapu</string>
   <string name="menu_hide">Sakrij</string>
+  <string name="menu_hide_talkback">Postavi kao privatno</string>
   <string name="menu_mark_privacy">Sakrij</string>
   <string name="menu_more_description">Više</string>
   <string name="menu_move_parent_folder">Starija mapa</string>
   <string name="menu_move_to">Premjesti u</string>
+  <string name="menu_move_to_talkback">Premjesti u</string>
   <string name="menu_new_folder">Nova mapa</string>
+  <string name="menu_pin_talkback">Prikvači na vrh</string>
   <string name="menu_restore">Vrati</string>
   <string name="menu_send_as_image">Pošalji kao sliku</string>
   <string name="menu_send_as_text">Pošalji kao tekst</string>
@@ -824,8 +828,10 @@ Dodirnite + da napravite mapu"</string>
   <string name="new_audio_create_guide_tip">Pritisnite i držite za stvaranje glasovne bilješke</string>
   <string name="new_audio_create_talkback_des">Dodirnite za stvaranje tekstualne bilješke. Pritisnite i držite za stvaranje glasovne bilješke. Otpustite tipku da zaustavite snimanje i izradite bilješku ili povucite prema gore da odustanete.</string>
   <string name="new_data_empty_note">Ovdje još nema stavki</string>
+  <string name="new_notes_create_talkback_des">Dodirnite za izradu bilješke</string>
   <string name="new_lite_audio_create_talkback_des">Dodirnite za izradu bilješke</string>
   <string name="new_sync_desc_state_disable">Uključite sinkronizaciju u cloudu za bilješke, zadatke i više</string>
+  <string name="new_todo_create_talkback_des">Dodirnite za izradu zadatka</string>
   <string name="no_network">"Ne mogu se povezati s mrežom"</string>
   <string name="not_now">Ne sada</string>
   <string name="not_set">Nije postavljeno</string>

@@ -344,7 +344,6 @@ Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</s
   <string name="ks_fingerprint_status">Status plaćanja</string>
   <string name="ks_name_alipay">IFAA</string>
   <string name="ks_name_fido">FIDO</string>
-  <string name="ks_name_high_precise_position">high precise position</string>
   <string name="ks_name_keybox">Keybox</string>
   <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
   <string name="ks_name_soter">Soter</string>
@@ -617,6 +616,8 @@ Provjerite koristite li povezani Xiaomi račun kao svoj MIUI račun."</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izađi iz načina uređivanja</string>
   <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
@@ -648,6 +649,8 @@ Provjerite koristite li povezani Xiaomi račun kao svoj MIUI račun."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>

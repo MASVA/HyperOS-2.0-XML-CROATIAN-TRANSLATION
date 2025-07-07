@@ -61,6 +61,7 @@
   <string name="aggregation_suggestion_join_dialog_message">Pridružiti trenutačni kontakt odabranom kontaktu?</string>
   <string name="ai_calllog_call_record_menu">AI snimanje poziva</string>
   <string name="all_list_empty">Nema kontakata</string>
+  <string name="all_selected">Odabrano sve</string>
   <string name="am">AM</string>
   <string name="antispam_mark_my_contribution">"Pokaži drugim korisnicima da sam prijavio ovaj broj."</string>
   <string name="attach_photo_dialog_title">Kontakt fotografija</string>
@@ -894,7 +895,6 @@ Razlog: \"%s\""</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
   <string name="more_call_logs">Pogledajte detaljnu povijest poziva na &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
-  <string name="morning">AM</string>
   <string name="multi_number_menu_call">Poziv</string>
   <string name="multi_number_menu_delete">Izbriši</string>
   <string name="multi_number_menu_message">Poruka</string>
@@ -937,6 +937,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="non_phone_close">"Zatvori"</string>
   <string name="not_applied">"Ne mogu primjeniti"</string>
   <string name="not_set">Nije postavljeno</string>
+  <string name="none_selected">Poništi odabir</string>
   <string name="notification_click_detail">Dodirnite za prikaz pojedinosti</string>
   <string name="notification_micloudsync_delete_contact">Xiaomi Cloud želi izbrisati neke vaše kontakte</string>
   <string name="notification_missedCallTitle">Propušten poziv</string>
@@ -958,6 +959,8 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="option_view_group">"Prikaži"</string>
   <string name="organizationLabelsGroup">"Pozicija"</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
+  <string name="pause">pauza</string>
+  <string name="paused">pauzirano</string>
   <string name="pay_fail">"Nije moguće dovršiti plaćanje"</string>
   <string name="pay_success">Plaćanje je uspješno završeno</string>
   <string name="payphone">"Telefonska govornica"</string>
@@ -1001,6 +1004,8 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="picker_postal_title">Odaberi poštanski broj</string>
   <string name="picker_recent_list_empty">"Nema nedavnih kontakata"</string>
   <string name="pkgLabel">Kontakti i biranje brojeva</string>
+  <string name="play">reproduciraj</string>
+  <string name="played">reproducirano</string>
   <string name="postalLabelsGroup">Adresa</string>
   <string name="postal_address">Adresa</string>
   <string name="postal_city">Grad</string>
@@ -1180,6 +1185,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="search_results_searching">Pretraživanje…</string>
   <string name="search_settings_description">Nazivi vaših kontakata</string>
   <string name="searching_vcard_message">"Pretraživanje vCard podataka na uređaju…"</string>
+  <string name="seconds">sekundi</string>
   <string name="select_all">"Odaberi sve"</string>
   <string name="select_groups">Odaberi grupe</string>
   <string name="select_vcard_title">"Odaberi vCard datoteku"</string>
@@ -1331,6 +1337,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="toast_text_copied">"Tekst kopiran"</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
+  <string name="total">ukupno</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>

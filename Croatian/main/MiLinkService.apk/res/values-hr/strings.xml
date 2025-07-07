@@ -324,6 +324,11 @@ za zrcaljenje zaslona ovog tableta"</string>
  <string name="circulate_device_type_name_tv">TV</string>
  <string name="circulate_device_type_name_wifi_speaker">Zvučnik</string>
  <string name="circulate_device_type_name_wifi_speaker_with_screen">Zvučnik s dodirnim zaslonom</string>
+ <string name="circulate_edit_group_title">"Zvučnici ili televizori mogu se grupirati i prikazivati ​​zajedno kada je više od %1$d spojeno na istu LAN mrežu
+"</string>
+ <string name="circulate_edit_sound_group_title">Grupiraj zvučnike</string>
+ <string name="circulate_edit_tv_group_title">Grupiraj televizore</string>
+ <string name="circulate_headset_error_group_device_not_support">Prvo isključite \"Grupiraj televizore\" u \"Uredi grupe uređaja\"</string>
  <string name="circulate_glasses_duplicate_dialog_message">Naočale su već povezane. Ako se povežete s novim parom naočala, prvi par će biti isključen. Povezati se sada?</string>
  <string name="circulate_glasses_duplicate_dialog_message_pad">Vaš tablet je već povezan s naočalama. Ako se povežete s novim parom naočala, prvi par će biti isključen. Povezati se sada?</string>
  <string name="circulate_glasses_duplicate_dialog_message_phone">Vaš telefon je već povezan s naočalama. Ako se povežete s novim parom naočala, prvi par će biti isključen. Povezati se sada?</string>
@@ -431,6 +436,7 @@ Vaši uređaji?"</string>
  <string name="circulate_ringfind_error_hint_stop">"Nije moguće zaustaviti reprodukciju zvuka. Pokušajte ponovno."</string>
  <string name="circulate_ringfind_title">Reproduciraj zvuk</string>
  <string name="circulate_ringfind_title_stop">Zaustavi reprodukciju zvuka</string>
+ <string name="circulate_sound_group_title">Grupa zvučnika</string>
  <string name="circulate_sport_device_find_band">Pronađi ovaj band</string>
  <string name="circulate_sport_device_find_start">Traženje ovog uređaja…</string>
  <string name="circulate_sport_device_find_start_failed">"Nisam mogao pronaći ovaj uređaj. Pokušajte ponovno."</string>
@@ -443,6 +449,7 @@ Vaši uređaji?"</string>
  <string name="circulate_tv_app_opening">Otvaranje na TV-u…</string>
  <string name="circulate_tv_capturing">Snimanje zaslona…</string>
  <string name="circulate_tv_is_authing_tip">Provjera uređaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+ <string name="circulate_tv_group_title">TV grupa</string>
  <string name="circulate_tv_name">Xiaomi TV</string>
  <string name="circulate_tv_power_alter_text">"Postavili ste TV da se isključi ili isključi zaslon. Daljinski upravljači i TV će nestati odavde nakon što se TV isključi."</string>
  <string name="circulate_tv_power_alter_title">Pažnja</string>
@@ -618,6 +625,7 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
  <string name="dp_casting_start_hint">Povezan putem kabela. Emitiranje je završilo.</string>
  <string name="dual_wifi_warning_china">Isključite dvostruki Wi-Fi i pokušajte ponovno</string>
  <string name="dual_wifi_warning_global">Uključite dvostruki Wi-Fi i pokušajte ponovno</string>
+ <string name="edit_device_group">Uredi grupe uređaja</string>
  <string name="enable_screen_projection_summary">Emitiraj sadržaj zaslona na vanjski monitor</string>
  <string name="enable_screen_projection_summary_new">Emitirajte zaslon mobilnog uređaja na obližnje televizore i druge vanjske monitore</string>
  <string name="enable_screen_projection_summary_pad">Emitirajte zaslon tableta na obližnji TV ili drugi uređaj</string>
@@ -1459,6 +1467,8 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="sever_stream_push_state_idle2">Pregled je isključen</string>
  <string name="sever_stream_push_state_pause">Pauzirano</string>
  <string name="sever_stream_push_state_pushing">Dijeljenje feeda kamere…</string>
+ <string name="share_compute_powing_title_pad">Dijeljenje napajanja računala s telefonom…</string>
+<string name="share_compute_powing_title_phone">Dijeljenje napajanja računala s tabletom…</string>
  <string name="share_desktop_with_car">Podijelite Home screen s automobilom</string>
  <string name="share_desktop_with_car_ing">Dijeljenje zaslona s automobilom…</string>
  <string name="show_result_on_tv">Pogledajte rezultate na TV-u</string>
@@ -1466,6 +1476,18 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="small_window">Smanji prozor</string>
  <string name="small_window_not_supported">"Ne možete smanjiti ovu aplikaciju dok se emitira"</string>
  <string name="start_forbidden_by_not_worn">"Ne mogu se povezati. Stavite naočale i pokušajte ponovno."</string>
+ <string name="state_app_continuity">Korištenje preusmjeravanja aplikacije</string>
+ <string name="state_audio_cast">Emitiranje zvuka putem Xiaomi Smart Playa</string>
+ <string name="state_call_synergy">Korištenje sinkronizacije poziva</string>
+ <string name="state_camera_synergy">Korištenje kamere na više uređaja</string>
+ <string name="state_cellular_synergy">Korištenje bežičnog tetheringa</string>
+ <string name="state_computing_power">Korištenje računalne podrške</string>
+ <string name="state_hid_synergy">Korištenje kontrola na više uređaja</string>
+ <string name="state_mirror">Emitiranje u tijeku</string>
+ <string name="state_music_playing">Reprodukcija glazbe</string>
+ <string name="state_screen_synergy">Korištenje Home screen+</string>
+ <string name="state_take_photo">Korištenje kamere na više uređaja</string>
+ <string name="state_video_cast">Emitiranje video putem Xiaomi Smart Playa</string>
  <string name="status_bar_car_camera_icon_name">Vozilo</string>
  <string name="status_bar_default_icon_name">Uređaj</string>
  <string name="status_bar_device_iot_camera_icon_name">Xiaomi kućna kamera</string>

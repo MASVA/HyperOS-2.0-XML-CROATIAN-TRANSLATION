@@ -32,7 +32,6 @@
   <string name="accessibility_sliding_button_state_description_on">Uključeno</string> 
   <string name="accessibility_tab_state_description_unselect">Nije odabrano</string> 
   <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
-  <string name="actionbar_button_up_description">Natrag</string>
   <string name="adaptive_fps_tip">2. Postignite najbolju ravnotežu između glatkoće i trajanja baterije dinamičkim podešavanjem brzine osvježavanja.</string>
   <string name="advanced_mode">Napredne postavke</string>
   <string name="advanced_paper_mode_title">Udobnost za oči</string>

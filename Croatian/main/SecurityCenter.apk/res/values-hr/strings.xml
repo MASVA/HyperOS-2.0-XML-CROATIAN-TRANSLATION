@@ -528,6 +528,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="app_management_for_install">Blokiraj preuzimanja aplikacija</string>
   <string name="app_management_for_install_desc">Spriječi ovoj aplikaciji preuzimanje ili instaliranje drugih aplikacija</string>
   <string name="app_management_measures">Upravljanje aplikacijom</string>
+  <string name="app_manager_ad_text_btn_resume">Nastavi</string>
   <string name="app_manager_advanced_setting">Napredne postavke</string>
   <string name="app_manager_airtel_dlg_msg">Ako imate pitanja, kontaktirajte Airtel</string>
   <string name="app_manager_allow">Da</string>
@@ -1640,6 +1641,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="connected_devices_notification_title">"Dopustiti uređaju iznad da prikazuje obavijesti ovog uređaja?"</string>
   <string name="connected_devices_permission">Međupovezanost i dopuštenja</string>
   <string name="connected_devices_permission_settings">Međupovezanost i dopuštenja</string>
+  <string name="connected_devices_permission_summary">Upravljanje pristupom ovom uređaju</string>
   <string name="connected_devices_record">Snimanje</string>
   <string name="connected_devices_record_desc">Dopusti uređajima u blizini koji su prijavljeni na isti račun da snimaju zvuk na ovom uređaju</string>
   <string name="connected_devices_record_title">Želite li dopustiti gornjem uređaju snimanje zvuka na ovom uređaju?</string>
@@ -1871,6 +1873,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="default_result_title_continue">Dodaj rezultat</string>
   <string name="delete">Izbriši</string>
   <string name="delete_all_sms">Izbriši sve</string>
+  <string name="delete_connected_devices">Izbrisati odabrane uređaje sada?</string>
+  <string name="delete_connected_devices_title">Izbrisati %1$s sada?</string>
   <string name="delete_from_manual_item_white_list">Ukloni iz iznimaka</string>
   <string name="delete_input">Izbriši</string>
   <string name="deleted_apps">Izbrisane aplikacije</string>
@@ -2376,7 +2380,7 @@ volonter"</string>
   <string name="ew_not_support_area">"Upozorenja nisu podržana u ovom području"</string>
   <string name="ew_open_tips">Upozorenje na potres je uključeno</string>
   <string name="ew_push_message">Procijenjeni intenzitet: %s. Očekujte lagano podrhtavanje u svojoj blizini.</string>
-  <string name="ew_push_title">Upozorenje na potres za %s</string>
+  <string name="ew_push_title">Upozorenje | Potres magnitude %2$s u blizini %1$s</string>
   <string name="ew_safe_place_no_maps_tips">"Sada ne mogu pretraživati. Prvo instalirajte Baidu Maps ili Amap."</string>
   <string name="ew_setting_desc_message">Intenzitet potresa procjenjujemo na temelju njegove magnitude, lokacije epicentra i vaše lokacije. Što je veći procijenjeni intenzitet, to će potres biti razorniji u vašem području.</string>
   <string name="ew_setting_desc_title">Što je procijenjeni intenzitet?</string>
@@ -5297,6 +5301,7 @@ Način otpornosti na hladnoću"</string>
   <string name="power_dialog_sleep_title">Mirovanje</string>
   <string name="power_dialog_super_save_msg">"Ultra Štednja baterije ograničava značajke koje najviše troše energiju i smanjuje performanse uređaja kako bi osnovne funkcije (npr. pozivi, SMS poruke i povezivanje s mrežom) bile dostupne što je duže moguće. Uključiti Ultra Štednju bateriju?"</string>
   <string name="power_dialog_super_save_msg_5g">"Ultra Štednja baterije ograničava većinu funkcija koje troše energiju (npr. 5G povezivanje) smanjujući performanse vašeg uređaja. Neće utjecati samo na pozive, poruke i mrežnu povezanost. Uključiti Ultra Štednju bateriju?"</string>
+  <string name="power_dialog_super_save_msg_p2">"Ultra ušteda baterije isključuje stražnji zaslon i ograničava većinu značajki koje troše energiju, smanjujući performanse uređaja kako bi osnovne funkcionalnosti (npr. pozivi, SMS i povezivanje s mrežom) ostale dostupne što je dulje moguće. Uključiti Ultra uštedu baterije?"</string>
   <string name="power_dialog_super_save_title">Ultra Štednja baterije</string>
   <string name="power_dialog_vibration_title">Vibracija</string>
   <string name="power_dialog_wifi_title">Wi-Fi</string>

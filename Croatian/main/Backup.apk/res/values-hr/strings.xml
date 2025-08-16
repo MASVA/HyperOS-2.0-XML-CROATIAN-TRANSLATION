@@ -152,9 +152,10 @@
   <string name="cancel_moving_dialog_message">Zaustaviti uvoz?</string>
   <string name="cancel_moving_dialog_title">Zaustavi uvoz</string>
   <string name="cancel_restore">Stop</string>
-  <string name="cannot_use_backup_summary">Čini se da sustav sada sigurnosno kopira stavke. Zaustavite sigurnosno kopiranje u tijeku ili ponovno pokrenite uređaj kako biste omogućili Mi Moveru da započne prijenos.</string>
+  <string name="cannot_use_backup_summary">Usluge sigurnosne kopije trenutno koriste %s. Pokušajte ponovno nakon što je prijenos podataka završen.</string>
   <string name="cannot_use_backup_title">"Sada nije moguće napraviti sigurnosnu kopiju"</string>
   <string name="category_contacts">Kontakti</string>
+  <string name="cannot_use_mi_backup_summary">Usluga sigurnosne kopije sustava trenutno je zauzeta. Pričekajte da završi, a zatim pokušajte ponovno ili ponovno pokrenite uređaj.</string>
   <string name="category_message_contacts">Poruke i kontakti</string>
   <string name="character_counter_content_description">Uneseno je %1$d znakova od %2$d</string>
   <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>

@@ -613,6 +613,17 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
   <string name="unit">Jedinica</string>
+  <string name="typhoon_card_speed_unit">Snaga %1$s</string>
+  <string name="typhoon_card_title">Tajfun</string>
+  <string name="typhoon_level">Intenzitet tajfuna</string>
+  <string name="typhoon_title">Prognoza tajfuna</string>
+  <string name="typhoon_trajectory">Prikaži trag</string>
+  <string name="typhoon_type">tajfun</string>
+  <string name="typhoon_uv_unit">%1$s razina, %2$s km/h</string>
+  <string name="typhoon_warring_line_24">24-satna linija upozorenja</string>
+  <string name="typhoon_warring_line_48">48-satna linija upozorenja</string>
+  <string name="typhoon_wind_pressures">Centralni tlak</string>
+  <string name="typhoon_wind_speeds">Brzina vjetra</string>
   <string name="unit_temperature">Jedinica temperature</string>
   <string name="unit_wind">Jedinica brzine vjetra</string>
   <string name="update_night_setting_summary_text">Ažuriraj informacije o vremenu između 23:00 i 07:00</string>

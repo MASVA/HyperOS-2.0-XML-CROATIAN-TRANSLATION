@@ -152,6 +152,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="cloud_service_cloud_open">Uključi</string>
   <string name="cloud_service_space_full">Pohrana puna</string>
   <string name="cloud_service_space_not_enough">Nedovoljno prostora za pohranu</string>
+  <string name="cloud_service_space_over_quota">Prekoračeno ograničenje pohrane</string>
   <string name="cloud_service_space_used">Zauzeto</string>
   <string name="cloud_service_state_error">"Nije moguće učitati"</string>
   <string name="cloud_service_status_backup_not_open">Sigurnosno kopiranje je isključeno</string>
@@ -222,15 +223,18 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_bank_card_message">Mi Pay bankovne kartice i NFC kartice bit će izbrisane nakon što se odjavite.</string>
   <string name="delete_bank_card_title">Brisanje vaše bankovne kartice</string>
-  <string name="delete_device_btn">Ukloni</string>
+  <string name="delete_device_btn">Ukloni uređaj</string>
   <string name="delete_device_failed">"Ne mogu ukloniti uređaj"</string>
-  <string name="delete_device_notice">"Nakon što je uređaj uklonjen, isti će biti odjavljen iz Xiaomi računa automatski. Nećete biti u mogućnosti koristiti ovaj uređaj za pristup fotografijama, porukama, ili drugom sadržaju pohranjenim na vašem računu."</string>
+  <string name="delete_device_notice">"Uklanjanjem ovog uređaja odjavit ćete se i s vašeg Xiaomi računa. Nakon što ga uklonite, nećete moći pristupiti stavkama pohranjenima u cloudu."</string>
   <string name="deny">Odbij</string>
   <string name="device_delete_success_message">"Ako se vi niste niste prijavili na ovom uređaju, odmah promijenite svoju zaporku."</string>
   <string name="device_delete_success_title">Odjavljeno</string>
+  <string name="device_id">ID uređaja</string>
+  <string name="device_list_error_tip"><Data>"Nije moguće učitati. &lt;a href=>Pokušajte ponovno&lt;/a>"</Data></string>
   <string name="device_list__header">Moji uređaji</string>
   <string name="device_list_title">Moji uređaji</string>
   <string name="device_name">Naziv uređaja</string>
+  <string name="device_recent_login_time">Zadnja prijava</string>
   <string name="diagnosis_log_send_failed">Ne mogu poslati zapise dijagnoze.</string>
   <string name="diagnosis_log_sent_format">"Zapisi dijagnoze su poslani.
 ID:%s
@@ -239,8 +243,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="dind_device_service_not_open">Isključeno</string>
   <string name="dind_device_service_opened">Uključeno</string>
   <string name="download_file">Preuzimanje %s…</string>
-   <string name="dropdown_menu">Padajući izbornik</string>
-   <string name="empty_device_list">Ovdje nema još ništa</string>
+  <string name="dropdown_menu">Padajući izbornik</string>
+  <string name="empty_device_list">Ovdje nema ništa</string>
   <string name="empty_device_list_notice">Nema uređaja</string>
   <string name="enable">Postavke</string>
   <string name="ep_unsupported">"Ne mogu se prijaviti na Xiaomi račun na vašem uređaju"</string>
@@ -312,6 +316,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="friday_shortest">P</string>
   <string name="get_back_password">Poništi zaporku</string>
   <string name="get_back_pwd">Resetiranje vaše zaporke</string>
+  <string name="get_device_info_error">"Nije moguće dobiti informacije o uređaju"</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
   <string name="get_identity_auth_url_failed">"Ne mogu provjeriti ID"</string>
   <string name="get_phone_bind_exceed_limit">Možete povezati do 3 Xiaomi računa s jednim brojem telefona. Nije moguće dodati nove račune.</string>
@@ -521,6 +526,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="no_account_or_forget_password">Izraditi račun ili ste zaboravili zaporku?</string>
   <string name="no_install">Nije instalirano</string>
   <string name="no_network_btn">Osvježi</string>
+  <string name="no_network_refresh_btn">Osvježi</string>
   <string name="no_network_title">"Ne mogu se povezati na mrežu."</string>
   <string name="no_password_set">Nije postavljeno</string>
   <string name="no_phone">Nema telefonskog broja</string>
@@ -671,6 +677,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_error_phone">Invalid phone number</string>
   <string name="passport_error_phone_error">Nevažeći broj telefona</string>
   <string name="passport_error_server">Pogreška poslužitelja</string>
+  <string name="passport_error_server_msg">Provjerite mrežne postavke i osvježite stranicu</string>
   <string name="passport_error_sim_not_ready">"Ne mogu pronaći SIM karticu"</string>
   <string name="passport_error_sms_limit">Previše kontrolnih kodova je poslano na ovaj broj. Pokušajte ponovno kasnije.</string>
   <string name="passport_error_ssl_hand_shake">"Ne mogu se povezati na poslužitelj"</string>
@@ -879,7 +886,17 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_to_verify_code_login">Prijavite se SMS-om</string>
   <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
   <string name="passport_two_factor_auth">Autentikacija u dva faktora</string>
-  <string name="passport_two_factor_auth_hint">Uključite da biste zahtijevali dvostruku autentifikaciju prilikom prijave na svoj račun</string>
+  <string name="passport_two_factor_auth_dialog_desc">"Ako uključite dvofaktorsku autentifikaciju, bit ćete odjavljeni sa svog Xiaomi računa na drugim uređajima i svim web-stranicama. Uključiti sada?"</string>
+  <string name="passport_two_factor_auth_dialog_negative_btn">Odustani</string>
+  <string name="passport_two_factor_auth_dialog_positive_btn">Uključi</string>
+  <string name="passport_two_factor_auth_dialog_title">Odjava na drugim uređajima</string>
+  <string name="passport_two_factor_auth_hint"><Data>Svaki put kada se prijavite na svoj Xiaomi račun, dovršite dva kruga autentifikacije. &lt;a href= >Saznajte više&lt;/a></Data></string>
+  <string name="passport_two_factor_set_password_hint">Postavite zaporku računa kako biste mogli koristiti dvofaktorsku autentifikaciju</string>
+  <string name="passport_two_factor_set_phone_dialog_desc">Postavite zaporku računa kako biste mogli uključiti dvofaktorsku autentifikaciju.</string>
+  <string name="passport_two_factor_set_phone_dialog_negative_btn">Odustani</string>
+  <string name="passport_two_factor_set_phone_dialog_positive_btn">Postavi</string>
+  <string name="passport_two_factor_set_phone_dialog_title">Postavi zaporku računa</string>
+  <string name="passport_two_factor_set_phone_dialog_hint">Dodajte telefonski broj kako biste mogli koristiti dvofaktorsku autentifikaciju</string>
   <string name="passport_trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>
   <string name="passport_tz_invalid">Otkriven siurnosni rizik. Ovaj je uređaj rootan ili flashan. Pokušajte druge načine prijave.</string>
   <string name="passport_unknown_error">Nepoznata pogreška</string>

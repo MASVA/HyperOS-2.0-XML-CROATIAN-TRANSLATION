@@ -289,6 +289,10 @@
         <item quantity="other">%d aplikacija s predmemoriranim videozapisima</item>
         <item quantity="one">%d aplikacija s predmemoriranim videozapisima</item>
     </plurals>
+	 <plurals name="summary_delete_apk">
+       <item quantity="one">Trajno izbrisati %d odabranih APK datoteka?</item>
+       <item quantity="other">Trajno izbrisati %d odabranu APK datoteku?</item>
+     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s pregleda</item>
         <item quantity="one">%1$s pregled</item>

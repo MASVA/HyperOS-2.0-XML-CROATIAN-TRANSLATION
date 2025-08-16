@@ -149,6 +149,7 @@ Pokušajte ponovno."</string>
   <string name="batch_deleting_message_progress_message">Brisanje odabrane poruke(a)</string>
   <string name="batch_deleting_progress_message">Brisanje odabranih niti poruke(a)</string>
   <string name="bcc_label">"Bcc: "</string>
+  <string name="beidou_audio_not_support_multi_recipient">"Sada ne mogu slati glasovne poruke više primatelja"</string>
   <string name="billing">Računi</string>
   <string name="beidou_cannot_receive_airmode">Isključite zrakoplovni način za primanje poruka</string>
   <string name="beidou_cannot_send_mms">"BeiDou satelitska komunikacija ne podržava MMS"</string>
@@ -158,6 +159,7 @@ Pokušajte ponovno."</string>
   <string name="beidou_from_contacts">Odgovor od %s</string>
   <string name="beidou_identification_fail_receive">"Nije moguće provjeriti autentičnost. Ne mogu primati poruke putem BeiDoua."</string>
   <string name="beidou_identification_fail_send">"Nije moguće provjeriti autentičnost. Ne mogu slati poruke putem BeiDou."</string>
+  <string name="beidou_image_not_support_multi_recipient">"Trenutno nije moguće poslati slike više primatelja"</string>
   <string name="beidou_introduce">Saznajte više o Beidou satelitskoj komunikaciji</string>
   <string name="beidou_location_failed">"Nije moguće dobiti lokaciju. Idite na otvoreno područje i pokušajte ponovno."</string>
   <string name="beidou_max_support_contact_number">Dodajte do %d kontakata</string>
@@ -170,6 +172,7 @@ Pokušajte ponovno."</string>
   <string name="beidou_satellite_sms_notification">Ova je poruka poslana putem Beidou satelitske komunikacije</string>
   <string name="beidou_sim_not_support">"SIM kartica ne podržava Beidou satelitske poruke"</string>
   <string name="beidou_support_cta_tips">Ova aplikacija također može čitati, uređivati, slati i primati Beidou satelitske poruke.</string>
+  <string name="beidou_support_location_tips">Korištenje Beidou usluga zahtijeva pristup vašoj lokaciji.</string>
   <string name="beidou_to_contacts">Primatelj: %s</string>
   <string name="block_messaging_entry_title">Blokirani SMS-ovi</string>
   <string name="block_number_message">Taj će broj telefona biti dodan na popis za blokiranje. Sve poruke poslane s ovog broja bit će blokirane.</string>

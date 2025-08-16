@@ -331,10 +331,11 @@ Jednogodišnji i petogodišnji LPR će se citirati 20. u mjesecu (mogu doći do 
   <string name="preference_get_local_tax_info">Za pružanje relevantnih informacija o zajmovima i porezima</string>
   <string name="preference_has_allowed">Odobreno</string>
   <string name="preference_not_allowance">Nije odobreno</string>
-  <string name="preference_percentage">Algoritam za zbrajanje i oduzimanje postotaka</string>
-  <string name="preference_percentage_numericalvalue">Izračunaj po numeričkoj vrijednosti</string>
-  <string name="preference_percentage_numericalvalue_comments">Pretvori postotke u decimale i izvrši izračune zbrajanja i oduzimanja.</string>
-  <string name="preference_percentage_proportion_comments">Množenje postotka s prethodnim rezultatom izračuna, a zatim njegovo zbrajanje ili oduzimanje obično se koristi za izračun popusta.</string>
+  <string name="preference_percentage">Zbrajanje i oduzimanje postotaka</string>
+  <string name="preference_percentage_numericalvalue">Po vrijednosti</string>
+  <string name="preference_percentage_numericalvalue_comments">Pretvori postotak u decimalni broj, a zatim zbroji ili oduzmi</string>
+  <string name="preference_percentage_proportion">Prema omjeru</string>
+  <string name="preference_percentage_proportion_comments">Prvo primijenite postotak na prethodni rezultat, a zatim dodajte ili oduzmite — idealno za popuste</string>
   <string name="preference_permission_info">Pojedinosti o dopuštenjima</string>
   <string name="preference_privacy_setting">Privatnost</string>
   <string name="preference_privacy_title">Pravila o privatnosti</string>

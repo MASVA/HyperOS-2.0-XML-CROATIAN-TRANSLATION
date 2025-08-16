@@ -203,7 +203,7 @@
   <string name="interconnection_service_permission9">Identifikator pristupnog uređaja</string>
   <string name="interconnection_service_summary_china">Xiaomi usluge međusobnog povezivanja omogućuju vašim uređajima međusobnu bežičnu interakciju. %1$s Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji vašeg sustava i modelu uređaja. Više informacija potražite na %2$s.</string>
   <string name="interconnection_service_summary_china_new">%1$s Dostupne značajke Xiaomi Interconnectivity na vašem uređaju mogu se razlikovati zbog razlika u verzijama sustava i modelima uređaja. Više informacija potražite na našoj službenoj web stranici (%2$s).</string>
-  <string name="interconnection_service_summary_china_fragment1">Ove usluge uključuju Mi Smart Play, emitiranje, prijenos aplikacije, početni zaslon+, dijeljeni međuspremnik, bežično povezivanje (uključujući mrežnu sinkronizaciju), kontrole na različitim uređajima, kameru na različitim uređajima i Mi Smart Hub. Da bi mogli normalno raditi, Xiaomi Interconnectivity Services moraju se povezati na internet i zahtijevaju sljedeća dopuštenja:</string>
+  <string name="interconnection_service_summary_china_fragment1">Ove usluge uključuju Xiaomi  Smart Play, emitiranje, prijenos aplikacije, početni zaslon+, dijeljeni međuspremnik, bežično povezivanje (uključujući mrežnu sinkronizaciju), kontrole na različitim uređajima, kameru na različitim uređajima i Xiaomi Smart Hub. Da bi mogli normalno raditi, Xiaomi Interconnectivity Services moraju se povezati na internet i zahtijevaju sljedeća dopuštenja:</string>
   <string name="interconnection_service_summary_china_fragment10">Za pristup informacijama o uređajima u blizini</string>
   <string name="interconnection_service_summary_china_fragment11">Snimanje internog zvuka uređaja</string>
   <string name="interconnection_service_summary_china_fragment12">Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja</string>
@@ -214,7 +214,7 @@
   <string name="interconnection_service_summary_china_fragment17">Pristup sadržaju zaslona</string>
   <string name="interconnection_service_summary_china_fragment18">Za pristup sadržaju zaslona tijekom snimanja ili emitiranja, uključujući osjetljive podatke kao što su zvuk, zaporke, zaporke za plaćanje, fotografije, poruke itd.</string>
   <string name="interconnection_service_summary_china_fragment19">Primopredaja aplikacije i početni zaslon+:</string>
-  <string name="interconnection_service_summary_china_fragment2">Mi Smart Play i emitiranje:</string>
+  <string name="interconnection_service_summary_china_fragment2">Xiaomi Smart Play i emitiranje:</string>
   <string name="interconnection_service_summary_china_fragment20">Uključite ili isključite Bluetooth</string>
   <string name="interconnection_service_summary_china_fragment21">Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha</string>
   <string name="interconnection_service_summary_china_fragment22">Uključiti ili isključiti Wi-Fi</string>
@@ -292,9 +292,9 @@
   <string name="kind_subtitle">Ovaj uređaj koristi dizajn sklopivog zaslona. Kako biste zaštitili svoj uređaj, obratite pozornost na sljedeće:</string>
   <string name="ktposition_header">Dijeljenje informacija o lokaciji s hitnim spasilačkim agencijama</string>
   <string name="language_disabled_description">%1$s, nije dostupan</string>
+  <string name="language_picker_other_languages_title">Više jezika</string>
   <string name="language_selected_description">%1$s, odabran</string>
   <string name="language_unselected_description">%1$s, dvaput dodirnite za primjenu</string>
-  <string name="language_picker_other_languages_title">Više jezika</string>
   <string name="language_settings">Odaberi jezik</string>
   <string name="layout_size_large">Veliki</string>
   <string name="layout_size_normal">Normalni</string>

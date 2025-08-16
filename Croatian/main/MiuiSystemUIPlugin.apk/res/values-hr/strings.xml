@@ -155,6 +155,7 @@
   <string name="flashlight_button_close">Isključi svjetiljku</string>
   <string name="flashlight_button_open">Uključi svjetiljku</string>
   <string name="flashlight_not_available">"Ne možete koristiti svjetiljku dok se koristi kamera"</string>
+  <string name="flashlight_notification_btn_close">Isključi</string>
   <string name="flashlight_notification_button">Prečac svjetiljke</string>
   <string name="flashlight_notification_channel_name">Status svjetiljke</string>
   <string name="flashlight_notification_content_text">Svjetiljka je uključena</string>
@@ -458,6 +459,7 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="qs_flip_tiles_stock">bt,zrakoplov,mute,flashlight,batterysaver,rotation,screenlock,screenshot,custom(com.miui.screenrecorder/.service.QuickService),gps,autobrightness,papermode,quietmode,vibrate,nfc,hotspot,night</string>
   <string name="qs_flip_tiles_stock_global">bt,zrakoplov,mute,flashlight,batterysaver,rotation,screenlock,screenshot,custom(com.miui.screenrecorder/.service.QuickService),gps,autobrightness,papermode,quietmode,vibrate,nfc,hotspot,night</string>
   <string name="qs_item_drag">Povlačenje</string>
+  <string name="qs_item_drag_and_sort">Povucite za preuređenje</string>
   <string name="qs_position_hint">Postavljeno u red %1$d, stupac %2$d</string>
   <string name="qs_open_night_mode_alert_summary">"Određene postavke zaslona nisu kompatibilne s Tamnim načinom. Međutim, one će se vratiti kada isključite Tamni način."</string>
   <string name="quick_controls_subtitle">Dodavanje kontrola za povezane uređaje</string>
@@ -525,6 +527,7 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="recovery">Recovery</string>
   <string name="reset">Poništi</string>
   <string name="restart">Ponovno pokreni</string>
+  <string name="restart_hint">Pritisnite i držite tipku za uključivanje/isključivanje %d sekundi za prisilno ponovno pokretanje uređaja</string>
   <string name="safe_media_volume_warning">"Povećati glasnoću iznad preporučene razine?
 
 Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
@@ -587,6 +590,14 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
   <string name="volume_adjust_panel_title">Panel podešavanja glasnoće</string>
   <string name="volume_dialog_accessibility_dismissed_message">Kontrole glasnoće skrivene</string>
   <string name="volume_dialog_accessibility_shown_message">%s kontrole glasnoće prikazane. Povucite prema gore da biste ih odbacili.</string>
+  <string name="volume_dialog_shown_accessibility_talkback">Glasnoća pristupačnosti postavljena na %1$s</string>
+  <string name="volume_dialog_shown_alarm_talkback">Glasnoća alarma postavljena na %1$s</string>
+  <string name="volume_dialog_shown_call_talkback">Glasnoća poziva postavljena na %1$s</string>
+  <string name="volume_dialog_shown_music_talkback">Glasnoća glazbe postavljena na %1$s</string>
+  <string name="volume_dialog_shown_notification_talkback">Glasnoća obavijesti postavljena na %1$s</string>
+  <string name="volume_dialog_shown_ring_tone_talkback">Glasnoća melodije zvona postavljena na %1$s</string>
+  <string name="volume_dialog_shown_unknown_talkback">Glasnoća postavljena na %1$s</string>
+  <string name="volume_dialog_shown_voice_assistant_talkback">Glasnoća glasovnog asistenta postavljena na %1$s</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
@@ -605,6 +616,6 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
   <string name="wireless_charging_tips_sub_message">Drugi uređaj mora podržavati Qi standard bežičnog punjenja.</string>
   <string name="wireless_charging_tips_title">Obrnuto bežično punjenje</string>
   <string name="wordless_mode_subtitle_text">Uključite za prikaz oznaka ikona u Kontrolnom centru</string>
-  <string name="wordless_mode_title_text">Prikaži oznake ikona</string>
+  <string name="wordless_mode_title_text">Prikaži oznake ikona u Kontrolnom centru</string>
   <string name="yesterday">Jučer</string>
 </resources>

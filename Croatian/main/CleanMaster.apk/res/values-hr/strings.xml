@@ -897,7 +897,6 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="stop_compression_tips">Zaustaviti komprimiranje datoteka? Stavke koje su već komprimirane bit će spremljene.</string>
   <string name="storage_system_log">Dnevnici sustava</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="summary_delete_apk">Trajno izbrisati odabrane aplikacije?</string>
   <string name="summary_delete_cache">Očistiti predmemoriju odabranih aplikacija?</string>
   <string name="summary_delete_large_file">Trajno izbrisati odabrane datoteke?</string>
   <string name="summary_optimizer">"Čistač mora prenijeti nazive mapa s nepoznatim datotekama na poslužitelje kako bi mogao ažurirati cloud definicije. Prihvaćate?"</string>

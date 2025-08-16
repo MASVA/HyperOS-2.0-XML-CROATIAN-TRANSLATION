@@ -79,6 +79,15 @@
         <item>Ozbiljno zagađenje</item>
         <item>Iznad indeksa</item>
     </string-array>
+	 <string-array name="typhoon_uv_level">
+       <item>Tropska depresija</item>
+      <item>Tropska oluja</item>
+      <item>Jaka tropska oluja</item> 
+      <item>Tajfun</item>
+      <item>Jaki tajfun</item>
+      <item>Snažni tajfun</item> 
+     <item>Super tajfun</item>
+</string-array>
     <string-array name="weather_type">
         <item>Vedro</item>
         <item>Oblačno</item>

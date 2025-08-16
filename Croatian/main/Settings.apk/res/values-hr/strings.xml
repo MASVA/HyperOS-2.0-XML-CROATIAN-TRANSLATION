@@ -3190,7 +3190,7 @@ Nadzornu ploču performansi čipa"</string>
   <string name="chip_per_title">Nadzorna ploča performansi čipa</string>
   <string name="chip_reset_dialog_message">Za vraćanje zadanih postavki, ponovno pokrenite uređaj.</string>
   <string name="chip_reset_dialog_message_new">Ponovno pokrenite uređaj za vraćanje zadanih postavki.</string>
-  <string name="chip_reset_dialog_title">Vratiti uređaj sada?</string>
+  <string name="chip_reset_dialog_title">Vratiti sada?</string>
   <string name="chip_reset_menu">Vrati zadane postavke</string>
   <string name="chip_save_restart">Spremi i ponovno pokrenite</string>
   <string name="chip_toast_add_msg">Možete dodati do %d frekvencija</string>
@@ -6326,7 +6326,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="icloud_need_wifi_message">Niste povezani s Wi-Fi mrežom. Za uvoz podataka iz iClouda, povežite se s Wi-Fi mrežom.</string>
   <string name="icloud_need_wifi_title">Poveži se na Wi-Fi</string>
   <string name="icon_content_description">Ikona dijaloga</string>
-  <string name="icon_display_customization_action">Prilagodi prikaz prečaca</string>
+  <string name="icon_display_customization_action">Prilagodite prikaz ikona</string>
   <string name="ignore_optimizations_off">Optimizacija</string>
   <string name="ignore_optimizations_off_desc">Preporučuje se za dulje trajanje baterije</string>
   <string name="ignore_optimizations_on">Ne optimiziraj</string>
@@ -14965,6 +14965,8 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="weight_light">Tanak</string>
   <string name="weight_setting_toast">Debljinu fonta možete promijeniti samo za zadani font sustava</string>
   <string name="welcome">"Dobro došli!"</string>
+  <string name="welcomeBtn">Start</string>
+  <string name="welcomeTip">Podesite napon i frekvenciju svih jezgri CPU-a i GPU-a</string>
   <string name="wellbing_title">Digitalna dobrobit i roditeljski nadzor</string>
   <string name="wep_network_less_secure_warning_title">Ova mreža koristi stariji sigurnosni protokol pod nazivom WEP, koji je manje siguran</string>
   <string name="wfc_disclaimer_agree_button_text">NASTAVI</string>

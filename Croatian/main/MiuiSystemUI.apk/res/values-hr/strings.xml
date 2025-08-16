@@ -226,7 +226,7 @@
   <string name="accessibility_qs_position_hint">Postavljeno u redak %1$d, stupac %2$d</string>
   <string name="accessibility_quick_settings_bluetooth_restricted">Veza ograničena</string>
   <string name="accessibility_quick_settings_page_indicator">Indikator stranice</string>
-  <string name="accessibility_recent_button">Gumb izbornika</string>
+  <string name="accessibility_recent_button">Tipka izbornika</string>
   <string name="accessibility_quick_settings_alarm">Vrijeme alarma: %s.</string>
   <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
   <string name="accessibility_quick_settings_bluetooth_device_tap_to_activate">aktiviraj</string>

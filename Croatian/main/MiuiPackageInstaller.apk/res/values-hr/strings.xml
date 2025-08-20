@@ -76,6 +76,7 @@
   <string name="app_installing_not_allow">"Blokirali ste instalaciju %1$s %1$s. "</string>
   <string name="app_installing_not_allow_1">"Blokirali ste %1$s da instalira aplikaciju. "</string>
   <string name="app_installing_not_allow_2">Instalacija je blokirana. Pretražite \"Instaliraj nepoznate aplikacije\" u Postavkama da promijenite svoje postavke.</string>
+  <string name="app_installing_not_allow_2_with_name">Spriječeno je da %1$s instalira drugu aplikaciju. Potražite \"Instaliraj nepoznate aplikacije\" u Postavkama da biste promijenili postavke.</string>
   <string name="app_name">Alat za inst. paketa</string>
   <string name="app_name_unknown">Nepoznato</string>
   <string name="app_non_put_on_the_shelf">Nije dostupno</string>
@@ -246,6 +247,8 @@
   <string name="enhanced_protection_f_2_des">Kada je poboljšana zaštita isključena, zlonamjerne aplikacije mogu pristupiti vašim osobnim podacima.</string>
   <string name="enhanced_protection_f_2_title">Zaštita privatnosti</string>
   <string name="enhanced_protection_f_3_title">Stabilnost sustava</string>
+   <string name="environment_indicator_text">"%1$s server
+%2$s"</string>
   <string name="error_a11y_label">Pogreška: nevažeće</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="ettings_security_mode_open_security_mode">Uključi</string>
@@ -617,6 +620,7 @@
   <string name="out_of_space_dlg_title">Nedovoljno prostora</string>
   <string name="open_to_pure_mode">Uključi</string>
   <string name="parse_error_dlg_text_miui">Došlo je do problema prilikom parsiranja paketa. (%1$s)</string>
+  <string name="pasport_register_dialog_message">Želite li sada kreirati Xiaomi račun putem svog telefonskog broja %s?</string>
   <string name="passed_security_test">Prošao Xiaomi sigurnosne testove</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_crop_user_avatar">Obreži fotografiju</string>
@@ -634,7 +638,7 @@
   <string name="passport_account_secure_info_pref_title">Informacije o računu</string>
   <string name="passport_account_security_info_pref_title">Sigurnosne informacije</string>
   <string name="passport_account_user_avatar">Fotografija profila</string>
-  <string name="passport_account_user_avatar_from_album">Galerija</string>
+  <string name="passport_account_user_avatar_from_album">Odaberite iz galerije</string>
   <string name="passport_account_user_avatar_from_camera">Kamera</string>
   <string name="passport_account_user_base_info">Osnovne informacije</string>
   <string name="passport_account_user_details">Osobni podaci</string>
@@ -713,7 +717,6 @@
   <string name="passport_login_register_by_local_phone_long_text">Izradi račun</string>
   <string name="passport_login_with_sns">Drugi načini prijave</string>
   <string name="passport_logout_account">Odjava</string>
-  <string name="passport_mi_account_first_title">"Automatski ćemo izraditi račun ako svoj telefonski broj koristite prvi put."</string>
   <string name="passport_mi_account_title">Prijavite se Xiaomi računom</string>
   <string name="passport_network_error">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
  <string name="passport_network_error_hint">Provjerite poveznicu i pokušajte ponovo ili kopirajte poveznicu i otvorite je u svom pregledniku.</string>
@@ -722,6 +725,7 @@
   <string name="passport_no_account">Niste prijavljeni</string>
   <string name="passport_open_settings">Postavke</string>
   <string name="passport_page_load_failed">"Ne mogu otvoriti stranicu"</string>
+  <string name="passport_password_hide_show">Sakrij zaporku</string>
   <string name="passport_password_login_btn">Prijavite se</string>
   <string name="passport_password_not_show">"Ne prikazuj zaporku"</string>
   <string name="passport_password_show">Prikaži zaporku</string>
@@ -733,6 +737,8 @@
   <string name="passport_reging">Izrada računa…</string>
   <string name="passport_register_by_local_phone_long_text">Izradi račun</string>
   <string name="passport_register_by_local_phone_short_text">Izradi račun</string>
+  <string name="passport_register_dialog_positive">Izradi</string>
+  <string name="passport_register_dialog_title">Izradi Xiaomi račun</string>
   <string name="passport_register_restricted">Previše je računa povezano s ovim brojem. Pokušajte s drugim.</string>
   <string name="passport_relogin_notice">Morate se ponovo prijaviti</string>
   <string name="passport_request_agree">Dopusti</string>
@@ -741,7 +747,8 @@
   <string name="passport_request_error_invalid_token">"Nije moguće potvrditi"</string>
   <string name="passport_request_error_network">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="passport_request_error_unknown">Došlo je do sistemske pogreške. Vratite se i pokušajte ponovno.</string>
-  <string name="passport_request_gallery_permission_message">Dopusti pristup Galeriji:&lt;br />Za postavljanje profilnih fotografija</string>
+  <string name="passport_request_gallery_permission_message">Ova aplikacija treba pristupiti odabranim stavkama Galerije kako bi mogla postaviti vašu profilnu fotografiju. Dopustiti sada?</string>
+  <string name="passport_request_permission_title">Potrebna su dopuštenja</string>
   <string name="passport_resend_email_reach_limit_message">"Zatražili ste previše e-poruka za potvrdu. Uvjerite se da e-poruka za potvrdu nije u mapi neželjene pošte vaše pristigle pošte."</string>
   <string name="passport_resend_email_reach_limit_title">Previše pokušaja</string>
   <string name="passport_resend_ticket">Ponovo pošalji kod</string>
@@ -760,6 +767,7 @@
   <string name="passport_talkback_switch_image_captcha">Prebaci se na slikovni kontrolni kod</string>
   <string name="passport_talkback_switch_voice_captcha">Prebaci se na glasovni kontrolni kod</string>
   <string name="passport_talkback_voice_captcha">Reprodukcija koda za glasovnu potvrdu</string>
+  <string name="passport_third_sns_service_unavailable">"Usluga nije dostupna. Provjerite je li aplikacija instalirana i nije li blokirana."</string>
   <string name="passport_ticket_send_by_second">Pošalji za %d</string>
   <string name="passport_to_forget_password">Zaboravili ste zaporku?</string>
  <string name="passport_to_password_login">Prijavite se zaporkom</string>

@@ -678,6 +678,8 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="permission_about_storage_pad">Potrebno je dopuštenje za pristup pohrani uređaja</string>
   <string name="permission_alert_message_usage_access">Mi Mover mora pristupiti statistikama korištenja aplikacija. Dajte Mi Moveru potrebna dopuštenja u Postavkama.</string>
   <string name="permission_alert_title">Potrebno je dopuštenje</string>
+  <string name="permission_application_summary">Za prijenos instaliranih aplikacija</string>
+  <string name="permission_application_title">Pristup popisu aplikacija</string>
   <string name="permission_bluetooth_summary">Pronalaženje dostupnih uređaja u blizini</string>
   <string name="permission_bluetooth_title">Uključivanje i isključivanje Bluetootha</string>
   <string name="permission_calender_summary">Za prijenos događaja iz kalendara iz iClouda</string>
@@ -685,15 +687,30 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="permission_calender_title">Pristup događajima iz kalendara</string>
   <string name="permission_call_log_summary">Za prijenos povijesti poziva na vaš novi uređaj</string>
   <string name="permission_call_log_title">Pristup povijesti poziva</string>
+  <string name="permission_call_summary">Za prijenos povijesti poziva</string>
+  <string name="permission_call_title">Pristup povijesti poziva</string>
+  <string name="permission_contacts2_summary">Za prijenos kontakata</string>
+  <string name="permission_contacts2_title">Pristup kontaktima</string>
   <string name="permission_contacts_summary">Za prijenos kontakata na novi uređaj</string>
   <string name="permission_contacts_title">Pristup kontaktima</string>
+  <string name="permission_external_storage_summary">Za prijenos glazbe, audiozapisa, fotografija i videozapisa</string>
+  <string name="permission_external_storage_title">Pristup pohrani</string>
   <string name="permission_grant_request">Da bi mogao prenijeti ovu stavku, Mi Moveru treba dopuštenje \"%1$s\".</string>
   <string name="permission_locale_summary">Za povezivanje obližnjih uređaja</string>
   <string name="permission_locale_title">Pristup lokaciji</string>
   <string name="permission_location_content">"Dopustite Mi Moveru pristup vašoj lokaciji kako bi se mogao povezati s vašim starim uređajem. Ako ne dopustite pristup lokaciji, nećete moći prenijeti stavke."</string>
+  <string name="permission_location_summary_china">Za otkrivanje obližnjih Wi-Fi hotspota i povezivanje starih i novih uređaja</string>
+  <string name="permission_location_summary_gl">Za otkrivanje obližnjih Wi-Fi hotspota i povezivanje starih i novih uređaja</string>
+  <string name="permission_location_title">Pristup lokaciji</string>
   <string name="permission_message_summary">Za prijenos poruka na novi uređaj</string>
   <string name="permission_message_title">Pristup SMS sadržaju</string>
-  <string name="permission_request_title">\"%1$s\" dopuštenje je potrebno</string>
+  <string name="permission_mms_summary">Za prijenos tekstualnih i multimedijskih poruka</string>
+  <string name="permission_mms_title">Pristup SMS-ovima i MMS-ovima</string>
+  <string name="permission_music_summary">Za prijenos glazbenih i audio datoteka</string>
+  <string name="permission_music_title">Pristup glazbi i audiozapisima</string>
+  <string name="permission_picture_summary">Za prijenos fotografija i videozapisa</string>
+  <string name="permission_picture_title">Pristup fotografijama i videozapisima</string>
+  <string name="permission_request_title">\"%1$s\" treba dopuštenje</string>
   <string name="permission_setting_button">Postavke</string>
   <string name="permission_storage_summary">Za prijenos datoteka i fotografija na vaš novi uređaj</string>
   <string name="permission_storage_title">Pristup i spremanje datoteka i fotografija pohranjenih na vašem uređaju</string>
@@ -855,6 +872,8 @@ Oslobodite barem %s."</string>
   <string name="send_verification_code_fail_tips">Provjerite da ste prijavljeni s ovim računom na Vašem Apple uređaju, u protivnom nećete biti u mogućnosti primiti kod.</string>
   <string name="sender">Pošalji</string>
   <string name="sender_finish_bottom_tips">"Prije brisanja podataka na ovom uređaju provjerite jeste li napravili sigurnosnu kopiju svih važnih stavki."</string>
+  <string name="sender_finish_bottom_tips_pad"><Data>"Prije nego što <a href='%1s'>izbrišete podatke na ovom uređaju</a>, provjerite jeste li napravili sigurnosnu kopiju svih važnih stavki."</Data></string>
+  <string name="sender_finish_bottom_tips_phone"><Data>"Prije nego što <a href='%1s'>izbrišete podatke na ovom uređaju</a>, provjerite jeste li napravili sigurnosnu kopiju svih važnih stavki."</Data></string>
   <string name="sender_finish_title">Uspješno preneseno</string>
   <string name="sender_scanning_code">Postavite sliku u okvir</string>
   <string name="sender_scanning_connecting">Povezivanje s novim uređajem…</string>

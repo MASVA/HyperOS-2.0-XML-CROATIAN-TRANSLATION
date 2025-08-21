@@ -123,10 +123,6 @@
   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
   <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
-  <string name="miuix_progressbar_loading">Samo trenutak…</string>
-  <string name="miuix_show_password">Prikaži zaporku</string>
-  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
-  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>

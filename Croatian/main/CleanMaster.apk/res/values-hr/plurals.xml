@@ -67,6 +67,14 @@
         <item quantity="few">Prije %1$d dana</item>
         <item quantity="many">Prije %1$d dana</item>
     </plurals>
+	<plurals name="columbus_exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Premotavanje unaprijed %d sekundi</item>
+        <item quantity="other">Premotavanje unaprijed %d sekundi</item>
+   </plurals>
+   <plurals name="columbus_exo_controls_rewind_by_amount_description">
+       <item quantity="one">Premotavanje unatrag %d sekundi</item>
+       <item quantity="other">Premotavanje unatrag %d sekundi</item>
+    </plurals>
     <plurals name="dc_group_title_normal">
         <item quantity="other">Napravite %1$d koraka za oslobađanje %2$s</item>
         <item quantity="one">Napravite %1$d korak za oslobađanje %2$s</item>

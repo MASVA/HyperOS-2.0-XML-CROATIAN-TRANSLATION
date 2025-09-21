@@ -77,6 +77,7 @@
   <string name="app_unload">Deinstaliraj</string>
   <string name="app_usage_never">Nije korišteno</string>
   <string name="app_usage_recently">Nedavno korišteno</string>
+  <string name="app_version">Verzija aplikacije</string>
   <string name="appcleaner_g_audio_summary_qq">Trajno izbriši QQ glasovne poruke</string>
   <string name="appcleaner_g_audio_summary_wechat">Trajno izbriši WeChat glasovne poruke</string>
   <string name="appcleaner_g_audio_title_qq">Čistač QQ glasovnih poruka</string>
@@ -122,6 +123,7 @@
   <string name="appcleaner_wechat_scanning_cache">WeChat predmemorija</string>
   <string name="appcleaner_wechat_scanning_chat">Poslane datoteke</string>
   <string name="appcleaner_wechat_scanning_trash">Otpad</string>
+  <string name="application_info">Informacije o aplikaciji</string>
   <string name="apps_sort_type_item_size">Veličina</string>
   <string name="apps_sort_type_item_time">Često korišteno</string>
   <string name="apps_sort_type_title">Poredaj</string>
@@ -349,6 +351,10 @@
   <string name="dialog_title_load_cleanup_engine_error">Nešto nije u redu</string>
   <string name="dialog_title_stop_scan">Zaustavi skeniranje</string>
   <string name="dialog_title_uninstall_apps">Deinstaliraj</string>
+  <string name="disable">Onemogući</string>
+  <string name="div_slider_range_end">Kraj raspona</string>
+  <string name="div_slider_range_start">Početak raspona</string>
+  <string name="do_you_want_to_enable_logging">Želite li omogućiti zapisivanje?</string>
   <string name="download">Preuzmi</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="empty_content_no_ignore_image">Prazno</string>
@@ -363,6 +369,7 @@
   <string name="empty_title_photos">Nema pronađenih fotografija</string>
   <string name="empty_title_residual">Nema ostataka</string>
   <string name="empty_title_video">Nema videozapisa za brisanje</string>
+  <string name="enable">Omogući</string>
   <string name="engine_init">Pokretanje…</string>
   <string name="exo_download_completed">Preuzimanje dovršeno</string>
   <string name="exo_download_description">Preuzimanje</string>
@@ -388,6 +395,7 @@
   <string name="fallback_menu_item_copy_link">Kopiraj poveznicu</string>
   <string name="fallback_menu_item_open_in_browser">Otvori u pregledniku</string>
   <string name="fallback_menu_item_share_link">Podijelite poveznicu</string>
+  <string name="features">Značajke</string>
   <string name="file">Datoteka</string>
   <string name="file_not_found">Datoteka nije pronađena</string>
   <string name="flow_rank_title">Uporaba podataka</string>
@@ -398,6 +406,7 @@
   <string name="garbage_clean_detail">Detalji</string>
   <string name="garbage_month">Očišćeno %s ovaj mjesec</string>
   <string name="gigabyteShort">GB</string>
+  <string name="global_summary_wa_setting">Primajte obavijesti kada smeće u WhatsAppu premaši odabranu veličinu</string>
   <string name="global_wa_audio">Audio</string>
   <string name="global_wa_audio_item_title">Glasovne poruke</string>
   <string name="global_wa_backend_alert_dialog_content">Oslobodite prostor brisanjem WhatsApp stavki</string>
@@ -546,6 +555,8 @@
   <string name="load_only_under_wlan">Učitaj vijesti kada je povezano na Wi-Fi</string>
   <string name="location_not_found">"Ne mogu pronaći datoteku"</string>
   <string name="lock_device_toast">Ovaj uređaj je zaključan. Otključajte ga za korištenje programa Čistač.</string>
+  <string name="logging_is_disabled">Zapisivanje je onemogućeno</string>
+  <string name="logging_is_enabled">Zapisivanje je omogućeno</string>
   <string name="login_immediately">Prijavite se</string>
   <string name="long_click_dialog_summary">Dugi pritisak za dodavanje u iznimke.</string>
   <string name="long_click_dialog_title">Obavijest</string>
@@ -663,10 +674,14 @@
   <string name="native_media_view">Prikaz medija</string>
   <string name="nb_clear_set">Očisti predmemoriju, prikaži bateriju i listu blokiranih u panelu obavijesti</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
+  <string name="never_remind">Nikad</string>
   <string name="next_step">Dalje</string>
   <string name="news_change">Promijeni</string>
+  <string name="no">Ne</string>
   <string name="no_network">"Ne mogu se povezati na mrežu, pokušajte ponovno kasnije"</string>
   <string name="no_network_btn">Pokušajte ponovno</string>
+  <string name="no_value_set">Nije postavljena vrijednost</string>
+  <string name="not_integrated">Nije integrirano</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_selected_tips">Prvo odaberite aplikacije.</string>
   <string name="notification_apk_clean_button_text">Očisti</string>
@@ -754,7 +769,8 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="open_app">Otvori</string>
   <string name="open_browser">Otvori u pregledniku</string>
   <string name="open_file_error">"Ne mogu pronaći aplikaciju koja otvara ovu datoteku"</string>
-  <string name="optimizecenter_data_support_cm">Omogućava Čistać</string>
+  <string name="out">Preko %s</string>
+  <string name="optimizecenter_data_support_cm">Omogućava Čistač</string>
   <string name="output_videos">Izvoz videozapisa</string>
   <string name="other_file">Ostale stavke</string>
   <string name="other_file_compression">Ostale stavke</string>
@@ -785,10 +801,12 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="pref_category_title_cleanup_white_list">Iznimke</string>
   <string name="pref_category_title_engine_settings">Skeniraj postavke definicija</string>
   <string name="pref_category_title_garbage_cleanup_check">Obavijesti</string>
+  <string name="pref_category_title_notification_settings">Obavijesti</string>
   <string name="pref_category_title_other_clean_settings">Dodatne postavke</string>
   <string name="pref_content_cleanup_white_list_none">Ništa</string>
   <string name="pref_summary_auto_clean_and_alert">Zakažite automatsko pokretanje Čistača</string>
   <string name="pref_summary_auto_update_cleanup_db">Zadnje ažuriranje %s</string>
+  <string name="pref_summary_clean_settings">Primajte obavijesti kada smeće prijeđe odabranu veličinu</string>
   <string name="pref_summary_cleanup_white_list">Spriječi čišćenje odabranih datoteka</string>
   <string name="pref_summary_expand_cache_group">Prikaži pojedinosti predmemorije automatski</string>
   <string name="pref_summary_garbage_auto_clean_content">Odaberite stavke koje se čiste automatski</string>
@@ -796,6 +814,8 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="pref_summary_garbage_cleanup_check_time">Zakaži rutinsko čišćenje</string>
   <string name="pref_summary_garbage_process_mode">Postavi obavijest za čistač kada je pokrenut</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Pošaljite i usporedite nepoznate nazive datoteka s online definicijama</string>
+  <string name="pref_summary_reminder_interval">Primi samo jednu obavijest unutar odabranog vremena</string>
+  <string name="pref_summary_wechat_clean_settings">Primi obavijesti kada smeće u WeChatu prijeđe odabranu veličinu</string>
   <string name="pref_title_apps_cleanup_size">​Kada dosegne veličinu predmemorije</string>
   <string name="pref_title_auto_clean_content_choose">Odaberi stavke za čišćenje</string>
   <string name="pref_title_auto_update_cleanup_db">Automatski ažuriraj</string>
@@ -827,20 +847,9 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="privacy_search_desc">Povijest pretraživanja</string>
   <string name="privacy_search_type">Google pretraživanje</string>
   <string name="promotion">Reklama</string>
-  <string name="qq_cache_files">QQ predmemorija</string>
-  <string name="qq_clean">QQ čistač</string>
-  <string name="qq_clean_exit_confirm_msg">Zaustaviti skeniranje i izaći?</string>
-  <string name="qq_clean_finish_summary">Odabrane datoteke uspješno izbrisane</string>
-  <string name="qq_data_type_cache">QQ predmemorija</string>
-  <string name="qq_data_type_cache_desc">"Te ćete datoteke moći vratiti nakon što se povežete s internetom."</string>
-  <string name="qq_data_type_chat">Povijest razgovora</string>
-  <string name="qq_data_type_chat_desc">"Nećete moći vratiti povijest razgovora."</string>
-  <string name="qq_data_type_normal">Smeće</string>
-  <string name="qq_data_type_normal_clean_tips">"To su tehničke datoteke. Njihovo brisanje neće utjecati na vašu upotrebu."</string>
-  <string name="qq_data_type_normal_desc">"Njihovo brisanje neće utjecati na vašu upotrebu."</string>
-  <string name="qq_data_type_other">Ostalo</string>
-  <string name="qq_data_type_other_desc">Budite pažljivi, možda nećete moći obnoviti te datoteke nakon što ih izbrišete.</string>
+  <string name="provided">Osigurano</string>
   <string name="recommend_news">Preporučeni izvori</string>
+  <string name="reminder_interval">Interval podsjetnika</string>
   <string name="recommend_the_following">Izvršite sljedeće radnje da bi dobili najviše iz vašeg uređaja</string>
   <string name="recommended">Istaknuto</string>
   <string name="repeated_file_compression">Komprimiranje dupliciranih datoteka</string>
@@ -904,6 +913,8 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="system">Sustav</string>
+  <string name="tcf_consent">Privola za TCF</string>
   <string name="terabyteShort">TB</string>
   <string name="there_is_no">Sve izgleda dobro, vratite se kasnije</string>
   <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
@@ -1042,7 +1053,7 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="tt_feedback_submit_text">"Poslali ste povratne informacije! Nemojte ih ponovno slati."</string>
   <string name="tt_feedback_thank_text">Hvala na povratnim informacijama!</string>
   <string name="tt_frequent_call_erroe">Zahtjevi za oglase su prečesti</string>
-  <string name="tt_full_screen_skip_tx">Preskoči</string>
+  <string name="tt_full_screen_skip_tx">Preskoči za 5 sek.</string>
   <string name="tt_get_reward">Osvojite nagradu</string>
   <string name="tt_init_setting_config_not_complete">Inicijalizacija postavki nije dovršena</string>
   <string name="tt_insert_ad_load_image_error">Učitavanje međuprostornog oglasa nije uspjelo</string>
@@ -1136,6 +1147,7 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="unit_mb">%s MB</string>
   <string name="unlike">Ne hvala</string>
   <string name="update_date_format">dd.MM.yyyy</string>
+  <string name="user_privacy">Privatnost korisnika</string>
   <string name="updating_tips">Samo trenutak…</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>

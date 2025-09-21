@@ -13,11 +13,13 @@
         <item>Za prijenos datoteka koristeći Bluetooth i Wi-Fi</item>
         <item>Za pronalaženje dostupnih uređaja u blizini pomoću Bluetootha</item>
         <item>Za pronalaženje dostupnih uređaja u blizini i prijenos datoteka putem Wi-Fi mreže</item>
+		  <item>Za provjeru jesu li aplikacije instalirane kako bi se otvorile nakon primanja podataka</item>
     </string-array>
     <string-array name="permissions_desc_v12_china">
         <item>Za slanje i primanje datoteka</item>
         <item>Za prijenos datoteka koristeći Bluetooth i Wi-Fi</item>
         <item>Za pronalaženje dostupnih uređaja u blizini pomoću Bluetootha</item>
         <item>Za pronalaženje dostupnih uređaja u blizini i prijenos datoteka putem Wi-Fi mreže</item>
+		  <item>Za provjeru jesu li aplikacije instalirane kako bi se otvorile nakon primanja podataka</item>
     </string-array>
 </resources>

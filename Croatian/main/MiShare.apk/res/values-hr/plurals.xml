@@ -344,4 +344,64 @@
         <item quantity="other">Uspješno poslano %2$d slika na %1$s</item>
         <item quantity="one">Uspješno poslana %2$d slika na %1$s</item>
     </plurals>
+	<plurals name="tapshare_activity_send_describe_contact">
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="other">%1$d kontakata</item>
+    </plurals>
+    <plurals name="tapshare_describe_contact">
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="other">%1$d kontakata</item>
+    </plurals>
+    <plurals name="tapshare_describe_link">
+        <item quantity="one">%1$d poveznica</item>
+        <item quantity="other">%1$d poveznica</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_contact">
+        <item quantity="one">Primanje %1$d kontakta</item>
+        <item quantity="other">Primanje %1$d kontakata</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_link">
+        <item quantity="one">Primanje %1$d poveznice</item>
+        <item quantity="other">Primanje %1$d poveznica</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_contact">
+        <item quantity="one">Primanje %1$d kontakta</item>
+        <item quantity="other">Primanje %1$d kontakata</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_link">
+        <item quantity="one">Primanje %1$d poveznice</item>
+        <item quantity="other">Primanje %1$d poveznica</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_contact">
+        <item quantity="one">Slanje %1$d kontakta</item>
+        <item quantity="other">Slanje %1$d kontakata</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_file">
+        <item quantity="one">Slanje %1$d file</item>
+        <item quantity="other">Slanje %1$d files</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_image">
+        <item quantity="one">Slanje %1$d fotografije</item>
+        <item quantity="other">Slanje %1$d fotografija</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_link">
+        <item quantity="one">Slanje %1$d poveznice</item>
+        <item quantity="other">Slanje %1$d poveznica</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_live_image">
+        <item quantity="one">Slanje %1$d dinamične snimke</item>
+        <item quantity="other">Slanje %1$d dinamičnih snimaka</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_video">
+        <item quantity="one">Slanje %1$d videozapisa</item>
+        <item quantity="other">Slanje %1$d videozapisa</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_contact">
+        <item quantity="one">Slanje %1$d kontakta</item>
+        <item quantity="other">Slanje %1$d kontakata</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_link">
+        <item quantity="one">Slanje %1$d poveznice</item>
+        <item quantity="other">Slanje %1$d poveznica</item>
+		</plurals>
 </resources>

@@ -52,9 +52,29 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Upravo sada</item>
     </plurals>
+	<plurals name="mark_doodle_max_node">
+        <item quantity="one">Možete dodati do %d naljepnica</item>
+        <item quantity="other">Možete dodati %d naljepnicu</item>
+    </plurals>
+    <plurals name="mark_shape_max_node">
+        <item quantity="one">Dodajte do %d oblika</item>
+        <item quantity="other">Dodajte %d oblik</item>
+    </plurals>
+    <plurals name="mark_signature_max_node">
+        <item quantity="one">Možete dodati do %d potpisa</item>
+        <item quantity="other">Možete dodati %d potpis</item>
+    </plurals>
+    <plurals name="mark_text_max_node">
+        <item quantity="one">Možete dodati do %d tekstualnih okvira</item>
+        <item quantity="other">Možete dodati %d tekstualni okvir</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+	<plurals name="miuix_indexer_selected">
+        <item quantity="one">Odabrano %1$d stavki</item>
+        <item quantity="other">Odabrana %1$d stavka</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>
@@ -204,10 +224,18 @@
         <item quantity="other">Blokirano %d slika s nepodržanim omjerom slike</item>
         <item quantity="one">Blokirana %d slika s nepodržanim omjerom slike</item>
      </plurals>
+	 <plurals name="filter_images_ratio_unsupport_v2">
+        <item quantity="one">Filtrirano %d nepodržanih stavki</item>
+        <item quantity="other">Filtrirana %d nepodržana stavka</item>
+    </plurals>
      <plurals name="filter_images_unsupport">
         <item quantity="other">Blokirano %d nepodržanih slika</item>
         <item quantity="one">Blokirana %d nepodržana slika</item>
      </plurals>
+	 <plurals name="filter_images_unsupport_v2">
+        <item quantity="one">Filtrirano %d nepodržanih stavki</item>
+        <item quantity="other">Filtrirana %d nepodržana stavka</item>
+    </plurals>
      <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novih obavijesti</item>
         <item quantity="one">%d nova obavijest</item>

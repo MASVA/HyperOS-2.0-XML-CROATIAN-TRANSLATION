@@ -336,7 +336,6 @@
   <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
   <string name="dock_and_folder_not_edit_icon_tip">Za uređivanje prvo premjestite aplikaciju iz docka i mape</string>
   <string name="dock_not_edit_icon_tip">Za uređivanje najprije premjestite aplikaciju iz docka</string>
-  <string name="double_tap_to_lock_title">Dvaput dodirnite da Zaklj. zaslon</string>
   <string name="download_action">Preuzmi</string>
   <string name="drag_icon_to_homescreen_guide">Dodirnite i držite ikonu aplikacije, a zatim je povucite da dodate prečac na početni zaslon</string>
   <string name="drawer_background">Pozadina</string>
@@ -447,6 +446,7 @@
   <string name="gadget_weather_theme_type">Vrsta naprave</string>
   <string name="gadget_weather_time_format">dd.MM.yyyy</string>
   <string name="gadget_weather_title">Vrijeme</string>
+  <string name="gesture_tap_lock">Dvaput dodirnite za zaključavanje zaslona</string>
   <string name="gadget_weather_title_14">Vrijeme</string>
   <string name="gadget_weather_title_24">Vrijeme</string>
   <string name="global_search">Traži</string>
@@ -849,6 +849,7 @@ Poboljšana sigurnost."</string>
   <string name="ota_layout_adjustment_content">Raspored unutarnjeg i vanjskog Početnog zaslona sinkroniziran je u novoj verziji.</string>
   <string name="ota_layout_adjustment_title">Izgled Početnog zaslona</string>
   <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>
+  <string name="pa_need_download_talkback">"\"%s\" još nije preuzet"</string>
   <string name="pair_icon_name">%1$s | %2$s</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="perfect_icons_switch_summary">Prikaži animacije ikona aplikacija treće strane</string>

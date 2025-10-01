@@ -433,13 +433,17 @@
         <item quantity="other">Unesite %s znamenki</item>
         <item quantity="one">Unesite %s znamenku</item>
      </plurals>
+	 <plurals name="overuse_device_summary">
+        <item quantity="one">Korištenje uređaja dulje od %d minuta može uzrokovati naprezanje očiju.</item>
+        <item quantity="other">Korištenje uređaja dulje od %d minute može uzrokovati naprezanje očiju.</item>
+    </plurals>
      <plurals name="overuse_pad_summary">
-        <item quantity="other">Korištenje uređaja dulje od %d minuta odjednom može uzrokovati naprezanje očiju.</item>
-        <item quantity="one">Korištenje uređaja dulje od %d minute odjednom može uzrokovati naprezanje očiju.</item>
+        <item quantity="other">Korištenje uređaja dulje od %d minuta može uzrokovati naprezanje očiju.</item>
+        <item quantity="one">Korištenje uređaja dulje od %d minute može uzrokovati naprezanje očiju.</item>
      </plurals>
      <plurals name="overuse_phone_summary">
-        <item quantity="other">Korištenje uređaja dulje od %d minuta odjednom može uzrokovati naprezanje očiju.</item>
-        <item quantity="one">Korištenje uređaja dulje od %d minute odjednom može uzrokovati naprezanje očiju.</item>
+        <item quantity="other">Korištenje uređaja dulje od %d minuta može uzrokovati naprezanje očiju.</item>
+        <item quantity="one">Korištenje uređaja dulje od %d minute može uzrokovati naprezanje očiju.</item>
      </plurals>
      <plurals name="today_correct_eyes_statistics">
         <item quantity="other">Ispravili ste nezdrave navike %d puta danas</item>

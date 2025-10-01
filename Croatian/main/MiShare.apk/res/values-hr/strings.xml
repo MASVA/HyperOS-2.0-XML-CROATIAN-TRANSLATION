@@ -442,8 +442,6 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="tap_share_preparing_file">Priprema datoteka</string>
   <string name="tap_share_send_this_wifi">Dijeli ovu Wi-Fi mrežu</string>
   <string name="tap_share_send_this_wlan">Dijeli ovu Wi-Fi mrežu</string>
-  <string name="tap_share_send_this_wlan">Dijeli ovu Wi-Fi mrežu</string>
-  <string name="tap_share_send_this_wlan">Dodirnite stražnje strane dva uređaja zajedno za dijeljenje stavki</string>
   <string name="tap_share_tips_title">Dodirnite stražnje strane dva uređaja zajedno za dijeljenje stavki</string>
   <string name="tap_share_title">Dodirnite za dijeljenje</string>
   <string name="tap_share_wifi_cannot_share">"Ne mogu dijeliti ovu mrežu"</string>

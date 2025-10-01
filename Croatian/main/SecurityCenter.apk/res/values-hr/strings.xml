@@ -10,7 +10,7 @@
   <string name="HIPS_Perm_External_READ_FILES_Desc">Pristup datotekama i dokumentima pohranjenim na ovom uređaju</string>
   <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Pristup audio datotekama</string>
   <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Pristup pjesmama i drugim audio datotekama pohranjenim na ovom uređaju</string>
-  <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Pristup i spremanje slika, video i audio datoteka u unutarnju pohranu</string>
+  <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Pristup i spremanje slika, videozapisa i audio datoteka u unutarnju pohranu</string>
   <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Pristup fotografijama i videozapisima</string>
   <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Pristup fotografijama i videozapisima pohranjenim na ovom uređaju</string>
   <string name="HIPS_Perm_External_Storage">Pristup stavkama i spremnje u pohranu</string>
@@ -694,10 +694,10 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_manager_uninstall">Deinstaliraj</string>
   <string name="app_manager_uninstall_button_text">Deinstaliraj</string>
   <string name="app_manager_uninstall_notify_title">Deinstalirajte rijetko korištene aplikacije</string>
-  <string name="app_manager_uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke HyperOS komponente da rade ispravno. Deinstalirati svejedno?</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke komponente da rade ispravno. Deinstalirati svejedno?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Deinstaliranje aplikacija sustava</string>
-  <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
-  <string name="app_manager_uninstall_xspace_app_dlg_msg">Deinstaliranje dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
+  <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Dvojna aplikacija bit će deinstalirana zajedno s ovom.</string>
+  <string name="app_manager_uninstall_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije bit će deinstalirane zajedno s podacima aplikacije.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Deinstalirati dvojnu aplikaciju?</string>
   <string name="app_manager_unstall_application">Deinstaliraj</string>
   <string name="app_manager_update">Ažuriraj</string>
@@ -1365,6 +1365,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bubble_notification">Oblačići razgovora</string>
   <string name="bubble_notification_switch">Prikaži oblačiće razgovora</string>
   <string name="bubble_notification_switch_desc">Kada je aplikacija za messenger u plutajućem prozoru skrivena na rubu zaslona, prikaži dolazne poruke u oblačićima</string>
+  <string name="bubble_pickup_voice_print_auto">Snimanje glasovnog otiska…</string>
   <string name="button_background_connection">Dopusti</string>
   <string name="button_block_calls_from_cantacts">Odblokiraj</string>
   <string name="button_block_calls_from_strangers">Odblokiraj</string>
@@ -1372,6 +1373,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="button_do_not_disturb">Isključi</string>
   <string name="button_eye_shield">Isključi</string>
   <string name="button_first_aid_kit">Popravi</string>
+  <string name="button_pickup_voice_print_auto_agree">Snimi</string>
+  <string name="button_pickup_voice_print_auto_disagree">Ne sada</string>
   <string name="button_look_up">Dodirni za prikaz</string>
   <string name="button_restrict_data_usage">Dopusti</string>
   <string name="button_text_accept">Dopusti</string>
@@ -1679,7 +1682,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cpu_usage_view_action_btn_text">Dodirni za prikaz</string>
   <string name="create_gamebooster_destop">Prečac Početnog zaslona uspješno napravljen</string>
   <string name="create_shortcut">Izradi prečac Početnog zaslona za Game Turbo</string>
-  <string name="cs_close_vt_camera_first_tips">"Ne mogu koristiti ovu značajku dok koristite kameru na različitim uređajima"</string>
+  <string name="cs_camera_bubble">Otkrivena je dostupna kamera. Dodirnite za promjenu.</string>
+  <string name="cs_close_vt_camera_first_tips">"Ne možete koristiti ovu značajku dok koristite kameru na različitim uređajima"</string>
   <string name="cs_color_sense">Toplina boje</string>
   <string name="cs_conversation_record_using">Snimanje</string>
   <string name="cs_func_toast_bluetooth_headset">Odspojite Bluetooth slušalice da biste mogli koristiti ovu značajku</string>
@@ -1715,6 +1719,9 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cs_pickup_vioce_print_guide_dialog_title">Da biste uhvatili zvuk samo od jedne osobe, prvo snimite njen glasovni otisak.</string>
   <string name="cs_pickup_vioce_print_unsupport_tips">Snimi glasovni otisak prije odabira \"Jedan sudionik\"</string>
   <string name="cs_pickup_vioce_print_unsupport_toast">Odspojite vanjske uređaje i pokušajte ponovo</string>
+  <string name="cs_pickup_voice_print_auto_dialog_tips">"Vaš će glas biti snimljen i obrađen samo na ovom uređaju.
+Za najbolje rezultate snimajte sami na tihom mjestu."</string>
+  <string name="cs_pickup_voice_print_auto_dialog_title">Za personalizirano smanjenje buke potreban je glasovni otisak</string>
   <string name="cs_pickup_voice_print_desc">Primite zvuk samo od jedne osobe</string>
   <string name="cs_privacy_camera_global_settings_title">Privatnost poziva</string>
   <string name="cs_screen_translation_title">Prijevod zaslona</string>
@@ -2668,6 +2675,7 @@ volonter"</string>
 Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine sličica u igri i trećih strana možda neće točno otkriti brzinu sličica u sekundi. Za stvarni broj sličica u sekundi pogledajte nadzornu ploču."</string>
   <string name="game_toolbox_display_style_desc">Prilagodite vizualni stil (podržava HDR igre)</string>
   <string name="game_toolbox_display_style_game_hdr">HDR igre</string>
+  <string name="game_toolbox_display_style_not_hdr_des">Možete se prebacivati ​​između različitih vizualnih stilova</string>
   <string name="game_toolbox_display_style_title">Vizualni stil</string>
   <string name="game_toolbox_fps_average">Prosječno %d FPS</string>
   <string name="game_toolbox_fps_realtime">%d FPS u stvarnom vremenu</string>
@@ -4419,6 +4427,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="open_extreme_power_save_mode_title">Uključi Ekstremnu štednju baterije</string>
   <string name="open_game">Otvori</string>
   <string name="open_now">Dopusti aplikacijama korištenje mobilnih podataka</string>
+  <string name="open_physical_sim_self_detection_noti_centent">Vaša roaming veza možda ne radi ispravno</string>
+  <string name="open_physical_sim_self_detection_noti_title">Pokušajte dijagnostiku roaming mreže</string>
+  <string name="open_shut_down_password">Uključi</string>
   <string name="open_wlan_title">Dopusti ovoj aplikaciji da uključi i isključi Wi-Fi</string>
   <string name="operator_diagnostic">Dijagnostika operatera</string>
   <string name="operator_location_settings">Postavite operatera i lokaciju</string>
@@ -4762,6 +4773,8 @@ Način otpornosti na hladnoću"</string>
   <string name="pc_smart_charge_notify_summary_high_temp_protect">Kako bi zaštitili vaš uređaj od pregrijavanja, punjenje će se zaustaviti kada razina baterije dosegne %1$s</string>
   <string name="pc_smart_charge_notify_summary_navagition">Navigacija… Punjenje će se zaustaviti kada razina baterije dosegne %1$s</string>
   <string name="pc_smart_charge_notify_summary_night_charge">Punjenje će prestati na %s</string>
+  <string name="pc_smart_charge_notify_summary_night_pause_charge">Punjenje pauzirano na %1$s. Nastavit će se na %2$s.</string>
+  <string name="pc_smart_charge_notify_summary_night_start_charge">Punjenje će se pauzirati kada baterija dosegne %1$s i automatski nastaviti na temelju vaše upotrebe</string>
   <string name="pc_smart_charge_pogo_project_dialog_content">"Za produljenje trajanja baterije, baterija ovog uređaja neće prijeći trenutnu razinu dok je povezan s automobilom."</string>
   <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Ne prikazuj više"</string>
   <string name="pc_smart_charge_pogo_project_dialog_title">Zaštita baterije</string>
@@ -4781,7 +4794,8 @@ Način otpornosti na hladnoću"</string>
   <string name="pc_suggest_open_fast_charge">Uključi %dW brzo punjenje</string>
   <string name="pc_temperature_too_high">Uređaj je pregrijan</string>
   <string name="pc_this_time_charge_full">Ovaj put potpuno napunite</string>
-  <string name="pc_this_time_charge_full_work">Skoro potpuno napunjen</string>
+  <string name="pc_this_time_charge_full_now">Napuni do kraja</string>
+  <string name="pc_this_time_charge_full_work">Skoro potpuno napunjeno</string>
   <string name="pc_timely_charging_summary">Baterija je ispod %1$s. Ako se uređaj pregrije dok je baterija slaba, to može oštetiti bateriju.</string>
   <string name="pc_timely_charging_title">Napunite svoj uređaj</string>
   <string name="pc_to_phone_install">Blokirana instalacija (%s) putem USB-a</string>
@@ -5679,7 +5693,7 @@ Isklj. maks.: %2$s</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatno: %2$s</string>
   <string name="pref_package_traffic_settings">Podatkovni plan</string>
   <string name="pref_pkg_begin_date">Datum resetiranja uporabe</string>
-  <string name="pref_physical_sim_self_detection_cat_title">Obnova mreže</string>
+  <string name="pref_physical_sim_self_detection_cat_title">Testirajte mrežu</string>
   <string name="pref_open_adjust_traffic">"Ažuriraj uporabu podataka svakodnevno koristeći statistiku svog mobilnog operatera"</string>
   <string name="pref_operator_not_set">"Operater nije postavljen"</string>
   <string name="pref_over_traffic_limit">Kada premašite plan podataka</string>
@@ -5703,7 +5717,7 @@ Isklj. maks.: %2$s</string>
   <string name="pref_title_manual_check_virus_db_update">Provjeri za ažuriranja</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke korištenja dok je uređaj bio zaključan</string>
   <string name="pref_title_network_diagnostics">Testiranje mreže</string>
-  <string name="pref_title_physical_sim_self_detection">Provjera fizičke SIM kartice</string>
+  <string name="pref_title_physical_sim_self_detection">Dijagnostika roaming mreže</string>
   <string name="pref_title_over_traffic_limit_warning">Kada je premašeno</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_package_type">Vrsta plana podataka</string>
@@ -7720,10 +7734,14 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="uninstall_app_dialog_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_app_dialog_title">Deinstalirati sada?</string>
   <string name="uninstall_app_done">Uspješno deinstalirano</string>
+  <string name="uninstall_app_reminder_msg">"Razumijem da se izbrisani podaci aplikacije ne mogu vratiti"</string>
+  <string name="uninstall_app_reminder_pre_title">Deinstaliraj %s</string>
+  <string name="uninstall_app_reminder_toast">"Potvrđujem da razumijem da se izbrisani podaci aplikacije ne mogu vratiti"</string>
   <string name="uninstall_danagerous_btn">Deinstaliraj</string>
   <string name="uninstall_danagerous_desc">\"%s\" može vaš oštetiti uređaj</string>
   <string name="uninstall_danagerous_msg">\"%s\" može vaš oštetiti uređaj, smanjiti njegovu učinkovitost ili uzrokovati ponovno pokretanje.</string>
   <string name="uninstall_danagerous_title">Deinstaliraj zlonamjerne aplikacije</string>
+  <string name="uninstall_xspace_app_reminder_pre_title">"Deinstaliraj dvostruku aplikaciju korisnika %s"</string>
   <string name="unknown_operator">"Možete nazvati %2$s da potvrdite pojedinosti svog plana s %1$s."</string>
   <string name="unknown_package">Niste sigurni koji je vaš plan?</string>
   <string name="unlike">Ne hvala</string>
@@ -8065,6 +8083,7 @@ Imajte na umu da sustav ne može otkriti sve prometne nesreće."</string>
   <string name="warningcenter_mijia_alert_tips_2">Otkriven je dim</string>
   <string name="warningcenter_mijia_alert_tips_3">Otkrivena je poplava</string>
   <string name="warningcenter_mijia_alert_tips_4">Vaša brava je oštećena</string>
+  <string name="warningcenter_mijia_alert_tips_5">Otkriveno upozorenje na kontakt s vodom. Provjerite odmah.</string>
   <string name="warningcenter_mijia_alert_view_device">Pogledaj uređaj</string>
   <string name="warningcenter_mijia_devices_1">Detektor poplave</string>
   <string name="warningcenter_mijia_devices_2">Detektor dima</string>
@@ -8136,6 +8155,12 @@ Imajte na umu da sustav ne može otkriti sve prometne nesreće."</string>
   <string name="wireless_charging_saver_cancel">Isključi</string>
   <string name="wireless_charging_saver_message">Štednja baterije je sada uključena. Zadržati dostupnim obrnuto bežično punjenje?</string>
   <string name="wireless_charging_saver_ok">Zadrži</string>
+  <string name="wireless_high_temp_notification_warning_title">Bežično punjenje zaustavljeno zbog pregrijavanja</string>
+  <string name="wireless_high_temp_warning_dialog_ok">Razumijem</string>
+  <string name="wireless_high_temp_warning_text">Bežično punjenje nastavit će se nakon što se uređaj ohladi</string>
+  <string name="wireless_high_temp_warning_title">Bežično punjenje zaustavljeno</string>
+  <string name="wireless_hottemp_warning_button_ok">Razumijem</string>
+  <string name="wireless_hottemp_warning_message">Vaš uređaj se pregrijao. Bežično punjenje je zaustavljeno i automatski će se nastaviti nakon što se uređaj ohladi.</string>
   <string name="wl_no_whitelist">Nema iznimaka.</string>
   <string name="wlan_booster">Wi-Fi optimizacija</string>
   <string name="wlan_change_protection_detail">"Ne mijenjaj automatski na Wi-Fi kada je povezano na mobilnu mrežu"</string>

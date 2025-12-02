@@ -405,8 +405,6 @@ Vaši uređaji?"</string>
  <string name="circulate_more_setting">Dodatne postavke</string>
  <string name="circulate_network_button_help">Prikaži pomoć</string>
  <string name="circulate_network_cancel">Odustani</string>
- <string name="circulate_network_button_help">Prikaži pomoć</string>
- <string name="circulate_network_cancel">Odustani</string>
  <string name="circulate_network_connect_failed_default_message">Provjerite jesu li vaš telefon i uređaj koji želite povezati prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
  <string name="circulate_network_connect_failed_message_Mac">Provjerite jesu li vaš telefon i Mac prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
  <string name="circulate_network_connect_failed_message_PC">Provjerite jesu li vaš telefon i računalo prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>

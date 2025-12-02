@@ -84,6 +84,7 @@
   <string name="app_not_found_dlg_title">Aplikacija nije pronađena</string>
   <string name="app_safe_check_tip">Metoda provjere za instalaciju aplikacija s otkrivenim rizicima:</string>
   <string name="app_store_has_safe_version">Preuzmite sigurnu verziju s GetApps</string>
+  <string name="app_uninstall_ensure">Deinstaliraj</string>
   <string name="app_version_format">Verzija: %1$s</string>
   <string name="archive">Arhiva</string>
   <string name="archive_application_text">Vaši će osobni podaci biti spremljeni</string>
@@ -311,15 +312,17 @@
   <string name="get_the_app_through_mi_app_store">Preuzmite sigurne verzije s GetApps</string>
   <string name="give_up">Odustani</string>
   <string name="gold_mi_prize">Zlatna Mi Award</string>
+  <string name="high_risk_dialog_hint_title">Pažnja</string>
+  <string name="high_risk_dialog_network_error_msg">Vaša trenutna mreža je nestabilna. Kako biste izbjegli potencijalne rizike od ove aplikacije, prije instaliranja se povežite s internetom.</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="ignore_virus_install_text">Razumijem sve moguće rizike. %1$s</string>
   <string name="ignore_virus_install_text_clickable">Svejedno instaliraj</string>
   <string name="input_pattern_hint_text">Nacrtajte svoj uzorak za otključavanje</string>
   <string name="input_text_count_limit_talkback">%1$s %2$s</string>
   <string name="install">Instaliraj</string>
-  <string name="install_abi_error">"Ova aplikacija nije kompatibilna s 32-bitnom arhitekturom"</string>
-  <string name="install_abi_error_des">Umjesto toga instalirajte 32-bitnu verziju ove aplikacije</string>
-  <string name="install_abi_error_des_market">Preuzmite 32-bitnu verziju ove aplikacije s GetApps</string>
+  <string name="install_abi_error">"Ova aplikacija koristi %1$d-bitnu arhitekturu i nije kompatibilna s %1$d-bitnom arhitekturom."</string>
+  <string name="install_abi_error_des">Instalirajte %1$d-bitnu verziju ove aplikacije.</string>
+  <string name="install_abi_error_des_market">Preuzmite %1$d-bitnu verziju ove aplikacije iz pouzdanog izvora.</string>
   <string name="install_app_loading">Provjera instalacijskog paketa…</string>
   <string name="install_apps_user_restriction_dlg_text">Ovom korisniku nije dopušteno instaliranje aplikacija</string>
   <string name="install_completed_pure_open_tip_title">Uključite Mi Protect kako biste blokirali rizične aplikacije i osigurali svoju sigurnost.</string>
@@ -344,12 +347,15 @@
   <string name="install_hint_enhanced_mode_hint_desc">"Poboljšana zaštita je uključena. Ova je aplikacija zamijenjena verzijom koja je prošla naše sigurnosne testove. Ako i dalje želite instalirati ovu verziju, dodirnite \"︙\" i odaberite \"Dopusti jednom\" . "</string>
   <string name="install_hint_enhanced_mode_hint_desc_clickable">Saznajte više</string>
   <string name="install_hint_high_risk_install_prohibited_description">"Nije moguće instalirati ovu aplikaciju zbog višestrukih sigurnosnih rizika. "</string>
+  <string name="install_hint_network_error_msg">Otkriveni su rizici. Spojite se na internet i pokušajte ponovno.</string>
+  <string name="install_hint_network_error_prohibit_installing_msg">"Ne mogu instalirati ovu aplikaciju zbog više sigurnosnih rizika"</string>
   <string name="install_hint_not_checked_hint">"Ovu aplikaciju nije testirao Xiaomi. Instalirajte verziju koju nudi GetApps. "</string>
   <string name="install_hint_risk_detail">Detalji</string>
   <string name="install_hint_risk_found">Otkriveni rizici</string>
   <string name="install_hint_risk_found_description">"Instaliranje ove aplikacije može predstavljati sigurnosne rizike. "</string>
   <string name="install_hint_risk_unregistered">"Razvojni programer nije dostavio popis ove aplikacije regulatornim tijelima. Može sadržavati viruse, pristupiti vašim osobnim podacima i predstavljati druge sigurnosne probleme. Ako ste već dostavili popis ove aplikacije regulatornim tijelima kao programer, možete podnijeti žalbu Pošalji sada"</string>
   <string name="install_hint_risk_unregistered_clickable">Pošalji sada</string>
+  <string name="install_hint_title">Pažnja</string>
   <string name="install_package_description">>>Pojedinosti o instalacijskom paketu</string>
   <string name="install_package_error">"Ova aplikacija nije kompatibilna s vašim sustavom"</string>
   <string name="install_package_error_des">Kontaktirajte razvojnog programera ili instalirajte kompatibilnu verziju iz pouzdanog izvora.</string>
@@ -373,9 +379,7 @@
   <string name="item_view_role_description">Kartica</string>
   <string name="label">Oznaka</string>
   <string name="launch">Otvori</string>
-  <string name="learn_bundle_app_install">Saznajte više</string>
   <string name="learn_bundle_install">Saznajte više</string>
-  <string name="learn_enhance_safe_guard">Saznajte više</string>
   <string name="let_me_think_again">Nastavi</string>
   <string name="learn_more">Saznajte više</string>
   <string name="lock_finger">Potvrdite otisak prsta za instalaciju</string>
@@ -587,7 +591,7 @@
   <string name="negative_number_talkback">Negativno %1$d</string>
   <string name="mtrl_timepicker_cancel">Odustani</string>
   <string name="mtrl_timepicker_confirm">U redu</string>
-  <string name="net_work_error_msg">"Ne mogu se povezati s mrežom radi izvođenja sigurnosne provjere"</string>
+  <string name="net_work_error_msg">"Došlo je do mrežne pogreške. Nije moguće provjeriti ovu aplikaciju."</string>
   <string name="net_work_error_retry">Pokušaj ponovno</string>
   <string name="new_unregistered_dialog_comment">"Ako ste kao razvojni programer nadležnim tijelima poslali tražene informacije, možete %1$s."</string>
   <string name="new_unregistered_dialog_comment_clickable">podnesite žalbu</string>
@@ -608,7 +612,6 @@
   <string name="only_get_app_for_mi_store_sub">Ova je aplikacija prošla naše stroge sigurnosne provjere</string>
   <string name="open">Uključi</string>
   <string name="open_and_exit">Uključi</string>
-  <string name="open_enhanced_protection">Uključite poboljšanu zaštitu</string>
   <string name="">Uključi</string>
   <string name="open_app_install_safe_check">Provjerite aplikacije prije instalacije</string>
   <string name="open_app_install_safe_des">Provjerite moguće rizike i sigurnosne probleme u aplikacijama prije instalacije</string>
@@ -621,7 +624,6 @@
   <string name="open_to_pure_mode">Uključi</string>
   <string name="parse_error_dlg_text_miui">Došlo je do problema prilikom parsiranja paketa. (%1$s)</string>
   <string name="pasport_register_dialog_message">Želite li sada kreirati Xiaomi račun putem svog telefonskog broja %s?</string>
-  <string name="passed_security_test">Prošao Xiaomi sigurnosne testove</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_crop_user_avatar">Obreži fotografiju</string>
   <string name="passport_account_empty_user_name">Unesite svoje ime</string>
@@ -1123,7 +1125,7 @@ dolaze"</string>
   <string name="tango_dialog_content">Uključite način rada kompatibilnosti aplikacija da biste mogli instalirati %1$d-bitne aplikacije.</string>
   <string name="tango_dialog_title">Način kompatibilnosti aplikacije</string>
   <string name="text_input_layout_default_error">Ovo je zadana pogreška</string>
-  <string name="thirty_days_no_asking">"Nemoj više pitati 30 dana"</string>
+  <string name="thirty_days_no_asking">"Ne podsjećaj ponovno %1$d dana"</string>
   <string name="this_installation">Instaliraj</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
@@ -1230,7 +1232,7 @@ dolaze"</string>
   <string name="update">Ažuriraj</string>
   <string name="update_anyway">Ažuriraj svejedno</string>
   <string name="update_start">Ažuriraj</string>
-  <string name="uri_no_permission">Nije moguće pročitati datoteku, dopuštenje je odbijeno</string>
+  <string name="uri_no_permission">"Nedostaju dopuštenja. Nije moguće pristupiti datoteci."</string>
   <string name="user_is_not_allowed_dlg_text">Trenutačni korisnik nema dopuštenje za to deinstaliranje.</string>
   <string name="user_is_not_allowed_dlg_title">Nije dopušteno</string>
   <string name="using_enhanced_protection">"Zaštitite svoj uređaj pomoću značajke

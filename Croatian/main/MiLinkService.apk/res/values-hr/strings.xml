@@ -405,6 +405,8 @@ Vaši uređaji?"</string>
  <string name="circulate_more_setting">Dodatne postavke</string>
  <string name="circulate_network_button_help">Prikaži pomoć</string>
  <string name="circulate_network_cancel">Odustani</string>
+ <string name="circulate_network_button_help">Prikaži pomoć</string>
+ <string name="circulate_network_cancel">Odustani</string>
  <string name="circulate_network_connect_failed_default_message">Provjerite jesu li vaš telefon i uređaj koji želite povezati prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
  <string name="circulate_network_connect_failed_message_Mac">Provjerite jesu li vaš telefon i Mac prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
  <string name="circulate_network_connect_failed_message_PC">Provjerite jesu li vaš telefon i računalo prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
@@ -413,11 +415,11 @@ Vaši uređaji?"</string>
  <string name="circulate_network_connect_failed_pad_default_message">Provjerite jesu li vaš tablet i uređaj koji želite povezati prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
  <string name="circulate_network_connect_failed_pad_message_Mac">Provjerite jesu li vaš tablet i Mac prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
  <string name="circulate_network_connect_failed_pad_message_PC">Provjerite jesu li vaš tablet i računalo prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
- <string name="circulate_network_connect_failed_pad_message_iPad">Provjerite jesu li vaš tablet i iPad prijavljeni na isti račun i povezani na istu mrežu ili prikaz pomoći.</string>
- <string name="circulate_network_connect_failed_pad_message_iPhone">Provjerite jesu li vaš tablet i iPhone prijavljeni na isti račun i povezani na istu mrežu ili prikaz pomoći.</string>
+ <string name="circulate_network_connect_failed_pad_message_iPad">Provjerite jesu li vaš tablet i iPad prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
+ <string name="circulate_network_connect_failed_pad_message_iPhone">Provjerite jesu li vaš tablet i iPhone prijavljeni na isti račun i povezani na istu mrežu ili pogledajte pomoć.</string>
  <string name="circulate_network_connect_failed_pad_message_unsupport_pad">"Veza s tabletima nije podržana"</string>
- <string name="circulate_network_connect_failed_pad_pc_not_supported">"Ovaj uređaj nije podržan. Provjerite ispunjava li model vašeg uređaja ili verzija sustava zahtjeve. Također možete prikazati pomoć."</string>
- <string name="circulate_network_connect_failed_title">"Povezivanje nije uspjelo"</string>
+ <string name="circulate_network_connect_failed_pad_pc_not_supported">"Ovaj uređaj nije podržan. Provjerite ispunjava li model vašeg uređaja ili verzija sustava zahtjeve. Također možete pogledati pomoć."</string>
+ <string name="circulate_network_connect_failed_title">"Nije moguće povezivanje"</string>
  <string name="circulate_network_connect_success_title">Povezano putem QR koda</string>
  <string name="circulate_network_connecting_message">Držite telefon otključanim s uključenim zaslonom.</string>
  <string name="circulate_network_connecting_message_pad">Držite tablet otključanim s uključenim zaslonom.</string>

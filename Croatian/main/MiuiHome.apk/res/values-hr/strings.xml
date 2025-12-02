@@ -1126,12 +1126,14 @@ Poboljšana sigurnost."</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="wallpaper">Slika pozadine</string>
+  <string name="wallpaper_zoom_title">Efekti zumiranja pozadine</string>
   <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>
   <string name="wallpaper_failed_message">"Ne mogu postaviti sliku pozadine"</string>
   <string name="wallpaper_scaling_message">Skaliranje na fiksnu veličinu</string>
   <string name="wallpaper_scroll_type_tips">Pomicanje slika pozadine</string>
   <string name="wallpaper_settings">Slika pozadine</string>
   <string name="wallpaper_success_message">Uspješno postavljeno</string>
+  <string name="wallpaper_zoom_title">Efekti zumiranja pozadine</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>

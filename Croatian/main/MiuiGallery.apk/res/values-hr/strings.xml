@@ -92,7 +92,7 @@
   <string name="add_automatically_alert_title">Dodaj fotografije automatski</string>
   <string name="add_nomedia_with_move_to_rubbish">Dodaj \".nomedia\" datoteke u odabrane albume kako bi ih učinili nevidljivim ostalim aplikacijama</string>
   <string name="add_remove_nomedia_dialog_message">"Dodati \".nomedia\" datoteke u odabrane albume? Ostale aplikacije neće moći vidjeti ove albume nakon ovoga."</string>
-  <string name="add_secret_ensure_message_new">Da biste pregledali stavke koje ste učinili privatnima, povucite prema dolje u \"Albumi\".</string>
+  <string name="add_secret_ensure_message_new">Za pregled stavki koje ste učinili privatnima, povvucite prstom prema dolje u \"Albumi\" dok se ne prikaže odgovarajući upit.</string>
   <string name="add_secret_ensure_title">Privatni album</string>
   <string name="add_sharer">Dodaj člana</string>
   <string name="add_to_album">Dodaj u album</string>
@@ -812,8 +812,8 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="confirm">U redu</string>
   <string name="confirm_activate_email">Potvrđeno</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima problema s Google Play uslugama. Pokušajte ponovno.</string>
-  <string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
-  <string name="confirm_cancel_task_images">Otkazati slanje slika na %1$s?</string>
+  <string name="confirm_cancel_task_files">Otkazati slanje datoteka?</string>
+  <string name="confirm_cancel_task_images">Otkazati slanje slika?</string>
   <string name="confirm_delete_selected_albums">Izbrisati odabrane albume?</string>
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je Wi-Fi dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
@@ -2217,6 +2217,8 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="other_album_operation_move_to_rubbish_albums">Premjesti u suvišne albume</string>
   <string name="other_album_operation_remove_from_other_albums">Ukloni iz suvišnih albuma</string>
   <string name="other_settings">Dodatne postavke</string>
+  <string name="other_three_group_name">%1$s, %2$s, i %3$s</string>
+  <string name="other_two_group_name">%1$s, %2$s, i %3$s drugih osoba</string>
   <string name="owner_album_subtitle">Podijeljeno s %1$s osoba</string>
   <string name="pad_device_model_name">Xiaomi Pad</string>
   <string name="passport_access_denied">Pristup odbijen</string>
@@ -2593,10 +2595,10 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="photodetail_failed_already_exist">Ova datoteka već postoji</string>
   <string name="photodetail_rename_failed">"Nije moguće preimenovati"</string>
   <string name="photodetail_rename_invalid">"Nazivi datoteka ne mogu sadržavati ove znakove: /\\:*?&lt;&gt;|.\""</string>
-  <string name="photodetail_rename_invalid_prefix">"Nazivi datoteka ne mogu počinjati s \".\""</string>
+  <string name="photodetail_rename_invalid_prefix">"Nazivi ne mogu započeti s \"%1$s\""</string>
   <string name="photodetail_rename_success">Uspješno preimenovano</string>
   <string name="photodetail_rename_title">Preimenuj</string>
-  <string name="photodetail_rename_too_long">Naziv datoteke koji ste unijeli je predug</string>
+  <string name="photodetail_rename_too_long">Naziv datoteke koji ste unijeli je predugačak</string>
   <string name="pic_to_pdf_a4_format">A4 papir</string>
   <string name="pic_to_pdf_all_not_support">"Odabrane slike nije moguće spremiti kao PDF"</string>
   <string name="pic_to_pdf_exit_notice">"Ovaj PDF neće biti spremljen ako sada izađete. Izaći svejedno?"</string>

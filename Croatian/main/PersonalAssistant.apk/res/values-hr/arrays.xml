@@ -29,4 +29,8 @@
         <item>Crvena - gore, zelena - dolje</item>
         <item>Zelena - gore, crvena - dolje</item>
     </string-array>
+	<string-array name="passport_account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
 </resources>

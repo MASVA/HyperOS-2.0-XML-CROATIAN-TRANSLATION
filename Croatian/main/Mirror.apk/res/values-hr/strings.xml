@@ -89,6 +89,9 @@
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="default_boss_terminal_name">Xiaomi računalo</string>
   <string name="default_error_msg">Nepoznata pogreška</string>
+  <string name="desktop_setting_not_open_tips_dialog_btn">Razumijem</string>
+  <string name="desktop_setting_not_open_tips_dialog_content">Otvorite Postavke > Međusobna povezanost da biste uključili Home screen+.</string>
+  <string name="desktop_setting_not_open_tips_dialog_title">Uključi Početni zaslon+</string>
   <string name="desktop_switch_is_closed">Home screen+ je isključen</string>
   <string name="device_busy">Uređaj je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="device_max_screen_count_toast">Ovaj uređaj podržava otvaranje samo dva prozora u isto vrijeme</string>
@@ -496,7 +499,13 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="screen_permission_notification_title">"%s želi koristiti zaslon ovog uređaja"</string>
   <string name="screen_permission_pad_dialog_btn">Razumijem</string>
   <string name="screen_permission_pad_dialog_title">Odobrite dopuštenja na drugom uređaju</string>
+  <string name="screen_permission_pad_dialog_title_os2_global">Dodijelite dopuštenja za vaš %s</string>
+  <string name="screen_permission_pad_dialog_title_os3">Dodijelite dopuštenja za vaš %s</string>
+  <string name="screen_permission_pad_dialog_title_os3_global">Dodijelite dopuštenja za vaš %s</string>
   <string name="screen_permission_pad_tips_denied">Otvorite Postavke &gt; Međusobno povezivanje &gt; Međusobno povezivanje i dopuštenja na %s kako biste drugim uređajima omogućili pregled sadržaja zaslona i interakciju s njim.</string>
+  <string name="screen_permission_pad_tips_denied_os2_global">"U Postavkama vašeg %s uređaja idite na Međusobna povezanost > Međusobna povezanost i dopuštenja te odobrite dopuštenja za zaslon kako biste mogli koristiti ovu značajku."</string>
+  <string name="screen_permission_pad_tips_denied_os3">"U Postavkama vašeg %s uređaja idite na Privatnost i sigurnost > Međusobna povezanost i dopuštenja te odobrite dopuštenja za zaslon kako biste mogli koristiti ovu značajku."</string>
+  <string name="screen_permission_pad_tips_denied_os3_global">"U aplikaciji Sigurnost vašeg %s uređaja idite na Međusobna povezanost > Međusobna povezanost i dopuštenja te odobrite dopuštenja za kameru kako biste mogli koristiti ovu značajku."</string>
   <string name="screen_permission_pad_tips_prompt">Odobrite dopuštenja za %s</string>
   <string name="screen_permission_phone_dialog_cancel_btn">Odustani</string>
   <string name="screen_permission_phone_dialog_setting_btn">Postavke</string>

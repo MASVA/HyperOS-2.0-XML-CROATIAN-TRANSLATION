@@ -80,8 +80,4 @@
         <item quantity="other">%1$d stavki ukupno</item>
         <item quantity="one">%1$d stavki ukupno</item>
     </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">Odabrano: %1$d</item>
-        <item quantity="one">Odabrana %1$d stavka</item>
-    </plurals>
 </resources>

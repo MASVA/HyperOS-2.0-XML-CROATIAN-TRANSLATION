@@ -519,6 +519,8 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="permission_qualcomm_describe_summary">Za dinamičko dodjeljivanje resursa sustava različitim aplikacijama i organiziranje njihovih radnih procesa</string>
   <string name="permission_quality_describe_summary">Za prikupljanje informacija o padovima aplikacija</string>
   <string name="permission_read_app_list">Pristup popisu aplikacija instaliranih na ovom uređaju</string>
+  <string name="permission_read_apps">Pristup popisu aplikacija instaliranih na ovom uređaju</string>
+  <string name="permission_read_apps_introduction">Za statistiku pristupa mreži i korištenja podataka;</string>
   <string name="permission_read_application_list_summary">Za upravljanje instaliranim aplikacijama i instalacijskim paketima</string>
   <string name="permission_read_call_records">Uređivanje povijesti poziva</string>
   <string name="permission_read_call_records_introduction">Za dodavanje stavki povijesti poziva i brisanje blokiranih poziva</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_abort">Natrag</string>
+	 <string name="action_continue">Nastavi</string>
     <string name="action_bar_label">Prijava na mrežu</string>
     <string name="action_bar_title">Prijavite se na %1$s</string>
     <string name="action_do_not_use_network">Ne upotrebljavaj ovu mrežu</string>

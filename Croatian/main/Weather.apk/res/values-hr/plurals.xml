@@ -124,6 +124,10 @@
         <item quantity="one">odabrana %d stavka</item>
         <item quantity="few">odabrano %d stavki</item>
     </plurals>
+	     <plurals name="miuix_indexer_selected">
+        <item quantity="one">Odabrana %1$d stavka</item>
+        <item quantity="other">Odabrano %1$d stavki</item>
+     </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s osoba| </item>
         <item quantity="one">%1$s osoba| </item>

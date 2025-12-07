@@ -8,6 +8,10 @@
         <item quantity="other">%1$d datoteka</item>
         <item quantity="one">%1$d datoteka</item>
     </plurals>
+	 <plurals name="ime_countDown_timer">
+        <item quantity="one">Promjeni (%ds)</item>
+        <item quantity="other">Promjeni (%ds)</item>
+     </plurals>
 	 <plurals name="tethered_notification_multi_device_message">
         <item quantity="other">Povezano je %1$s uređaja. Vaš bi se uređaj mogao zagrijati i trošiti više energije.</item>
         <item quantity="one">Povezan je %1$s uređaj. Vaš bi se uređaj mogao zagrijati i trošiti više energije.</item>

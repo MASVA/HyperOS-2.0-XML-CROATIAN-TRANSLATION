@@ -34,6 +34,10 @@
   <string name="abrupt_weather_settings_summary_type_a">Promjena vremenskih upozorenja</string>
   <string name="abrupt_weather_settings_summary_type_b">Promjena vremenskih upozorenja</string>
   <string name="abrupt_weather_settings_title">Neobična vremenska upozorenja</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string> 
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string> 
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string> 
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="act_find_city_hint">Unesite grad</string>
   <string name="act_find_city_hot_attractions_title">Popularni gradovi</string>
   <string name="act_find_city_hot_city_title">Popularni gradovi</string>
@@ -339,6 +343,11 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
   <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_accessibility_title">Naslov</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
+  <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -357,6 +366,10 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
+  <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -585,6 +598,7 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
   <string name="temperature_unit_C">%1$s℃</string>
   <string name="temperature_unit_F">%1$s℉</string>
   <string name="temperature_unit_default">0</string>
+  <string name="thanku_for_feedback">Hvala na povratnim informacijama, video o vremenu možete ponovno otvoriti na stranici s postavkama</string>
   <string name="third_party_data_sharing_instructions">Izjava o dijeljenju podataka s trećim stranama</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>

@@ -289,6 +289,11 @@
   <string name="input_method_tab_phrase_text">Česti izrazi</string>
   <string name="internal_livetalk_enable">Koristite nadoplatu paketa za domaće pozive</string>
   <string name="international_livetalk_enable">Koristite nadoplatu paketa za međunarodne pozive</string>
+  <string name="ime_countDown_no">Odbij</string>
+  <string name="ime_countDown_tip">Nakon promjene načina unosa, može se koristiti samo na internom zaslonu, a način unosa na vanjskom zaslonu neće se promijeniti. Nakon promjene, doći će do nedosljednog iskustva unosa u biblioteci riječi za interne i vanjske načine unosa. Želite li nastaviti s promjenom?</string>
+  <string name="ime_countDown_title">Savjet</string>
+  <string name="ime_countDown_yes">Prihvati</string>
+  <string name="ime_rotation_tip">Trenutni kut ne podržava unos, molimo vas da ga rotirate za korištenje</string>
   <string name="kb_reset_toast">Tipkovnica uspješno poništena</string>
   <string name="key_btn_ok">U redu</string>
   <string name="key_btn_space">Razmak</string>
@@ -715,6 +720,7 @@ biste koristili prednju kameru</string>
   <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen i drugi</string>
   <string name="wallpaper_group_natural_texture_title">Uzorci prirode</string>
   <string name="wallpaper_group_petros_koublis_title">Sanjarenja</string>
+  <string name="wallpaper_group_pets_title">Ljubimci</string>
   <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Sveučilište Arizone</string>
   <string name="wallpaper_group_red_mars_title">Mars</string>
   <string name="wallpaper_group_sgn_mountain_title">Planina Siguniang</string>

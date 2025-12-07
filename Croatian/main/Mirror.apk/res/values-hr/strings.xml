@@ -213,6 +213,17 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="low_battery_notification_title">Slaba baterija</string>
   <string name="low_version_dialog_message">Ažurirajte MIUI+ na računalu ili preuzmite najnoviju verziju s plus.miui.com.</string>
   <string name="low_version_dialog_title">Ažurirajte MIUI+</string>
+  <string name="mac_btn_disconnect">Prekini vezu</string>
+  <string name="mac_key_alt">Pritisnite i držite za dodjeljivanje tipke Option. Dvaput dodirnite za zaključavanje ove tipke.</string>
+  <string name="mac_key_cmd">Pritisnite i držite za dodjeljivanje tipke Command. Dvaput dodirnite za zaključavanje ove tipke.</string>
+  <string name="mac_key_ctrl">Pritisnite i držite za dodjeljivanje tipke Control. Dvaput dodirnite za zaključavanje ove tipke.</string>
+  <string name="mac_key_shift">Pritisnite i držite za dodjeljivanje tipke Shift. Dvaput dodirnite za zaključavanje ove tipke.</string>
+  <string name="mac_show_dock">Prikaži Dock</string>
+  <string name="mac_show_menu_bar">Prikaži traku izbornika</string>
+  <string name="mac_sink_loading_timeout_tips">"Provjerite jesu li vaše računalo i tablet unutar dometa veze i imaju li uključen Wi-Fi. Za nastavak ponovno odaberite uređaj na računalu."</string>
+  <string name="mac_soft_keyboard">Tipkovnica na zaslonu</string>
+  <string name="mac_title_disconnect">Prekinuti vezu sada?</string>
+  <string name="mac_undo">Poništi</string>
   <string name="message_log">Zapisi poruka</string>
   <string name="mi_drop">Xiaomi Share</string>
   <string name="mirror_call_closed">Na ovaj poziv je odgovoreno na drugom uređaju</string>
@@ -437,6 +448,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="pc_cooperate_guide_task">Prikaži zadatke</string>
   <string name="pc_cooperate_guide_undo">Poništi (Ctrl+Z)</string>
   <string name="pc_low_version_toast">Ažurirajte softver na svom računalu</string>
+  <string name="pc_extension_or_mirror_title">Zrcaljenje i proširenje zaslona</string>
   <string name="pc_settings_current_device_tip">Automatsko povezivanje s računalom s otvorenim MIUI+ i prijavljenim na isti Xiaomi račun</string>
   <string name="pcmode_not_support_multi_window">"Način rada s računalom ne podržava prikazivanje više prozora."</string>
   <string name="phone_connect_with_car_toast">Telefon je povezan s vozilom</string>

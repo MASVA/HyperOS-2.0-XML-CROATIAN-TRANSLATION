@@ -121,6 +121,7 @@ Pokušajte ponovno."</string>
   <string name="attach_video">Videozapisi</string>
   <string name="attach_video_call">Video poziv</string>
   <string name="attachment_panel_show_part">Stranica %1$d</string>
+  <string name="attachment_panel_show_part_new">Stranica %1$d od %2$d</string>
   <string name="audio_download_failed">"Ne mogu preuzeti zvuk"</string>
   <string name="audio_message_expired">Ova glasovna poruka je istekla.</string>
   <string name="audio_message_mx_offline">"Ne mogu preuzeti zvuk. Mi poruka je offline ili nije dostupna."</string>
@@ -227,6 +228,7 @@ Pokušajte ponovno."</string>
   <string name="chip_text">Tekst isječka</string>
   <string name="class_0_message_activity">Poruka klase 0</string>
   <string name="classifing">Grupiranje poruka…</string>
+  <string name="clear_recipient">Izbriši</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_update">Dodirnite za provjeru ažuriranja</string>

@@ -39,6 +39,9 @@
   <string name="ai_dialog_text">"Sažetak obavijesti AI pruža pametne sažetke ključnih informacija iz obavijesti. Xiaomi mora pristupiti sadržaju obavijesti i obraditi ga kako bi pružio ovu značajku, ali Xiaomi neće pohranjivati ​​te informacije."</string>
   <string name="ai_dialog_title">Dopusti pristup obavijestima</string>
   <string name="ai_enhanced_summary">Primajte pametne sažetke obavijesti i poruka</string>
+  <string name="ai_enhanced_summary_pad">"Primajte sažetke najvažnijih informacija o obavijestima"</string>
+  <string name="ai_notification_illustrate_text_pad">"Primajte pametne sažetke za obavijesti prikazane na popisu za pregled radi lakšeg snalaženja.
+Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaomi, ali te podatke nećemo pohranjivati."</string>
   <string name="ai_enhanced_title">AI Informacije</string>
   <string name="ai_internal_test_negative_text">"Ne prihvaćam"</string>
   <string name="ai_internal_test_positive_text">Prihvaćam</string>
@@ -138,6 +141,8 @@ Xiaomi će obraditi sadržaj obavijesti i poruka (uključujući sve privatne pod
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Završi način rada za uređivanje</string>
   <string name="miuix_appcompat_accessibility_new_message">Nova poruka</string>
   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Pokreni način rada za uređivanje</string>
@@ -169,6 +174,8 @@ Xiaomi će obraditi sadržaj obavijesti i poruka (uključujući sve privatne pod
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>

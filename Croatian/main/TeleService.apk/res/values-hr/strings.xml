@@ -1340,6 +1340,8 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="enter_callbarring_password">Unesite zaporku zabrane poziva (%d brojeva)</string>
   <string name="enter_esim_manager">Upravljanje eSIM-om</string>
   <string name="enter_esim_manager_title">Upravljanje eSIM-om</string>
+  <string name="enter_esim_service_support_summary">Pogledajte popis podržanih operatera</string>
+  <string name="enter_esim_service_support_title">Podržani operateri</string>
   <string name="enter_input">USSD poruka mora imati između %1$d i %2$d znakova. Molimo pokušajte ponovo.</string>
   <string name="enter_mep_esim_manager_title">Upravljaj SIM-om</string>
   <string name="enter_pin2_text">PIN2</string>
@@ -1952,7 +1954,8 @@ Uvijek koristi ovaj broj"</string>
   <string name="miui_notification_network_selection_title">SIM: nema usluge</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: nema usluge</string>
   <string name="miuix_access_state_desc">Odabrano</string>
-  <string name="miuix_appcompat_accessibility_collapse_state">Sažet</string>
+  <string name="miuix_accessibility_title">Naslov</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
   <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
   <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
@@ -2984,6 +2987,8 @@ UT sučelje: %5$s"</string>
    &lt;br&gt; – RTT nije dostupan za videopozive"</string>
   <string name="rtt_mode_summary">Omogućavanje slanja poruka u glasovnom pozivu</string>
   <string name="rtt_mode_title">RTT (tekst u stvarnom vremenu) poziv</string>
+  <string name="rtt_settings_summary">Tekst u stvarnom vremenu (RTT) omogućuje vam korištenje teksta za komunikaciju tijekom telefonskog poziva</string>
+  <string name="rtt_settings_title">RTT pozivi</string>
   <string name="ruim_unlock_failed">RUIM UIM zahtjev otključavanja neuspješan.</string>
   <string name="ruim_unlock_success">RUIM UIM otključavanje bilo je uspješno.</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
